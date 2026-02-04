@@ -1,0 +1,3071 @@
+departamento_id,departamento_nombre,provincia_id,provincia_nombre,anio,semanas_epidemiologicas,evento_nombre,grupo_edad_id,grupo_edad_desc,cantidad_casos
+999,desconocido,99,desconocida,2025,10,Dengue,2,Posneonato (29 hasta 365 días),1
+999,desconocido,99,desconocida,2025,12,Dengue,2,Posneonato (29 hasta 365 días),1
+999,desconocido,99,desconocida,2025,16,Dengue,2,Posneonato (29 hasta 365 días),2
+999,desconocido,99,desconocida,2025,18,Dengue,2,Posneonato (29 hasta 365 días),1
+999,desconocido,99,desconocida,2025,20,Dengue,2,Posneonato (29 hasta 365 días),1
+999,desconocido,99,desconocida,2025,21,Dengue,2,Posneonato (29 hasta 365 días),3
+999,desconocido,99,desconocida,2025,22,Dengue,2,Posneonato (29 hasta 365 días),3
+999,desconocido,99,desconocida,2025,18,Dengue,3,De 13 a 24 meses,1
+999,desconocido,99,desconocida,2025,19,Dengue,3,De 13 a 24 meses,1
+999,desconocido,99,desconocida,2025,20,Dengue,3,De 13 a 24 meses,1
+999,desconocido,99,desconocida,2025,21,Dengue,3,De 13 a 24 meses,2
+999,desconocido,99,desconocida,2025,22,Dengue,3,De 13 a 24 meses,4
+999,desconocido,99,desconocida,2025,9,Dengue,4,De 2 a 4 años,1
+999,desconocido,99,desconocida,2025,11,Dengue,4,De 2 a 4 años,1
+999,desconocido,99,desconocida,2025,13,Dengue,4,De 2 a 4 años,1
+999,desconocido,99,desconocida,2025,14,Dengue,4,De 2 a 4 años,1
+999,desconocido,99,desconocida,2025,16,Dengue,4,De 2 a 4 años,1
+999,desconocido,99,desconocida,2025,17,Dengue,4,De 2 a 4 años,1
+999,desconocido,99,desconocida,2025,18,Dengue,4,De 2 a 4 años,1
+999,desconocido,99,desconocida,2025,6,Dengue,5,De 5 a 9 años,1
+999,desconocido,99,desconocida,2025,8,Dengue,5,De 5 a 9 años,2
+999,desconocido,99,desconocida,2025,9,Dengue,5,De 5 a 9 años,4
+999,desconocido,99,desconocida,2025,10,Dengue,5,De 5 a 9 años,4
+999,desconocido,99,desconocida,2025,11,Dengue,5,De 5 a 9 años,11
+999,desconocido,99,desconocida,2025,12,Dengue,5,De 5 a 9 años,8
+999,desconocido,99,desconocida,2025,13,Dengue,5,De 5 a 9 años,5
+999,desconocido,99,desconocida,2025,14,Dengue,5,De 5 a 9 años,5
+999,desconocido,99,desconocida,2025,15,Dengue,5,De 5 a 9 años,3
+999,desconocido,99,desconocida,2025,16,Dengue,5,De 5 a 9 años,1
+999,desconocido,99,desconocida,2025,17,Dengue,5,De 5 a 9 años,1
+999,desconocido,99,desconocida,2025,18,Dengue,5,De 5 a 9 años,2
+999,desconocido,99,desconocida,2025,1,Dengue,6,De 10 a 14 años,1
+999,desconocido,99,desconocida,2025,2,Dengue,6,De 10 a 14 años,1
+999,desconocido,99,desconocida,2025,6,Dengue,6,De 10 a 14 años,1
+999,desconocido,99,desconocida,2025,7,Dengue,6,De 10 a 14 años,2
+999,desconocido,99,desconocida,2025,8,Dengue,6,De 10 a 14 años,5
+999,desconocido,99,desconocida,2025,9,Dengue,6,De 10 a 14 años,9
+999,desconocido,99,desconocida,2025,10,Dengue,6,De 10 a 14 años,7
+999,desconocido,99,desconocida,2025,11,Dengue,6,De 10 a 14 años,15
+999,desconocido,99,desconocida,2025,12,Dengue,6,De 10 a 14 años,12
+999,desconocido,99,desconocida,2025,13,Dengue,6,De 10 a 14 años,14
+999,desconocido,99,desconocida,2025,14,Dengue,6,De 10 a 14 años,7
+999,desconocido,99,desconocida,2025,15,Dengue,6,De 10 a 14 años,8
+999,desconocido,99,desconocida,2025,16,Dengue,6,De 10 a 14 años,3
+999,desconocido,99,desconocida,2025,17,Dengue,6,De 10 a 14 años,1
+999,desconocido,99,desconocida,2025,18,Dengue,6,De 10 a 14 años,2
+999,desconocido,99,desconocida,2025,19,Dengue,6,De 10 a 14 años,1
+999,desconocido,99,desconocida,2025,20,Dengue,6,De 10 a 14 años,2
+999,desconocido,99,desconocida,2025,2,Dengue,7,De 15 a 19 años,1
+999,desconocido,99,desconocida,2025,6,Dengue,7,De 15 a 19 años,2
+999,desconocido,99,desconocida,2025,7,Dengue,7,De 15 a 19 años,2
+999,desconocido,99,desconocida,2025,8,Dengue,7,De 15 a 19 años,5
+999,desconocido,99,desconocida,2025,9,Dengue,7,De 15 a 19 años,6
+999,desconocido,99,desconocida,2025,10,Dengue,7,De 15 a 19 años,12
+999,desconocido,99,desconocida,2025,11,Dengue,7,De 15 a 19 años,18
+999,desconocido,99,desconocida,2025,12,Dengue,7,De 15 a 19 años,17
+999,desconocido,99,desconocida,2025,13,Dengue,7,De 15 a 19 años,7
+999,desconocido,99,desconocida,2025,14,Dengue,7,De 15 a 19 años,13
+999,desconocido,99,desconocida,2025,15,Dengue,7,De 15 a 19 años,7
+999,desconocido,99,desconocida,2025,16,Dengue,7,De 15 a 19 años,3
+999,desconocido,99,desconocida,2025,17,Dengue,7,De 15 a 19 años,4
+999,desconocido,99,desconocida,2025,18,Dengue,7,De 15 a 19 años,3
+999,desconocido,99,desconocida,2025,19,Dengue,7,De 15 a 19 años,1
+999,desconocido,99,desconocida,2025,6,Dengue,8,De 20 a 24 años,1
+999,desconocido,99,desconocida,2025,7,Dengue,8,De 20 a 24 años,2
+999,desconocido,99,desconocida,2025,8,Dengue,8,De 20 a 24 años,2
+999,desconocido,99,desconocida,2025,9,Dengue,8,De 20 a 24 años,3
+999,desconocido,99,desconocida,2025,10,Dengue,8,De 20 a 24 años,8
+999,desconocido,99,desconocida,2025,11,Dengue,8,De 20 a 24 años,10
+999,desconocido,99,desconocida,2025,12,Dengue,8,De 20 a 24 años,9
+999,desconocido,99,desconocida,2025,13,Dengue,8,De 20 a 24 años,13
+999,desconocido,99,desconocida,2025,14,Dengue,8,De 20 a 24 años,7
+999,desconocido,99,desconocida,2025,15,Dengue,8,De 20 a 24 años,5
+999,desconocido,99,desconocida,2025,16,Dengue,8,De 20 a 24 años,3
+999,desconocido,99,desconocida,2025,17,Dengue,8,De 20 a 24 años,2
+999,desconocido,99,desconocida,2025,19,Dengue,8,De 20 a 24 años,1
+999,desconocido,99,desconocida,2025,4,Dengue,9,De 25 a 34 años,1
+999,desconocido,99,desconocida,2025,5,Dengue,9,De 25 a 34 años,1
+999,desconocido,99,desconocida,2025,7,Dengue,9,De 25 a 34 años,2
+999,desconocido,99,desconocida,2025,8,Dengue,9,De 25 a 34 años,6
+999,desconocido,99,desconocida,2025,9,Dengue,9,De 25 a 34 años,5
+999,desconocido,99,desconocida,2025,10,Dengue,9,De 25 a 34 años,12
+999,desconocido,99,desconocida,2025,11,Dengue,9,De 25 a 34 años,20
+999,desconocido,99,desconocida,2025,12,Dengue,9,De 25 a 34 años,11
+999,desconocido,99,desconocida,2025,13,Dengue,9,De 25 a 34 años,13
+999,desconocido,99,desconocida,2025,14,Dengue,9,De 25 a 34 años,14
+999,desconocido,99,desconocida,2025,15,Dengue,9,De 25 a 34 años,5
+999,desconocido,99,desconocida,2025,16,Dengue,9,De 25 a 34 años,5
+999,desconocido,99,desconocida,2025,17,Dengue,9,De 25 a 34 años,3
+999,desconocido,99,desconocida,2025,18,Dengue,9,De 25 a 34 años,2
+999,desconocido,99,desconocida,2025,19,Dengue,9,De 25 a 34 años,4
+999,desconocido,99,desconocida,2025,20,Dengue,9,De 25 a 34 años,1
+999,desconocido,99,desconocida,2025,22,Dengue,9,De 25 a 34 años,1
+999,desconocido,99,desconocida,2025,6,Dengue,10,De 35 a 44 años,1
+999,desconocido,99,desconocida,2025,7,Dengue,10,De 35 a 44 años,2
+999,desconocido,99,desconocida,2025,8,Dengue,10,De 35 a 44 años,6
+999,desconocido,99,desconocida,2025,9,Dengue,10,De 35 a 44 años,7
+999,desconocido,99,desconocida,2025,10,Dengue,10,De 35 a 44 años,9
+999,desconocido,99,desconocida,2025,11,Dengue,10,De 35 a 44 años,7
+999,desconocido,99,desconocida,2025,12,Dengue,10,De 35 a 44 años,10
+999,desconocido,99,desconocida,2025,13,Dengue,10,De 35 a 44 años,8
+999,desconocido,99,desconocida,2025,14,Dengue,10,De 35 a 44 años,11
+999,desconocido,99,desconocida,2025,15,Dengue,10,De 35 a 44 años,7
+999,desconocido,99,desconocida,2025,16,Dengue,10,De 35 a 44 años,3
+999,desconocido,99,desconocida,2025,17,Dengue,10,De 35 a 44 años,4
+999,desconocido,99,desconocida,2025,18,Dengue,10,De 35 a 44 años,1
+999,desconocido,99,desconocida,2025,19,Dengue,10,De 35 a 44 años,4
+999,desconocido,99,desconocida,2025,20,Dengue,10,De 35 a 44 años,2
+999,desconocido,99,desconocida,2025,5,Dengue,11,De 45 a 65 años,1
+999,desconocido,99,desconocida,2025,7,Dengue,11,De 45 a 65 años,3
+999,desconocido,99,desconocida,2025,8,Dengue,11,De 45 a 65 años,9
+999,desconocido,99,desconocida,2025,9,Dengue,11,De 45 a 65 años,7
+999,desconocido,99,desconocida,2025,10,Dengue,11,De 45 a 65 años,6
+999,desconocido,99,desconocida,2025,11,Dengue,11,De 45 a 65 años,21
+999,desconocido,99,desconocida,2025,12,Dengue,11,De 45 a 65 años,21
+999,desconocido,99,desconocida,2025,13,Dengue,11,De 45 a 65 años,16
+999,desconocido,99,desconocida,2025,14,Dengue,11,De 45 a 65 años,14
+999,desconocido,99,desconocida,2025,15,Dengue,11,De 45 a 65 años,9
+999,desconocido,99,desconocida,2025,16,Dengue,11,De 45 a 65 años,5
+999,desconocido,99,desconocida,2025,17,Dengue,11,De 45 a 65 años,1
+999,desconocido,99,desconocida,2025,18,Dengue,11,De 45 a 65 años,3
+999,desconocido,99,desconocida,2025,20,Dengue,11,De 45 a 65 años,1
+999,desconocido,99,desconocida,2025,8,Dengue,12,Mayores de 65 años,3
+999,desconocido,99,desconocida,2025,9,Dengue,12,Mayores de 65 años,2
+999,desconocido,99,desconocida,2025,10,Dengue,12,Mayores de 65 años,2
+999,desconocido,99,desconocida,2025,11,Dengue,12,Mayores de 65 años,6
+999,desconocido,99,desconocida,2025,12,Dengue,12,Mayores de 65 años,6
+999,desconocido,99,desconocida,2025,13,Dengue,12,Mayores de 65 años,7
+999,desconocido,99,desconocida,2025,14,Dengue,12,Mayores de 65 años,2
+999,desconocido,99,desconocida,2025,15,Dengue,12,Mayores de 65 años,1
+999,desconocido,99,desconocida,2025,18,Dengue,12,Mayores de 65 años,1
+999,desconocido,99,desconocida,2025,19,Dengue,12,Mayores de 65 años,1
+999,desconocido,99,desconocida,2025,20,Dengue,12,Mayores de 65 años,1
+999,desconocido,99,desconocida,2025,12,Dengue durante la gestación,7,De 15 a 19 años,1
+999,desconocido,99,desconocida,2025,14,Dengue durante la gestación,7,De 15 a 19 años,1
+999,desconocido,99,desconocida,2025,11,Dengue durante la gestación,9,De 25 a 34 años,1
+999,desconocido,2,CABA,2025,16,Dengue,8,De 20 a 24 años,1
+999,desconocido,2,CABA,2025,2,Dengue,11,De 45 a 65 años,1
+999,desconocido,2,CABA,2025,17,Dengue,12,Mayores de 65 años,1
+999,desconocido,14,Córdoba,2025,11,Dengue,6,De 10 a 14 años,1
+999,desconocido,14,Córdoba,2025,10,Dengue,11,De 45 a 65 años,1
+999,desconocido,99,desconocida,2025,9,Dengue,9,De 25 a 34 años,1
+999,desconocido,90,Tucumán,2025,14,Dengue,5,De 5 a 9 años,2
+999,desconocido,90,Tucumán,2025,16,Dengue,5,De 5 a 9 años,1
+999,desconocido,90,Tucumán,2025,19,Dengue,5,De 5 a 9 años,1
+999,desconocido,90,Tucumán,2025,20,Dengue,5,De 5 a 9 años,1
+999,desconocido,90,Tucumán,2025,13,Dengue,6,De 10 a 14 años,1
+999,desconocido,90,Tucumán,2025,17,Dengue,6,De 10 a 14 años,1
+1,COMUNA 1,2,CABA,2025,14,Dengue,6,De 10 a 14 años,1
+1,COMUNA 1,2,CABA,2025,13,Dengue,7,De 15 a 19 años,1
+1,COMUNA 1,2,CABA,2025,10,Dengue,8,De 20 a 24 años,1
+1,COMUNA 1,2,CABA,2025,12,Dengue,8,De 20 a 24 años,1
+1,COMUNA 1,2,CABA,2025,11,Dengue,9,De 25 a 34 años,2
+1,COMUNA 1,2,CABA,2025,13,Dengue,9,De 25 a 34 años,2
+1,COMUNA 1,2,CABA,2025,14,Dengue,9,De 25 a 34 años,1
+1,COMUNA 1,2,CABA,2025,16,Dengue,9,De 25 a 34 años,2
+1,COMUNA 1,2,CABA,2025,17,Dengue,9,De 25 a 34 años,1
+1,COMUNA 1,2,CABA,2025,18,Dengue,9,De 25 a 34 años,1
+1,COMUNA 1,2,CABA,2025,13,Dengue,10,De 35 a 44 años,1
+1,COMUNA 1,2,CABA,2025,15,Dengue,10,De 35 a 44 años,2
+1,COMUNA 1,2,CABA,2025,16,Dengue,10,De 35 a 44 años,1
+1,COMUNA 1,2,CABA,2025,22,Dengue,10,De 35 a 44 años,1
+1,COMUNA 1,2,CABA,2025,11,Dengue,11,De 45 a 65 años,2
+1,COMUNA 1,2,CABA,2025,12,Dengue,11,De 45 a 65 años,3
+1,COMUNA 1,2,CABA,2025,13,Dengue,11,De 45 a 65 años,2
+1,COMUNA 1,2,CABA,2025,14,Dengue,11,De 45 a 65 años,4
+1,COMUNA 1,2,CABA,2025,15,Dengue,11,De 45 a 65 años,3
+1,COMUNA 1,2,CABA,2025,17,Dengue,11,De 45 a 65 años,3
+1,COMUNA 1,2,CABA,2025,18,Dengue,11,De 45 a 65 años,2
+1,COMUNA 1,2,CABA,2025,19,Dengue,11,De 45 a 65 años,2
+1,COMUNA 1,2,CABA,2025,20,Dengue,11,De 45 a 65 años,1
+1,COMUNA 1,2,CABA,2025,13,Dengue,12,Mayores de 65 años,1
+1,COMUNA 1,2,CABA,2025,14,Dengue,12,Mayores de 65 años,1
+2,COMUNA 2,2,CABA,2025,5,Dengue,9,De 25 a 34 años,1
+3,COMUNA 3,2,CABA,2025,16,Dengue,9,De 25 a 34 años,1
+3,COMUNA 3,2,CABA,2025,9,Dengue,10,De 35 a 44 años,2
+3,COMUNA 3,2,CABA,2025,20,Dengue,10,De 35 a 44 años,1
+4,COMUNA 4,2,CABA,2025,15,Dengue,9,De 25 a 34 años,2
+4,COMUNA 4,2,CABA,2025,17,Dengue,11,De 45 a 65 años,1
+5,COMUNA 5,2,CABA,2025,15,Dengue,8,De 20 a 24 años,1
+5,COMUNA 5,2,CABA,2025,8,Dengue,10,De 35 a 44 años,1
+6,COMUNA 6,2,CABA,2025,14,Dengue,5,De 5 a 9 años,1
+6,COMUNA 6,2,CABA,2025,13,Dengue,7,De 15 a 19 años,1
+6,COMUNA 6,2,CABA,2025,21,Dengue,7,De 15 a 19 años,1
+6,COMUNA 6,2,CABA,2025,14,Dengue,9,De 25 a 34 años,1
+6,COMUNA 6,2,CABA,2025,12,Dengue,10,De 35 a 44 años,1
+6,COMUNA 6,2,CABA,2025,12,Dengue,11,De 45 a 65 años,1
+7,COMUNA 7,2,CABA,2025,11,Dengue,9,De 25 a 34 años,1
+7,COMUNA 7,2,CABA,2025,11,Dengue,10,De 35 a 44 años,1
+7,COMUNA 7,2,CABA,2025,12,Dengue,10,De 35 a 44 años,1
+7,COMUNA 7,2,CABA,2025,16,Dengue,11,De 45 a 65 años,1
+8,COMUNA 8,2,CABA,2025,10,Dengue,11,De 45 a 65 años,1
+8,COMUNA 8,2,CABA,2025,14,Dengue,11,De 45 a 65 años,1
+9,COMUNA 9,2,CABA,2025,13,Dengue,6,De 10 a 14 años,1
+9,COMUNA 9,2,CABA,2025,15,Dengue,9,De 25 a 34 años,1
+9,COMUNA 9,2,CABA,2025,11,Dengue,10,De 35 a 44 años,2
+9,COMUNA 9,2,CABA,2025,16,Dengue,11,De 45 a 65 años,1
+10,COMUNA 10,2,CABA,2025,11,Dengue,8,De 20 a 24 años,1
+10,COMUNA 10,2,CABA,2025,11,Dengue,9,De 25 a 34 años,1
+10,COMUNA 10,2,CABA,2025,16,Dengue,9,De 25 a 34 años,1
+10,COMUNA 10,2,CABA,2025,18,Dengue,9,De 25 a 34 años,1
+10,COMUNA 10,2,CABA,2025,13,Dengue,12,Mayores de 65 años,1
+11,COMUNA 11,2,CABA,2025,8,Dengue,6,De 10 a 14 años,1
+11,COMUNA 11,2,CABA,2025,12,Dengue,6,De 10 a 14 años,1
+11,COMUNA 11,2,CABA,2025,14,Dengue,6,De 10 a 14 años,1
+11,COMUNA 11,2,CABA,2025,13,Dengue,7,De 15 a 19 años,1
+11,COMUNA 11,2,CABA,2025,11,Dengue,8,De 20 a 24 años,1
+11,COMUNA 11,2,CABA,2025,6,Dengue,9,De 25 a 34 años,1
+11,COMUNA 11,2,CABA,2025,7,Dengue,9,De 25 a 34 años,1
+11,COMUNA 11,2,CABA,2025,10,Dengue,9,De 25 a 34 años,1
+11,COMUNA 11,2,CABA,2025,12,Dengue,9,De 25 a 34 años,2
+11,COMUNA 11,2,CABA,2025,13,Dengue,9,De 25 a 34 años,2
+11,COMUNA 11,2,CABA,2025,14,Dengue,9,De 25 a 34 años,1
+11,COMUNA 11,2,CABA,2025,15,Dengue,9,De 25 a 34 años,1
+11,COMUNA 11,2,CABA,2025,17,Dengue,9,De 25 a 34 años,1
+11,COMUNA 11,2,CABA,2025,18,Dengue,9,De 25 a 34 años,1
+11,COMUNA 11,2,CABA,2025,7,Dengue,10,De 35 a 44 años,1
+11,COMUNA 11,2,CABA,2025,11,Dengue,10,De 35 a 44 años,1
+11,COMUNA 11,2,CABA,2025,12,Dengue,10,De 35 a 44 años,1
+11,COMUNA 11,2,CABA,2025,13,Dengue,10,De 35 a 44 años,1
+11,COMUNA 11,2,CABA,2025,14,Dengue,10,De 35 a 44 años,1
+11,COMUNA 11,2,CABA,2025,19,Dengue,10,De 35 a 44 años,1
+11,COMUNA 11,2,CABA,2025,21,Dengue,10,De 35 a 44 años,1
+11,COMUNA 11,2,CABA,2025,6,Dengue,11,De 45 a 65 años,1
+11,COMUNA 11,2,CABA,2025,7,Dengue,11,De 45 a 65 años,3
+11,COMUNA 11,2,CABA,2025,10,Dengue,11,De 45 a 65 años,4
+11,COMUNA 11,2,CABA,2025,11,Dengue,11,De 45 a 65 años,3
+11,COMUNA 11,2,CABA,2025,12,Dengue,11,De 45 a 65 años,1
+11,COMUNA 11,2,CABA,2025,13,Dengue,11,De 45 a 65 años,1
+11,COMUNA 11,2,CABA,2025,14,Dengue,11,De 45 a 65 años,3
+11,COMUNA 11,2,CABA,2025,15,Dengue,11,De 45 a 65 años,1
+11,COMUNA 11,2,CABA,2025,16,Dengue,11,De 45 a 65 años,3
+11,COMUNA 11,2,CABA,2025,18,Dengue,11,De 45 a 65 años,1
+11,COMUNA 11,2,CABA,2025,7,Dengue,12,Mayores de 65 años,1
+11,COMUNA 11,2,CABA,2025,8,Dengue,12,Mayores de 65 años,1
+11,COMUNA 11,2,CABA,2025,9,Dengue,12,Mayores de 65 años,1
+11,COMUNA 11,2,CABA,2025,12,Dengue,12,Mayores de 65 años,2
+11,COMUNA 11,2,CABA,2025,14,Dengue,12,Mayores de 65 años,3
+11,COMUNA 11,2,CABA,2025,15,Dengue,12,Mayores de 65 años,1
+11,COMUNA 11,2,CABA,2025,18,Dengue,12,Mayores de 65 años,1
+12,COMUNA 12,2,CABA,2025,20,Dengue,9,De 25 a 34 años,1
+12,COMUNA 12,2,CABA,2025,15,Dengue,10,De 35 a 44 años,1
+12,COMUNA 12,2,CABA,2025,11,Dengue,11,De 45 a 65 años,2
+12,COMUNA 12,2,CABA,2025,12,Dengue,11,De 45 a 65 años,1
+12,COMUNA 12,2,CABA,2025,14,Dengue,11,De 45 a 65 años,1
+12,COMUNA 12,2,CABA,2025,15,Dengue,11,De 45 a 65 años,1
+12,COMUNA 12,2,CABA,2025,16,Dengue,11,De 45 a 65 años,1
+12,COMUNA 12,2,CABA,2025,18,Dengue,11,De 45 a 65 años,1
+12,COMUNA 12,2,CABA,2025,19,Dengue,11,De 45 a 65 años,1
+13,COMUNA 13,2,CABA,2025,3,Dengue,9,De 25 a 34 años,1
+13,COMUNA 13,2,CABA,2025,2,Dengue,11,De 45 a 65 años,1
+13,COMUNA 13,2,CABA,2025,11,Dengue,11,De 45 a 65 años,1
+14,COMUNA 14,2,CABA,2025,6,Dengue,5,De 5 a 9 años,1
+14,COMUNA 14,2,CABA,2025,11,Dengue,9,De 25 a 34 años,1
+14,COMUNA 14,2,CABA,2025,8,Dengue,10,De 35 a 44 años,1
+14,COMUNA 14,2,CABA,2025,16,Dengue,10,De 35 a 44 años,1
+14,COMUNA 14,2,CABA,2025,6,Dengue durante la gestación,9,De 25 a 34 años,1
+15,COMUNA 15,2,CABA,2025,15,Dengue,8,De 20 a 24 años,1
+15,COMUNA 15,2,CABA,2025,10,Dengue,9,De 25 a 34 años,1
+15,COMUNA 15,2,CABA,2025,18,Dengue,9,De 25 a 34 años,1
+15,COMUNA 15,2,CABA,2025,13,Dengue,11,De 45 a 65 años,1
+15,COMUNA 15,2,CABA,2025,16,Dengue,11,De 45 a 65 años,1
+15,COMUNA 15,2,CABA,2025,21,Dengue,11,De 45 a 65 años,1
+28,Almirante Brown,6,Buenos Aires,2025,15,Dengue,9,De 25 a 34 años,1
+28,Almirante Brown,6,Buenos Aires,2025,11,Dengue durante la gestación,8,De 20 a 24 años,1
+35,Avellaneda,6,Buenos Aires,2025,13,Dengue,8,De 20 a 24 años,2
+35,Avellaneda,6,Buenos Aires,2025,9,Dengue,10,De 35 a 44 años,1
+35,Avellaneda,6,Buenos Aires,2025,10,Dengue,10,De 35 a 44 años,1
+35,Avellaneda,6,Buenos Aires,2025,15,Dengue,10,De 35 a 44 años,1
+35,Avellaneda,6,Buenos Aires,2025,15,Dengue,11,De 45 a 65 años,1
+35,Avellaneda,6,Buenos Aires,2025,16,Dengue,11,De 45 a 65 años,1
+49,Azul,6,Buenos Aires,2025,17,Dengue,11,De 45 a 65 años,1
+56,Bahía Blanca,6,Buenos Aires,2025,17,Dengue,9,De 25 a 34 años,1
+56,Bahía Blanca,6,Buenos Aires,2025,14,Dengue,10,De 35 a 44 años,1
+56,Bahía Blanca,6,Buenos Aires,2025,17,Dengue durante la gestación,9,De 25 a 34 años,1
+91,Berazategui,6,Buenos Aires,2025,14,Dengue,10,De 35 a 44 años,1
+140,Capitán Sarmiento,6,Buenos Aires,2025,14,Dengue,11,De 45 a 65 años,1
+154,Carlos Tejedor,6,Buenos Aires,2025,9,Dengue,11,De 45 a 65 años,1
+175,Colón,6,Buenos Aires,2025,14,Dengue,7,De 15 a 19 años,1
+175,Colón,6,Buenos Aires,2025,16,Dengue,8,De 20 a 24 años,2
+175,Colón,6,Buenos Aires,2025,20,Dengue,11,De 45 a 65 años,1
+182,Coronel de Marina L. Rosales,6,Buenos Aires,2025,14,Dengue,4,De 2 a 4 años,1
+252,Escobar,6,Buenos Aires,2025,17,Dengue,6,De 10 a 14 años,1
+260,Esteban Echeverría,6,Buenos Aires,2025,18,Dengue,5,De 5 a 9 años,1
+260,Esteban Echeverría,6,Buenos Aires,2025,16,Dengue,6,De 10 a 14 años,1
+260,Esteban Echeverría,6,Buenos Aires,2025,28,Dengue,7,De 15 a 19 años,1
+260,Esteban Echeverría,6,Buenos Aires,2025,15,Dengue,8,De 20 a 24 años,1
+260,Esteban Echeverría,6,Buenos Aires,2025,14,Dengue,9,De 25 a 34 años,2
+260,Esteban Echeverría,6,Buenos Aires,2025,16,Dengue,9,De 25 a 34 años,1
+260,Esteban Echeverría,6,Buenos Aires,2025,13,Dengue,10,De 35 a 44 años,1
+260,Esteban Echeverría,6,Buenos Aires,2025,14,Dengue,10,De 35 a 44 años,1
+260,Esteban Echeverría,6,Buenos Aires,2025,15,Dengue,11,De 45 a 65 años,1
+260,Esteban Echeverría,6,Buenos Aires,2025,14,Dengue,12,Mayores de 65 años,1
+274,Florencio Varela,6,Buenos Aires,2025,15,Dengue,9,De 25 a 34 años,1
+357,General Pueyrredón,6,Buenos Aires,2025,17,Dengue,9,De 25 a 34 años,1
+357,General Pueyrredón,6,Buenos Aires,2025,26,Dengue,9,De 25 a 34 años,1
+357,General Pueyrredón,6,Buenos Aires,2025,9,Dengue,10,De 35 a 44 años,1
+371,General San Martín,6,Buenos Aires,2025,18,Dengue,2,Posneonato (29 hasta 365 días),1
+371,General San Martín,6,Buenos Aires,2025,14,Dengue,4,De 2 a 4 años,1
+371,General San Martín,6,Buenos Aires,2025,13,Dengue,5,De 5 a 9 años,1
+371,General San Martín,6,Buenos Aires,2025,18,Dengue,5,De 5 a 9 años,2
+371,General San Martín,6,Buenos Aires,2025,19,Dengue,5,De 5 a 9 años,1
+371,General San Martín,6,Buenos Aires,2025,2,Dengue,6,De 10 a 14 años,1
+371,General San Martín,6,Buenos Aires,2025,10,Dengue,6,De 10 a 14 años,1
+371,General San Martín,6,Buenos Aires,2025,12,Dengue,6,De 10 a 14 años,1
+371,General San Martín,6,Buenos Aires,2025,14,Dengue,6,De 10 a 14 años,1
+371,General San Martín,6,Buenos Aires,2025,17,Dengue,6,De 10 a 14 años,1
+371,General San Martín,6,Buenos Aires,2025,18,Dengue,6,De 10 a 14 años,1
+371,General San Martín,6,Buenos Aires,2025,10,Dengue,7,De 15 a 19 años,1
+371,General San Martín,6,Buenos Aires,2025,11,Dengue,7,De 15 a 19 años,1
+371,General San Martín,6,Buenos Aires,2025,13,Dengue,7,De 15 a 19 años,1
+371,General San Martín,6,Buenos Aires,2025,16,Dengue,7,De 15 a 19 años,2
+371,General San Martín,6,Buenos Aires,2025,11,Dengue,8,De 20 a 24 años,1
+371,General San Martín,6,Buenos Aires,2025,13,Dengue,8,De 20 a 24 años,1
+371,General San Martín,6,Buenos Aires,2025,14,Dengue,8,De 20 a 24 años,2
+371,General San Martín,6,Buenos Aires,2025,15,Dengue,8,De 20 a 24 años,1
+371,General San Martín,6,Buenos Aires,2025,16,Dengue,8,De 20 a 24 años,1
+371,General San Martín,6,Buenos Aires,2025,18,Dengue,8,De 20 a 24 años,1
+371,General San Martín,6,Buenos Aires,2025,7,Dengue,9,De 25 a 34 años,1
+371,General San Martín,6,Buenos Aires,2025,9,Dengue,9,De 25 a 34 años,2
+371,General San Martín,6,Buenos Aires,2025,10,Dengue,9,De 25 a 34 años,1
+371,General San Martín,6,Buenos Aires,2025,11,Dengue,9,De 25 a 34 años,3
+371,General San Martín,6,Buenos Aires,2025,12,Dengue,9,De 25 a 34 años,1
+371,General San Martín,6,Buenos Aires,2025,13,Dengue,9,De 25 a 34 años,3
+371,General San Martín,6,Buenos Aires,2025,14,Dengue,9,De 25 a 34 años,1
+371,General San Martín,6,Buenos Aires,2025,15,Dengue,9,De 25 a 34 años,2
+371,General San Martín,6,Buenos Aires,2025,16,Dengue,9,De 25 a 34 años,1
+371,General San Martín,6,Buenos Aires,2025,17,Dengue,9,De 25 a 34 años,2
+371,General San Martín,6,Buenos Aires,2025,18,Dengue,9,De 25 a 34 años,1
+371,General San Martín,6,Buenos Aires,2025,10,Dengue,10,De 35 a 44 años,2
+371,General San Martín,6,Buenos Aires,2025,11,Dengue,10,De 35 a 44 años,1
+371,General San Martín,6,Buenos Aires,2025,12,Dengue,10,De 35 a 44 años,4
+371,General San Martín,6,Buenos Aires,2025,13,Dengue,10,De 35 a 44 años,1
+371,General San Martín,6,Buenos Aires,2025,14,Dengue,10,De 35 a 44 años,2
+371,General San Martín,6,Buenos Aires,2025,15,Dengue,10,De 35 a 44 años,1
+371,General San Martín,6,Buenos Aires,2025,16,Dengue,10,De 35 a 44 años,3
+371,General San Martín,6,Buenos Aires,2025,20,Dengue,10,De 35 a 44 años,2
+371,General San Martín,6,Buenos Aires,2025,5,Dengue,11,De 45 a 65 años,1
+371,General San Martín,6,Buenos Aires,2025,6,Dengue,11,De 45 a 65 años,1
+371,General San Martín,6,Buenos Aires,2025,8,Dengue,11,De 45 a 65 años,3
+371,General San Martín,6,Buenos Aires,2025,9,Dengue,11,De 45 a 65 años,1
+371,General San Martín,6,Buenos Aires,2025,10,Dengue,11,De 45 a 65 años,3
+371,General San Martín,6,Buenos Aires,2025,11,Dengue,11,De 45 a 65 años,6
+371,General San Martín,6,Buenos Aires,2025,12,Dengue,11,De 45 a 65 años,4
+371,General San Martín,6,Buenos Aires,2025,13,Dengue,11,De 45 a 65 años,5
+371,General San Martín,6,Buenos Aires,2025,14,Dengue,11,De 45 a 65 años,3
+371,General San Martín,6,Buenos Aires,2025,15,Dengue,11,De 45 a 65 años,4
+371,General San Martín,6,Buenos Aires,2025,16,Dengue,11,De 45 a 65 años,1
+371,General San Martín,6,Buenos Aires,2025,17,Dengue,11,De 45 a 65 años,3
+371,General San Martín,6,Buenos Aires,2025,18,Dengue,11,De 45 a 65 años,1
+371,General San Martín,6,Buenos Aires,2025,7,Dengue,12,Mayores de 65 años,1
+371,General San Martín,6,Buenos Aires,2025,8,Dengue,12,Mayores de 65 años,1
+371,General San Martín,6,Buenos Aires,2025,9,Dengue,12,Mayores de 65 años,1
+371,General San Martín,6,Buenos Aires,2025,11,Dengue,12,Mayores de 65 años,1
+371,General San Martín,6,Buenos Aires,2025,12,Dengue,12,Mayores de 65 años,1
+371,General San Martín,6,Buenos Aires,2025,13,Dengue,12,Mayores de 65 años,3
+371,General San Martín,6,Buenos Aires,2025,15,Dengue,12,Mayores de 65 años,1
+408,Hurlingham,6,Buenos Aires,2025,18,Dengue,4,De 2 a 4 años,2
+408,Hurlingham,6,Buenos Aires,2025,12,Dengue,7,De 15 a 19 años,1
+408,Hurlingham,6,Buenos Aires,2025,13,Dengue,7,De 15 a 19 años,1
+408,Hurlingham,6,Buenos Aires,2025,13,Dengue,8,De 20 a 24 años,1
+408,Hurlingham,6,Buenos Aires,2025,17,Dengue,8,De 20 a 24 años,1
+408,Hurlingham,6,Buenos Aires,2025,13,Dengue,9,De 25 a 34 años,2
+408,Hurlingham,6,Buenos Aires,2025,18,Dengue,9,De 25 a 34 años,1
+408,Hurlingham,6,Buenos Aires,2025,6,Dengue,11,De 45 a 65 años,1
+408,Hurlingham,6,Buenos Aires,2025,16,Dengue,11,De 45 a 65 años,1
+408,Hurlingham,6,Buenos Aires,2025,19,Dengue,11,De 45 a 65 años,1
+410,Ituzaingó,6,Buenos Aires,2025,15,Dengue,4,De 2 a 4 años,1
+410,Ituzaingó,6,Buenos Aires,2025,21,Dengue,5,De 5 a 9 años,1
+410,Ituzaingó,6,Buenos Aires,2025,12,Dengue,6,De 10 a 14 años,1
+410,Ituzaingó,6,Buenos Aires,2025,18,Dengue,6,De 10 a 14 años,1
+410,Ituzaingó,6,Buenos Aires,2025,19,Dengue,6,De 10 a 14 años,1
+410,Ituzaingó,6,Buenos Aires,2025,8,Dengue,7,De 15 a 19 años,1
+410,Ituzaingó,6,Buenos Aires,2025,9,Dengue,7,De 15 a 19 años,1
+410,Ituzaingó,6,Buenos Aires,2025,11,Dengue,7,De 15 a 19 años,1
+410,Ituzaingó,6,Buenos Aires,2025,12,Dengue,7,De 15 a 19 años,2
+410,Ituzaingó,6,Buenos Aires,2025,15,Dengue,7,De 15 a 19 años,1
+410,Ituzaingó,6,Buenos Aires,2025,18,Dengue,7,De 15 a 19 años,1
+410,Ituzaingó,6,Buenos Aires,2025,11,Dengue,8,De 20 a 24 años,1
+410,Ituzaingó,6,Buenos Aires,2025,16,Dengue,8,De 20 a 24 años,1
+410,Ituzaingó,6,Buenos Aires,2025,19,Dengue,8,De 20 a 24 años,1
+410,Ituzaingó,6,Buenos Aires,2025,6,Dengue,9,De 25 a 34 años,1
+410,Ituzaingó,6,Buenos Aires,2025,8,Dengue,9,De 25 a 34 años,1
+410,Ituzaingó,6,Buenos Aires,2025,11,Dengue,9,De 25 a 34 años,1
+410,Ituzaingó,6,Buenos Aires,2025,14,Dengue,9,De 25 a 34 años,1
+410,Ituzaingó,6,Buenos Aires,2025,16,Dengue,9,De 25 a 34 años,1
+410,Ituzaingó,6,Buenos Aires,2025,11,Dengue,10,De 35 a 44 años,2
+410,Ituzaingó,6,Buenos Aires,2025,12,Dengue,10,De 35 a 44 años,1
+410,Ituzaingó,6,Buenos Aires,2025,14,Dengue,10,De 35 a 44 años,2
+410,Ituzaingó,6,Buenos Aires,2025,15,Dengue,10,De 35 a 44 años,2
+410,Ituzaingó,6,Buenos Aires,2025,16,Dengue,10,De 35 a 44 años,1
+410,Ituzaingó,6,Buenos Aires,2025,21,Dengue,10,De 35 a 44 años,1
+410,Ituzaingó,6,Buenos Aires,2025,7,Dengue,11,De 45 a 65 años,2
+410,Ituzaingó,6,Buenos Aires,2025,10,Dengue,11,De 45 a 65 años,1
+410,Ituzaingó,6,Buenos Aires,2025,12,Dengue,11,De 45 a 65 años,2
+410,Ituzaingó,6,Buenos Aires,2025,13,Dengue,11,De 45 a 65 años,3
+410,Ituzaingó,6,Buenos Aires,2025,15,Dengue,11,De 45 a 65 años,3
+410,Ituzaingó,6,Buenos Aires,2025,16,Dengue,11,De 45 a 65 años,2
+410,Ituzaingó,6,Buenos Aires,2025,17,Dengue,11,De 45 a 65 años,2
+410,Ituzaingó,6,Buenos Aires,2025,19,Dengue,11,De 45 a 65 años,2
+410,Ituzaingó,6,Buenos Aires,2025,7,Dengue,12,Mayores de 65 años,1
+410,Ituzaingó,6,Buenos Aires,2025,10,Dengue,12,Mayores de 65 años,1
+412,José C. Paz,6,Buenos Aires,2025,12,Dengue,4,De 2 a 4 años,1
+412,José C. Paz,6,Buenos Aires,2025,14,Dengue,5,De 5 a 9 años,1
+412,José C. Paz,6,Buenos Aires,2025,11,Dengue,7,De 15 a 19 años,1
+412,José C. Paz,6,Buenos Aires,2025,13,Dengue,9,De 25 a 34 años,1
+427,La Matanza,6,Buenos Aires,2025,19,Dengue,5,De 5 a 9 años,2
+427,La Matanza,6,Buenos Aires,2025,4,Dengue,6,De 10 a 14 años,1
+427,La Matanza,6,Buenos Aires,2025,12,Dengue,6,De 10 a 14 años,1
+427,La Matanza,6,Buenos Aires,2025,15,Dengue,6,De 10 a 14 años,1
+427,La Matanza,6,Buenos Aires,2025,16,Dengue,6,De 10 a 14 años,1
+427,La Matanza,6,Buenos Aires,2025,18,Dengue,6,De 10 a 14 años,1
+427,La Matanza,6,Buenos Aires,2025,14,Dengue,8,De 20 a 24 años,1
+427,La Matanza,6,Buenos Aires,2025,16,Dengue,8,De 20 a 24 años,2
+427,La Matanza,6,Buenos Aires,2025,20,Dengue,8,De 20 a 24 años,1
+427,La Matanza,6,Buenos Aires,2025,9,Dengue,9,De 25 a 34 años,1
+427,La Matanza,6,Buenos Aires,2025,16,Dengue,9,De 25 a 34 años,1
+427,La Matanza,6,Buenos Aires,2025,17,Dengue,9,De 25 a 34 años,1
+427,La Matanza,6,Buenos Aires,2025,19,Dengue,9,De 25 a 34 años,1
+427,La Matanza,6,Buenos Aires,2025,10,Dengue,10,De 35 a 44 años,1
+427,La Matanza,6,Buenos Aires,2025,13,Dengue,10,De 35 a 44 años,1
+427,La Matanza,6,Buenos Aires,2025,14,Dengue,10,De 35 a 44 años,1
+427,La Matanza,6,Buenos Aires,2025,16,Dengue,10,De 35 a 44 años,1
+427,La Matanza,6,Buenos Aires,2025,19,Dengue,10,De 35 a 44 años,1
+427,La Matanza,6,Buenos Aires,2025,10,Dengue,11,De 45 a 65 años,2
+427,La Matanza,6,Buenos Aires,2025,11,Dengue,11,De 45 a 65 años,1
+427,La Matanza,6,Buenos Aires,2025,12,Dengue,11,De 45 a 65 años,2
+427,La Matanza,6,Buenos Aires,2025,13,Dengue,11,De 45 a 65 años,3
+427,La Matanza,6,Buenos Aires,2025,15,Dengue,11,De 45 a 65 años,2
+427,La Matanza,6,Buenos Aires,2025,16,Dengue,11,De 45 a 65 años,2
+427,La Matanza,6,Buenos Aires,2025,17,Dengue,11,De 45 a 65 años,2
+427,La Matanza,6,Buenos Aires,2025,18,Dengue,11,De 45 a 65 años,4
+427,La Matanza,6,Buenos Aires,2025,21,Dengue,11,De 45 a 65 años,1
+427,La Matanza,6,Buenos Aires,2025,9,Dengue,12,Mayores de 65 años,1
+427,La Matanza,6,Buenos Aires,2025,11,Dengue,12,Mayores de 65 años,2
+427,La Matanza,6,Buenos Aires,2025,17,Dengue,12,Mayores de 65 años,1
+427,La Matanza,6,Buenos Aires,2025,7,Dengue durante la gestación,8,De 20 a 24 años,1
+434,Lanús,6,Buenos Aires,2025,10,Dengue,4,De 2 a 4 años,1
+434,Lanús,6,Buenos Aires,2025,6,Dengue,5,De 5 a 9 años,1
+434,Lanús,6,Buenos Aires,2025,14,Dengue,6,De 10 a 14 años,1
+434,Lanús,6,Buenos Aires,2025,15,Dengue,6,De 10 a 14 años,1
+434,Lanús,6,Buenos Aires,2025,16,Dengue,6,De 10 a 14 años,2
+434,Lanús,6,Buenos Aires,2025,6,Dengue,7,De 15 a 19 años,1
+434,Lanús,6,Buenos Aires,2025,8,Dengue,7,De 15 a 19 años,1
+434,Lanús,6,Buenos Aires,2025,11,Dengue,7,De 15 a 19 años,2
+434,Lanús,6,Buenos Aires,2025,13,Dengue,7,De 15 a 19 años,3
+434,Lanús,6,Buenos Aires,2025,14,Dengue,7,De 15 a 19 años,2
+434,Lanús,6,Buenos Aires,2025,15,Dengue,7,De 15 a 19 años,2
+434,Lanús,6,Buenos Aires,2025,9,Dengue,8,De 20 a 24 años,1
+434,Lanús,6,Buenos Aires,2025,11,Dengue,8,De 20 a 24 años,2
+434,Lanús,6,Buenos Aires,2025,12,Dengue,8,De 20 a 24 años,1
+434,Lanús,6,Buenos Aires,2025,15,Dengue,8,De 20 a 24 años,1
+434,Lanús,6,Buenos Aires,2025,17,Dengue,8,De 20 a 24 años,1
+434,Lanús,6,Buenos Aires,2025,10,Dengue,9,De 25 a 34 años,1
+434,Lanús,6,Buenos Aires,2025,11,Dengue,9,De 25 a 34 años,2
+434,Lanús,6,Buenos Aires,2025,12,Dengue,9,De 25 a 34 años,1
+434,Lanús,6,Buenos Aires,2025,13,Dengue,9,De 25 a 34 años,2
+434,Lanús,6,Buenos Aires,2025,14,Dengue,9,De 25 a 34 años,2
+434,Lanús,6,Buenos Aires,2025,17,Dengue,9,De 25 a 34 años,1
+434,Lanús,6,Buenos Aires,2025,18,Dengue,9,De 25 a 34 años,1
+434,Lanús,6,Buenos Aires,2025,20,Dengue,9,De 25 a 34 años,1
+434,Lanús,6,Buenos Aires,2025,10,Dengue,10,De 35 a 44 años,1
+434,Lanús,6,Buenos Aires,2025,11,Dengue,10,De 35 a 44 años,3
+434,Lanús,6,Buenos Aires,2025,12,Dengue,10,De 35 a 44 años,1
+434,Lanús,6,Buenos Aires,2025,13,Dengue,10,De 35 a 44 años,1
+434,Lanús,6,Buenos Aires,2025,14,Dengue,10,De 35 a 44 años,2
+434,Lanús,6,Buenos Aires,2025,16,Dengue,10,De 35 a 44 años,1
+434,Lanús,6,Buenos Aires,2025,18,Dengue,10,De 35 a 44 años,1
+434,Lanús,6,Buenos Aires,2025,20,Dengue,10,De 35 a 44 años,1
+434,Lanús,6,Buenos Aires,2025,8,Dengue,11,De 45 a 65 años,1
+434,Lanús,6,Buenos Aires,2025,9,Dengue,11,De 45 a 65 años,1
+434,Lanús,6,Buenos Aires,2025,10,Dengue,11,De 45 a 65 años,1
+434,Lanús,6,Buenos Aires,2025,11,Dengue,11,De 45 a 65 años,3
+434,Lanús,6,Buenos Aires,2025,12,Dengue,11,De 45 a 65 años,1
+434,Lanús,6,Buenos Aires,2025,13,Dengue,11,De 45 a 65 años,3
+434,Lanús,6,Buenos Aires,2025,14,Dengue,11,De 45 a 65 años,2
+434,Lanús,6,Buenos Aires,2025,15,Dengue,11,De 45 a 65 años,2
+434,Lanús,6,Buenos Aires,2025,16,Dengue,11,De 45 a 65 años,2
+434,Lanús,6,Buenos Aires,2025,17,Dengue,11,De 45 a 65 años,1
+434,Lanús,6,Buenos Aires,2025,7,Dengue,12,Mayores de 65 años,1
+434,Lanús,6,Buenos Aires,2025,12,Dengue,12,Mayores de 65 años,1
+434,Lanús,6,Buenos Aires,2025,14,Dengue,12,Mayores de 65 años,1
+441,La Plata,6,Buenos Aires,2025,10,Dengue,8,De 20 a 24 años,1
+441,La Plata,6,Buenos Aires,2025,17,Dengue,8,De 20 a 24 años,1
+441,La Plata,6,Buenos Aires,2025,8,Dengue,9,De 25 a 34 años,2
+441,La Plata,6,Buenos Aires,2025,9,Dengue,9,De 25 a 34 años,1
+441,La Plata,6,Buenos Aires,2025,15,Dengue,9,De 25 a 34 años,1
+441,La Plata,6,Buenos Aires,2025,23,Dengue,9,De 25 a 34 años,1
+441,La Plata,6,Buenos Aires,2025,15,Dengue,10,De 35 a 44 años,1
+441,La Plata,6,Buenos Aires,2025,24,Dengue,10,De 35 a 44 años,1
+490,Lomas de Zamora,6,Buenos Aires,2025,5,Dengue,4,De 2 a 4 años,1
+490,Lomas de Zamora,6,Buenos Aires,2025,20,Dengue,9,De 25 a 34 años,1
+490,Lomas de Zamora,6,Buenos Aires,2025,15,Dengue,10,De 35 a 44 años,1
+490,Lomas de Zamora,6,Buenos Aires,2025,15,Dengue,11,De 45 a 65 años,1
+490,Lomas de Zamora,6,Buenos Aires,2025,18,Dengue,11,De 45 a 65 años,1
+497,Luján,6,Buenos Aires,2025,4,Dengue,11,De 45 a 65 años,1
+515,Malvinas Argentinas,6,Buenos Aires,2025,14,Dengue,4,De 2 a 4 años,1
+515,Malvinas Argentinas,6,Buenos Aires,2025,20,Dengue,5,De 5 a 9 años,1
+515,Malvinas Argentinas,6,Buenos Aires,2025,14,Dengue,6,De 10 a 14 años,1
+515,Malvinas Argentinas,6,Buenos Aires,2025,15,Dengue,6,De 10 a 14 años,1
+515,Malvinas Argentinas,6,Buenos Aires,2025,2,Dengue,7,De 15 a 19 años,1
+515,Malvinas Argentinas,6,Buenos Aires,2025,15,Dengue,8,De 20 a 24 años,1
+515,Malvinas Argentinas,6,Buenos Aires,2025,14,Dengue,9,De 25 a 34 años,1
+515,Malvinas Argentinas,6,Buenos Aires,2025,16,Dengue,9,De 25 a 34 años,2
+515,Malvinas Argentinas,6,Buenos Aires,2025,17,Dengue,9,De 25 a 34 años,1
+515,Malvinas Argentinas,6,Buenos Aires,2025,18,Dengue,9,De 25 a 34 años,1
+515,Malvinas Argentinas,6,Buenos Aires,2025,19,Dengue,9,De 25 a 34 años,1
+515,Malvinas Argentinas,6,Buenos Aires,2025,21,Dengue,10,De 35 a 44 años,1
+515,Malvinas Argentinas,6,Buenos Aires,2025,13,Dengue,11,De 45 a 65 años,1
+515,Malvinas Argentinas,6,Buenos Aires,2025,13,Dengue,12,Mayores de 65 años,1
+515,Malvinas Argentinas,6,Buenos Aires,2025,24,Dengue,12,Mayores de 65 años,1
+525,Marcos Paz,6,Buenos Aires,2025,18,Dengue,9,De 25 a 34 años,1
+532,Mercedes,6,Buenos Aires,2025,13,Dengue,9,De 25 a 34 años,1
+539,Merlo,6,Buenos Aires,2025,8,Dengue,9,De 25 a 34 años,1
+539,Merlo,6,Buenos Aires,2025,16,Dengue,9,De 25 a 34 años,2
+539,Merlo,6,Buenos Aires,2025,14,Dengue,10,De 35 a 44 años,1
+539,Merlo,6,Buenos Aires,2025,14,Dengue,12,Mayores de 65 años,1
+560,Moreno,6,Buenos Aires,2025,15,Dengue,7,De 15 a 19 años,1
+560,Moreno,6,Buenos Aires,2025,27,Dengue,9,De 25 a 34 años,1
+560,Moreno,6,Buenos Aires,2025,12,Dengue,11,De 45 a 65 años,1
+560,Moreno,6,Buenos Aires,2025,21,Dengue,11,De 45 a 65 años,1
+568,Morón,6,Buenos Aires,2025,17,Dengue,7,De 15 a 19 años,1
+568,Morón,6,Buenos Aires,2025,13,Dengue,9,De 25 a 34 años,2
+568,Morón,6,Buenos Aires,2025,14,Dengue,9,De 25 a 34 años,1
+568,Morón,6,Buenos Aires,2025,13,Dengue,10,De 35 a 44 años,1
+568,Morón,6,Buenos Aires,2025,14,Dengue,10,De 35 a 44 años,1
+568,Morón,6,Buenos Aires,2025,10,Dengue,11,De 45 a 65 años,1
+568,Morón,6,Buenos Aires,2025,14,Dengue,11,De 45 a 65 años,2
+595,Olavarría,6,Buenos Aires,2025,12,Dengue,10,De 35 a 44 años,1
+623,Pergamino,6,Buenos Aires,2025,16,Dengue,7,De 15 a 19 años,2
+623,Pergamino,6,Buenos Aires,2025,12,Dengue,8,De 20 a 24 años,1
+623,Pergamino,6,Buenos Aires,2025,19,Dengue,9,De 25 a 34 años,1
+623,Pergamino,6,Buenos Aires,2025,17,Dengue,10,De 35 a 44 años,1
+623,Pergamino,6,Buenos Aires,2025,12,Dengue,11,De 45 a 65 años,1
+623,Pergamino,6,Buenos Aires,2025,14,Dengue,11,De 45 a 65 años,1
+623,Pergamino,6,Buenos Aires,2025,19,Dengue,11,De 45 a 65 años,1
+638,Pilar,6,Buenos Aires,2025,14,Dengue,9,De 25 a 34 años,1
+638,Pilar,6,Buenos Aires,2025,3,Dengue,10,De 35 a 44 años,1
+644,Pinamar,6,Buenos Aires,2025,14,Dengue,6,De 10 a 14 años,1
+658,Quilmes,6,Buenos Aires,2025,13,Dengue,7,De 15 a 19 años,1
+658,Quilmes,6,Buenos Aires,2025,12,Dengue,9,De 25 a 34 años,1
+658,Quilmes,6,Buenos Aires,2025,6,Dengue,10,De 35 a 44 años,1
+658,Quilmes,6,Buenos Aires,2025,10,Dengue,10,De 35 a 44 años,1
+658,Quilmes,6,Buenos Aires,2025,12,Dengue,10,De 35 a 44 años,1
+658,Quilmes,6,Buenos Aires,2025,17,Dengue,11,De 45 a 65 años,1
+686,Rojas,6,Buenos Aires,2025,14,Dengue,8,De 20 a 24 años,3
+686,Rojas,6,Buenos Aires,2025,16,Dengue,8,De 20 a 24 años,1
+686,Rojas,6,Buenos Aires,2025,16,Dengue,9,De 25 a 34 años,1
+714,Salto,6,Buenos Aires,2025,15,Dengue,7,De 15 a 19 años,1
+735,San Antonio de Areco,6,Buenos Aires,2025,7,Dengue,12,Mayores de 65 años,1
+749,San Fernando,6,Buenos Aires,2025,13,Dengue,5,De 5 a 9 años,1
+749,San Fernando,6,Buenos Aires,2025,18,Dengue,12,Mayores de 65 años,1
+756,San Isidro,6,Buenos Aires,2025,14,Dengue,6,De 10 a 14 años,1
+756,San Isidro,6,Buenos Aires,2025,21,Dengue,6,De 10 a 14 años,1
+756,San Isidro,6,Buenos Aires,2025,11,Dengue,9,De 25 a 34 años,1
+756,San Isidro,6,Buenos Aires,2025,14,Dengue,9,De 25 a 34 años,1
+756,San Isidro,6,Buenos Aires,2025,19,Dengue,9,De 25 a 34 años,1
+756,San Isidro,6,Buenos Aires,2025,21,Dengue,9,De 25 a 34 años,1
+756,San Isidro,6,Buenos Aires,2025,8,Dengue,10,De 35 a 44 años,1
+756,San Isidro,6,Buenos Aires,2025,19,Dengue,10,De 35 a 44 años,1
+756,San Isidro,6,Buenos Aires,2025,14,Dengue,11,De 45 a 65 años,1
+756,San Isidro,6,Buenos Aires,2025,21,Dengue,11,De 45 a 65 años,1
+756,San Isidro,6,Buenos Aires,2025,11,Dengue,12,Mayores de 65 años,2
+760,San Miguel,6,Buenos Aires,2025,13,Dengue,5,De 5 a 9 años,1
+760,San Miguel,6,Buenos Aires,2025,13,Dengue,6,De 10 a 14 años,1
+760,San Miguel,6,Buenos Aires,2025,18,Dengue,7,De 15 a 19 años,1
+760,San Miguel,6,Buenos Aires,2025,13,Dengue,8,De 20 a 24 años,1
+760,San Miguel,6,Buenos Aires,2025,18,Dengue,9,De 25 a 34 años,1
+760,San Miguel,6,Buenos Aires,2025,19,Dengue,9,De 25 a 34 años,1
+760,San Miguel,6,Buenos Aires,2025,23,Dengue,9,De 25 a 34 años,1
+760,San Miguel,6,Buenos Aires,2025,12,Dengue,11,De 45 a 65 años,1
+760,San Miguel,6,Buenos Aires,2025,14,Dengue,11,De 45 a 65 años,1
+760,San Miguel,6,Buenos Aires,2025,18,Dengue,11,De 45 a 65 años,1
+763,San Nicolás,6,Buenos Aires,2025,19,Dengue,8,De 20 a 24 años,1
+763,San Nicolás,6,Buenos Aires,2025,13,Dengue,9,De 25 a 34 años,1
+763,San Nicolás,6,Buenos Aires,2025,17,Dengue,9,De 25 a 34 años,1
+763,San Nicolás,6,Buenos Aires,2025,10,Dengue,12,Mayores de 65 años,1
+770,San Pedro,6,Buenos Aires,2025,14,Dengue,8,De 20 a 24 años,1
+770,San Pedro,6,Buenos Aires,2025,14,Dengue,11,De 45 a 65 años,1
+778,San Vicente,6,Buenos Aires,2025,20,Dengue,9,De 25 a 34 años,1
+805,Tigre,6,Buenos Aires,2025,19,Dengue,5,De 5 a 9 años,1
+805,Tigre,6,Buenos Aires,2025,17,Dengue,7,De 15 a 19 años,1
+805,Tigre,6,Buenos Aires,2025,10,Dengue,9,De 25 a 34 años,1
+805,Tigre,6,Buenos Aires,2025,12,Dengue,10,De 35 a 44 años,1
+805,Tigre,6,Buenos Aires,2025,15,Dengue,10,De 35 a 44 años,1
+840,Tres de Febrero,6,Buenos Aires,2025,12,Dengue,6,De 10 a 14 años,1
+840,Tres de Febrero,6,Buenos Aires,2025,13,Dengue,6,De 10 a 14 años,2
+840,Tres de Febrero,6,Buenos Aires,2025,8,Dengue,7,De 15 a 19 años,1
+840,Tres de Febrero,6,Buenos Aires,2025,9,Dengue,7,De 15 a 19 años,1
+840,Tres de Febrero,6,Buenos Aires,2025,13,Dengue,7,De 15 a 19 años,1
+840,Tres de Febrero,6,Buenos Aires,2025,16,Dengue,8,De 20 a 24 años,1
+840,Tres de Febrero,6,Buenos Aires,2025,17,Dengue,8,De 20 a 24 años,1
+840,Tres de Febrero,6,Buenos Aires,2025,11,Dengue,9,De 25 a 34 años,2
+840,Tres de Febrero,6,Buenos Aires,2025,12,Dengue,9,De 25 a 34 años,2
+840,Tres de Febrero,6,Buenos Aires,2025,14,Dengue,9,De 25 a 34 años,3
+840,Tres de Febrero,6,Buenos Aires,2025,17,Dengue,9,De 25 a 34 años,1
+840,Tres de Febrero,6,Buenos Aires,2025,18,Dengue,9,De 25 a 34 años,1
+840,Tres de Febrero,6,Buenos Aires,2025,13,Dengue,10,De 35 a 44 años,2
+840,Tres de Febrero,6,Buenos Aires,2025,14,Dengue,10,De 35 a 44 años,2
+840,Tres de Febrero,6,Buenos Aires,2025,15,Dengue,10,De 35 a 44 años,1
+840,Tres de Febrero,6,Buenos Aires,2025,7,Dengue,11,De 45 a 65 años,2
+840,Tres de Febrero,6,Buenos Aires,2025,10,Dengue,11,De 45 a 65 años,1
+840,Tres de Febrero,6,Buenos Aires,2025,11,Dengue,11,De 45 a 65 años,1
+840,Tres de Febrero,6,Buenos Aires,2025,12,Dengue,11,De 45 a 65 años,1
+840,Tres de Febrero,6,Buenos Aires,2025,13,Dengue,11,De 45 a 65 años,2
+840,Tres de Febrero,6,Buenos Aires,2025,14,Dengue,11,De 45 a 65 años,2
+840,Tres de Febrero,6,Buenos Aires,2025,15,Dengue,11,De 45 a 65 años,1
+840,Tres de Febrero,6,Buenos Aires,2025,16,Dengue,11,De 45 a 65 años,1
+840,Tres de Febrero,6,Buenos Aires,2025,18,Dengue,11,De 45 a 65 años,1
+840,Tres de Febrero,6,Buenos Aires,2025,5,Dengue,12,Mayores de 65 años,1
+840,Tres de Febrero,6,Buenos Aires,2025,18,Dengue,12,Mayores de 65 años,1
+861,Vicente López,6,Buenos Aires,2025,14,Dengue,4,De 2 a 4 años,1
+861,Vicente López,6,Buenos Aires,2025,11,Dengue,5,De 5 a 9 años,2
+861,Vicente López,6,Buenos Aires,2025,15,Dengue,5,De 5 a 9 años,1
+861,Vicente López,6,Buenos Aires,2025,14,Dengue,6,De 10 a 14 años,1
+861,Vicente López,6,Buenos Aires,2025,17,Dengue,6,De 10 a 14 años,1
+861,Vicente López,6,Buenos Aires,2025,18,Dengue,6,De 10 a 14 años,2
+861,Vicente López,6,Buenos Aires,2025,19,Dengue,6,De 10 a 14 años,1
+861,Vicente López,6,Buenos Aires,2025,21,Dengue,6,De 10 a 14 años,1
+861,Vicente López,6,Buenos Aires,2025,8,Dengue,7,De 15 a 19 años,1
+861,Vicente López,6,Buenos Aires,2025,11,Dengue,7,De 15 a 19 años,3
+861,Vicente López,6,Buenos Aires,2025,12,Dengue,7,De 15 a 19 años,1
+861,Vicente López,6,Buenos Aires,2025,15,Dengue,7,De 15 a 19 años,1
+861,Vicente López,6,Buenos Aires,2025,16,Dengue,7,De 15 a 19 años,1
+861,Vicente López,6,Buenos Aires,2025,17,Dengue,7,De 15 a 19 años,1
+861,Vicente López,6,Buenos Aires,2025,20,Dengue,7,De 15 a 19 años,1
+861,Vicente López,6,Buenos Aires,2025,8,Dengue,8,De 20 a 24 años,1
+861,Vicente López,6,Buenos Aires,2025,11,Dengue,8,De 20 a 24 años,1
+861,Vicente López,6,Buenos Aires,2025,12,Dengue,8,De 20 a 24 años,2
+861,Vicente López,6,Buenos Aires,2025,14,Dengue,8,De 20 a 24 años,1
+861,Vicente López,6,Buenos Aires,2025,16,Dengue,8,De 20 a 24 años,1
+861,Vicente López,6,Buenos Aires,2025,17,Dengue,8,De 20 a 24 años,1
+861,Vicente López,6,Buenos Aires,2025,11,Dengue,9,De 25 a 34 años,2
+861,Vicente López,6,Buenos Aires,2025,15,Dengue,9,De 25 a 34 años,2
+861,Vicente López,6,Buenos Aires,2025,16,Dengue,9,De 25 a 34 años,2
+861,Vicente López,6,Buenos Aires,2025,18,Dengue,9,De 25 a 34 años,1
+861,Vicente López,6,Buenos Aires,2025,19,Dengue,9,De 25 a 34 años,1
+861,Vicente López,6,Buenos Aires,2025,8,Dengue,10,De 35 a 44 años,1
+861,Vicente López,6,Buenos Aires,2025,11,Dengue,10,De 35 a 44 años,2
+861,Vicente López,6,Buenos Aires,2025,12,Dengue,10,De 35 a 44 años,2
+861,Vicente López,6,Buenos Aires,2025,13,Dengue,10,De 35 a 44 años,1
+861,Vicente López,6,Buenos Aires,2025,14,Dengue,10,De 35 a 44 años,2
+861,Vicente López,6,Buenos Aires,2025,17,Dengue,10,De 35 a 44 años,1
+861,Vicente López,6,Buenos Aires,2025,20,Dengue,10,De 35 a 44 años,1
+861,Vicente López,6,Buenos Aires,2025,9,Dengue,11,De 45 a 65 años,1
+861,Vicente López,6,Buenos Aires,2025,11,Dengue,11,De 45 a 65 años,6
+861,Vicente López,6,Buenos Aires,2025,12,Dengue,11,De 45 a 65 años,3
+861,Vicente López,6,Buenos Aires,2025,14,Dengue,11,De 45 a 65 años,2
+861,Vicente López,6,Buenos Aires,2025,16,Dengue,11,De 45 a 65 años,1
+861,Vicente López,6,Buenos Aires,2025,17,Dengue,11,De 45 a 65 años,1
+861,Vicente López,6,Buenos Aires,2025,10,Dengue,12,Mayores de 65 años,2
+861,Vicente López,6,Buenos Aires,2025,11,Dengue,12,Mayores de 65 años,2
+861,Vicente López,6,Buenos Aires,2025,13,Dengue,12,Mayores de 65 años,2
+861,Vicente López,6,Buenos Aires,2025,19,Dengue,12,Mayores de 65 años,1
+882,Zárate,6,Buenos Aires,2025,17,Dengue,10,De 35 a 44 años,1
+21,Andalgalá,10,Catamarca,2025,14,Dengue,5,De 5 a 9 años,1
+21,Andalgalá,10,Catamarca,2025,20,Dengue,9,De 25 a 34 años,1
+35,Belén,10,Catamarca,2025,11,Dengue,9,De 25 a 34 años,1
+35,Belén,10,Catamarca,2025,14,Dengue,9,De 25 a 34 años,1
+42,Capayán,10,Catamarca,2025,14,Dengue,10,De 35 a 44 años,1
+49,Capital,10,Catamarca,2025,3,Dengue,8,De 20 a 24 años,1
+49,Capital,10,Catamarca,2025,10,Dengue,9,De 25 a 34 años,1
+49,Capital,10,Catamarca,2025,11,Dengue,9,De 25 a 34 años,1
+49,Capital,10,Catamarca,2025,21,Dengue,9,De 25 a 34 años,1
+49,Capital,10,Catamarca,2025,5,Dengue,10,De 35 a 44 años,1
+49,Capital,10,Catamarca,2025,9,Dengue,11,De 45 a 65 años,1
+63,Fray Mamerto Esquiú,10,Catamarca,2025,10,Dengue,10,De 35 a 44 años,1
+70,La Paz,10,Catamarca,2025,12,Dengue,7,De 15 a 19 años,1
+98,Santa Rosa,10,Catamarca,2025,25,Dengue,12,Mayores de 65 años,1
+112,Valle Viejo,10,Catamarca,2025,15,Dengue,10,De 35 a 44 años,1
+112,Valle Viejo,10,Catamarca,2025,3,Dengue,11,De 45 a 65 años,1
+112,Valle Viejo,10,Catamarca,2025,11,Dengue,11,De 45 a 65 años,1
+7,Calamuchita,14,Córdoba,2025,11,Dengue,8,De 20 a 24 años,1
+7,Calamuchita,14,Córdoba,2025,12,Dengue,10,De 35 a 44 años,1
+7,Calamuchita,14,Córdoba,2025,15,Dengue,10,De 35 a 44 años,1
+7,Calamuchita,14,Córdoba,2025,16,Dengue,10,De 35 a 44 años,1
+14,Capital,14,Córdoba,2025,12,Dengue,2,Posneonato (29 hasta 365 días),2
+14,Capital,14,Córdoba,2025,13,Dengue,2,Posneonato (29 hasta 365 días),1
+14,Capital,14,Córdoba,2025,17,Dengue,2,Posneonato (29 hasta 365 días),2
+14,Capital,14,Córdoba,2025,18,Dengue,2,Posneonato (29 hasta 365 días),1
+14,Capital,14,Córdoba,2025,4,Dengue,3,De 13 a 24 meses,1
+14,Capital,14,Córdoba,2025,11,Dengue,3,De 13 a 24 meses,2
+14,Capital,14,Córdoba,2025,13,Dengue,3,De 13 a 24 meses,1
+14,Capital,14,Córdoba,2025,19,Dengue,3,De 13 a 24 meses,1
+14,Capital,14,Córdoba,2025,20,Dengue,3,De 13 a 24 meses,1
+14,Capital,14,Córdoba,2025,8,Dengue,4,De 2 a 4 años,1
+14,Capital,14,Córdoba,2025,9,Dengue,4,De 2 a 4 años,1
+14,Capital,14,Córdoba,2025,11,Dengue,4,De 2 a 4 años,1
+14,Capital,14,Córdoba,2025,12,Dengue,4,De 2 a 4 años,1
+14,Capital,14,Córdoba,2025,13,Dengue,4,De 2 a 4 años,1
+14,Capital,14,Córdoba,2025,14,Dengue,4,De 2 a 4 años,1
+14,Capital,14,Córdoba,2025,17,Dengue,4,De 2 a 4 años,1
+14,Capital,14,Córdoba,2025,19,Dengue,4,De 2 a 4 años,2
+14,Capital,14,Córdoba,2025,21,Dengue,4,De 2 a 4 años,1
+14,Capital,14,Córdoba,2025,6,Dengue,5,De 5 a 9 años,1
+14,Capital,14,Córdoba,2025,8,Dengue,5,De 5 a 9 años,1
+14,Capital,14,Córdoba,2025,9,Dengue,5,De 5 a 9 años,1
+14,Capital,14,Córdoba,2025,10,Dengue,5,De 5 a 9 años,4
+14,Capital,14,Córdoba,2025,11,Dengue,5,De 5 a 9 años,5
+14,Capital,14,Córdoba,2025,12,Dengue,5,De 5 a 9 años,6
+14,Capital,14,Córdoba,2025,13,Dengue,5,De 5 a 9 años,3
+14,Capital,14,Córdoba,2025,14,Dengue,5,De 5 a 9 años,5
+14,Capital,14,Córdoba,2025,17,Dengue,5,De 5 a 9 años,2
+14,Capital,14,Córdoba,2025,19,Dengue,5,De 5 a 9 años,2
+14,Capital,14,Córdoba,2025,20,Dengue,5,De 5 a 9 años,1
+14,Capital,14,Córdoba,2025,21,Dengue,5,De 5 a 9 años,4
+14,Capital,14,Córdoba,2025,22,Dengue,5,De 5 a 9 años,1
+14,Capital,14,Córdoba,2025,24,Dengue,5,De 5 a 9 años,1
+14,Capital,14,Córdoba,2025,1,Dengue,6,De 10 a 14 años,1
+14,Capital,14,Córdoba,2025,5,Dengue,6,De 10 a 14 años,1
+14,Capital,14,Córdoba,2025,6,Dengue,6,De 10 a 14 años,1
+14,Capital,14,Córdoba,2025,8,Dengue,6,De 10 a 14 años,2
+14,Capital,14,Córdoba,2025,9,Dengue,6,De 10 a 14 años,8
+14,Capital,14,Córdoba,2025,10,Dengue,6,De 10 a 14 años,1
+14,Capital,14,Córdoba,2025,11,Dengue,6,De 10 a 14 años,8
+14,Capital,14,Córdoba,2025,12,Dengue,6,De 10 a 14 años,8
+14,Capital,14,Córdoba,2025,13,Dengue,6,De 10 a 14 años,8
+14,Capital,14,Córdoba,2025,14,Dengue,6,De 10 a 14 años,9
+14,Capital,14,Córdoba,2025,15,Dengue,6,De 10 a 14 años,9
+14,Capital,14,Córdoba,2025,16,Dengue,6,De 10 a 14 años,4
+14,Capital,14,Córdoba,2025,17,Dengue,6,De 10 a 14 años,8
+14,Capital,14,Córdoba,2025,18,Dengue,6,De 10 a 14 años,2
+14,Capital,14,Córdoba,2025,19,Dengue,6,De 10 a 14 años,6
+14,Capital,14,Córdoba,2025,20,Dengue,6,De 10 a 14 años,4
+14,Capital,14,Córdoba,2025,21,Dengue,6,De 10 a 14 años,2
+14,Capital,14,Córdoba,2025,22,Dengue,6,De 10 a 14 años,1
+14,Capital,14,Córdoba,2025,4,Dengue,7,De 15 a 19 años,1
+14,Capital,14,Córdoba,2025,6,Dengue,7,De 15 a 19 años,1
+14,Capital,14,Córdoba,2025,7,Dengue,7,De 15 a 19 años,1
+14,Capital,14,Córdoba,2025,8,Dengue,7,De 15 a 19 años,3
+14,Capital,14,Córdoba,2025,9,Dengue,7,De 15 a 19 años,3
+14,Capital,14,Córdoba,2025,10,Dengue,7,De 15 a 19 años,4
+14,Capital,14,Córdoba,2025,11,Dengue,7,De 15 a 19 años,11
+14,Capital,14,Córdoba,2025,12,Dengue,7,De 15 a 19 años,2
+14,Capital,14,Córdoba,2025,13,Dengue,7,De 15 a 19 años,11
+14,Capital,14,Córdoba,2025,14,Dengue,7,De 15 a 19 años,9
+14,Capital,14,Córdoba,2025,15,Dengue,7,De 15 a 19 años,5
+14,Capital,14,Córdoba,2025,16,Dengue,7,De 15 a 19 años,1
+14,Capital,14,Córdoba,2025,17,Dengue,7,De 15 a 19 años,2
+14,Capital,14,Córdoba,2025,18,Dengue,7,De 15 a 19 años,1
+14,Capital,14,Córdoba,2025,19,Dengue,7,De 15 a 19 años,1
+14,Capital,14,Córdoba,2025,20,Dengue,7,De 15 a 19 años,6
+14,Capital,14,Córdoba,2025,22,Dengue,7,De 15 a 19 años,2
+14,Capital,14,Córdoba,2025,4,Dengue,8,De 20 a 24 años,1
+14,Capital,14,Córdoba,2025,5,Dengue,8,De 20 a 24 años,1
+14,Capital,14,Córdoba,2025,6,Dengue,8,De 20 a 24 años,2
+14,Capital,14,Córdoba,2025,7,Dengue,8,De 20 a 24 años,5
+14,Capital,14,Córdoba,2025,8,Dengue,8,De 20 a 24 años,3
+14,Capital,14,Córdoba,2025,9,Dengue,8,De 20 a 24 años,7
+14,Capital,14,Córdoba,2025,10,Dengue,8,De 20 a 24 años,9
+14,Capital,14,Córdoba,2025,11,Dengue,8,De 20 a 24 años,7
+14,Capital,14,Córdoba,2025,12,Dengue,8,De 20 a 24 años,7
+14,Capital,14,Córdoba,2025,13,Dengue,8,De 20 a 24 años,12
+14,Capital,14,Córdoba,2025,14,Dengue,8,De 20 a 24 años,18
+14,Capital,14,Córdoba,2025,15,Dengue,8,De 20 a 24 años,7
+14,Capital,14,Córdoba,2025,16,Dengue,8,De 20 a 24 años,5
+14,Capital,14,Córdoba,2025,17,Dengue,8,De 20 a 24 años,7
+14,Capital,14,Córdoba,2025,18,Dengue,8,De 20 a 24 años,2
+14,Capital,14,Córdoba,2025,19,Dengue,8,De 20 a 24 años,2
+14,Capital,14,Córdoba,2025,20,Dengue,8,De 20 a 24 años,2
+14,Capital,14,Córdoba,2025,21,Dengue,8,De 20 a 24 años,4
+14,Capital,14,Córdoba,2025,3,Dengue,9,De 25 a 34 años,2
+14,Capital,14,Córdoba,2025,5,Dengue,9,De 25 a 34 años,1
+14,Capital,14,Córdoba,2025,6,Dengue,9,De 25 a 34 años,2
+14,Capital,14,Córdoba,2025,7,Dengue,9,De 25 a 34 años,4
+14,Capital,14,Córdoba,2025,8,Dengue,9,De 25 a 34 años,7
+14,Capital,14,Córdoba,2025,9,Dengue,9,De 25 a 34 años,7
+14,Capital,14,Córdoba,2025,10,Dengue,9,De 25 a 34 años,11
+14,Capital,14,Córdoba,2025,11,Dengue,9,De 25 a 34 años,26
+14,Capital,14,Córdoba,2025,12,Dengue,9,De 25 a 34 años,20
+14,Capital,14,Córdoba,2025,13,Dengue,9,De 25 a 34 años,17
+14,Capital,14,Córdoba,2025,14,Dengue,9,De 25 a 34 años,18
+14,Capital,14,Córdoba,2025,15,Dengue,9,De 25 a 34 años,7
+14,Capital,14,Córdoba,2025,16,Dengue,9,De 25 a 34 años,3
+14,Capital,14,Córdoba,2025,17,Dengue,9,De 25 a 34 años,5
+14,Capital,14,Córdoba,2025,18,Dengue,9,De 25 a 34 años,2
+14,Capital,14,Córdoba,2025,19,Dengue,9,De 25 a 34 años,4
+14,Capital,14,Córdoba,2025,20,Dengue,9,De 25 a 34 años,4
+14,Capital,14,Córdoba,2025,21,Dengue,9,De 25 a 34 años,2
+14,Capital,14,Córdoba,2025,22,Dengue,9,De 25 a 34 años,2
+14,Capital,14,Córdoba,2025,28,Dengue,9,De 25 a 34 años,1
+14,Capital,14,Córdoba,2025,4,Dengue,10,De 35 a 44 años,1
+14,Capital,14,Córdoba,2025,5,Dengue,10,De 35 a 44 años,1
+14,Capital,14,Córdoba,2025,6,Dengue,10,De 35 a 44 años,2
+14,Capital,14,Córdoba,2025,7,Dengue,10,De 35 a 44 años,3
+14,Capital,14,Córdoba,2025,8,Dengue,10,De 35 a 44 años,7
+14,Capital,14,Córdoba,2025,9,Dengue,10,De 35 a 44 años,11
+14,Capital,14,Córdoba,2025,10,Dengue,10,De 35 a 44 años,16
+14,Capital,14,Córdoba,2025,11,Dengue,10,De 35 a 44 años,21
+14,Capital,14,Córdoba,2025,12,Dengue,10,De 35 a 44 años,17
+14,Capital,14,Córdoba,2025,13,Dengue,10,De 35 a 44 años,19
+14,Capital,14,Córdoba,2025,14,Dengue,10,De 35 a 44 años,20
+14,Capital,14,Córdoba,2025,15,Dengue,10,De 35 a 44 años,5
+14,Capital,14,Córdoba,2025,16,Dengue,10,De 35 a 44 años,1
+14,Capital,14,Córdoba,2025,17,Dengue,10,De 35 a 44 años,4
+14,Capital,14,Córdoba,2025,18,Dengue,10,De 35 a 44 años,4
+14,Capital,14,Córdoba,2025,19,Dengue,10,De 35 a 44 años,4
+14,Capital,14,Córdoba,2025,20,Dengue,10,De 35 a 44 años,3
+14,Capital,14,Córdoba,2025,21,Dengue,10,De 35 a 44 años,2
+14,Capital,14,Córdoba,2025,2,Dengue,11,De 45 a 65 años,1
+14,Capital,14,Córdoba,2025,3,Dengue,11,De 45 a 65 años,1
+14,Capital,14,Córdoba,2025,4,Dengue,11,De 45 a 65 años,3
+14,Capital,14,Córdoba,2025,5,Dengue,11,De 45 a 65 años,3
+14,Capital,14,Córdoba,2025,6,Dengue,11,De 45 a 65 años,5
+14,Capital,14,Córdoba,2025,7,Dengue,11,De 45 a 65 años,8
+14,Capital,14,Córdoba,2025,8,Dengue,11,De 45 a 65 años,5
+14,Capital,14,Córdoba,2025,9,Dengue,11,De 45 a 65 años,13
+14,Capital,14,Córdoba,2025,10,Dengue,11,De 45 a 65 años,17
+14,Capital,14,Córdoba,2025,11,Dengue,11,De 45 a 65 años,28
+14,Capital,14,Córdoba,2025,12,Dengue,11,De 45 a 65 años,26
+14,Capital,14,Córdoba,2025,13,Dengue,11,De 45 a 65 años,27
+14,Capital,14,Córdoba,2025,14,Dengue,11,De 45 a 65 años,31
+14,Capital,14,Córdoba,2025,15,Dengue,11,De 45 a 65 años,19
+14,Capital,14,Córdoba,2025,16,Dengue,11,De 45 a 65 años,10
+14,Capital,14,Córdoba,2025,17,Dengue,11,De 45 a 65 años,7
+14,Capital,14,Córdoba,2025,18,Dengue,11,De 45 a 65 años,8
+14,Capital,14,Córdoba,2025,19,Dengue,11,De 45 a 65 años,4
+14,Capital,14,Córdoba,2025,20,Dengue,11,De 45 a 65 años,2
+14,Capital,14,Córdoba,2025,21,Dengue,11,De 45 a 65 años,4
+14,Capital,14,Córdoba,2025,4,Dengue,12,Mayores de 65 años,1
+14,Capital,14,Córdoba,2025,5,Dengue,12,Mayores de 65 años,1
+14,Capital,14,Córdoba,2025,7,Dengue,12,Mayores de 65 años,1
+14,Capital,14,Córdoba,2025,8,Dengue,12,Mayores de 65 años,3
+14,Capital,14,Córdoba,2025,9,Dengue,12,Mayores de 65 años,3
+14,Capital,14,Córdoba,2025,10,Dengue,12,Mayores de 65 años,6
+14,Capital,14,Córdoba,2025,11,Dengue,12,Mayores de 65 años,5
+14,Capital,14,Córdoba,2025,12,Dengue,12,Mayores de 65 años,4
+14,Capital,14,Córdoba,2025,13,Dengue,12,Mayores de 65 años,9
+14,Capital,14,Córdoba,2025,14,Dengue,12,Mayores de 65 años,7
+14,Capital,14,Córdoba,2025,15,Dengue,12,Mayores de 65 años,2
+14,Capital,14,Córdoba,2025,16,Dengue,12,Mayores de 65 años,2
+14,Capital,14,Córdoba,2025,18,Dengue,12,Mayores de 65 años,3
+14,Capital,14,Córdoba,2025,20,Dengue,12,Mayores de 65 años,1
+14,Capital,14,Córdoba,2025,22,Dengue,12,Mayores de 65 años,1
+14,Capital,14,Córdoba,2025,29,Dengue,12,Mayores de 65 años,1
+14,Capital,14,Córdoba,2025,13,Dengue durante la gestación,7,De 15 a 19 años,1
+14,Capital,14,Córdoba,2025,10,Dengue durante la gestación,8,De 20 a 24 años,1
+14,Capital,14,Córdoba,2025,15,Dengue durante la gestación,8,De 20 a 24 años,1
+14,Capital,14,Córdoba,2025,17,Dengue durante la gestación,8,De 20 a 24 años,1
+14,Capital,14,Córdoba,2025,18,Dengue durante la gestación,8,De 20 a 24 años,1
+14,Capital,14,Córdoba,2025,13,Dengue durante la gestación,9,De 25 a 34 años,1
+14,Capital,14,Córdoba,2025,15,Dengue durante la gestación,9,De 25 a 34 años,2
+14,Capital,14,Córdoba,2025,16,Dengue durante la gestación,9,De 25 a 34 años,1
+14,Capital,14,Córdoba,2025,10,Dengue durante la gestación,10,De 35 a 44 años,1
+21,Colón,14,Córdoba,2025,5,Dengue,1,Neonato (hasta 28 días),1
+21,Colón,14,Córdoba,2025,3,Dengue,5,De 5 a 9 años,1
+21,Colón,14,Córdoba,2025,9,Dengue,5,De 5 a 9 años,1
+21,Colón,14,Córdoba,2025,10,Dengue,5,De 5 a 9 años,1
+21,Colón,14,Córdoba,2025,11,Dengue,5,De 5 a 9 años,2
+21,Colón,14,Córdoba,2025,12,Dengue,5,De 5 a 9 años,1
+21,Colón,14,Córdoba,2025,18,Dengue,5,De 5 a 9 años,1
+21,Colón,14,Córdoba,2025,4,Dengue,6,De 10 a 14 años,2
+21,Colón,14,Córdoba,2025,8,Dengue,6,De 10 a 14 años,1
+21,Colón,14,Córdoba,2025,10,Dengue,6,De 10 a 14 años,1
+21,Colón,14,Córdoba,2025,11,Dengue,6,De 10 a 14 años,2
+21,Colón,14,Córdoba,2025,14,Dengue,6,De 10 a 14 años,2
+21,Colón,14,Córdoba,2025,15,Dengue,6,De 10 a 14 años,1
+21,Colón,14,Córdoba,2025,9,Dengue,7,De 15 a 19 años,2
+21,Colón,14,Córdoba,2025,10,Dengue,7,De 15 a 19 años,1
+21,Colón,14,Córdoba,2025,11,Dengue,7,De 15 a 19 años,2
+21,Colón,14,Córdoba,2025,14,Dengue,7,De 15 a 19 años,1
+21,Colón,14,Córdoba,2025,15,Dengue,7,De 15 a 19 años,1
+21,Colón,14,Córdoba,2025,18,Dengue,7,De 15 a 19 años,1
+21,Colón,14,Córdoba,2025,6,Dengue,8,De 20 a 24 años,1
+21,Colón,14,Córdoba,2025,9,Dengue,8,De 20 a 24 años,1
+21,Colón,14,Córdoba,2025,10,Dengue,8,De 20 a 24 años,2
+21,Colón,14,Córdoba,2025,11,Dengue,8,De 20 a 24 años,3
+21,Colón,14,Córdoba,2025,12,Dengue,8,De 20 a 24 años,1
+21,Colón,14,Córdoba,2025,13,Dengue,8,De 20 a 24 años,2
+21,Colón,14,Córdoba,2025,14,Dengue,8,De 20 a 24 años,1
+21,Colón,14,Córdoba,2025,5,Dengue,9,De 25 a 34 años,2
+21,Colón,14,Córdoba,2025,8,Dengue,9,De 25 a 34 años,1
+21,Colón,14,Córdoba,2025,9,Dengue,9,De 25 a 34 años,7
+21,Colón,14,Córdoba,2025,10,Dengue,9,De 25 a 34 años,1
+21,Colón,14,Córdoba,2025,11,Dengue,9,De 25 a 34 años,5
+21,Colón,14,Córdoba,2025,12,Dengue,9,De 25 a 34 años,3
+21,Colón,14,Córdoba,2025,13,Dengue,9,De 25 a 34 años,5
+21,Colón,14,Córdoba,2025,14,Dengue,9,De 25 a 34 años,7
+21,Colón,14,Córdoba,2025,15,Dengue,9,De 25 a 34 años,2
+21,Colón,14,Córdoba,2025,6,Dengue,10,De 35 a 44 años,1
+21,Colón,14,Córdoba,2025,7,Dengue,10,De 35 a 44 años,1
+21,Colón,14,Córdoba,2025,8,Dengue,10,De 35 a 44 años,3
+21,Colón,14,Córdoba,2025,9,Dengue,10,De 35 a 44 años,4
+21,Colón,14,Córdoba,2025,10,Dengue,10,De 35 a 44 años,6
+21,Colón,14,Córdoba,2025,11,Dengue,10,De 35 a 44 años,5
+21,Colón,14,Córdoba,2025,12,Dengue,10,De 35 a 44 años,2
+21,Colón,14,Córdoba,2025,13,Dengue,10,De 35 a 44 años,1
+21,Colón,14,Córdoba,2025,14,Dengue,10,De 35 a 44 años,4
+21,Colón,14,Córdoba,2025,15,Dengue,10,De 35 a 44 años,3
+21,Colón,14,Córdoba,2025,4,Dengue,11,De 45 a 65 años,1
+21,Colón,14,Córdoba,2025,5,Dengue,11,De 45 a 65 años,2
+21,Colón,14,Córdoba,2025,6,Dengue,11,De 45 a 65 años,2
+21,Colón,14,Córdoba,2025,10,Dengue,11,De 45 a 65 años,4
+21,Colón,14,Córdoba,2025,11,Dengue,11,De 45 a 65 años,6
+21,Colón,14,Córdoba,2025,12,Dengue,11,De 45 a 65 años,6
+21,Colón,14,Córdoba,2025,13,Dengue,11,De 45 a 65 años,12
+21,Colón,14,Córdoba,2025,14,Dengue,11,De 45 a 65 años,6
+21,Colón,14,Córdoba,2025,15,Dengue,11,De 45 a 65 años,4
+21,Colón,14,Córdoba,2025,18,Dengue,11,De 45 a 65 años,1
+21,Colón,14,Córdoba,2025,19,Dengue,11,De 45 a 65 años,1
+21,Colón,14,Córdoba,2025,20,Dengue,11,De 45 a 65 años,1
+21,Colón,14,Córdoba,2025,6,Dengue,12,Mayores de 65 años,1
+21,Colón,14,Córdoba,2025,9,Dengue,12,Mayores de 65 años,3
+21,Colón,14,Córdoba,2025,10,Dengue,12,Mayores de 65 años,1
+21,Colón,14,Córdoba,2025,11,Dengue,12,Mayores de 65 años,4
+21,Colón,14,Córdoba,2025,12,Dengue,12,Mayores de 65 años,1
+21,Colón,14,Córdoba,2025,14,Dengue,12,Mayores de 65 años,1
+21,Colón,14,Córdoba,2025,17,Dengue,12,Mayores de 65 años,2
+21,Colón,14,Córdoba,2025,3,Dengue durante la gestación,9,De 25 a 34 años,1
+21,Colón,14,Córdoba,2025,5,Dengue durante la gestación,9,De 25 a 34 años,1
+28,Cruz del Eje,14,Córdoba,2025,8,Dengue,7,De 15 a 19 años,1
+28,Cruz del Eje,14,Córdoba,2025,22,Dengue,8,De 20 a 24 años,1
+28,Cruz del Eje,14,Córdoba,2025,19,Dengue,9,De 25 a 34 años,1
+28,Cruz del Eje,14,Córdoba,2025,17,Dengue,10,De 35 a 44 años,1
+28,Cruz del Eje,14,Córdoba,2025,20,Dengue,11,De 45 a 65 años,1
+28,Cruz del Eje,14,Córdoba,2025,13,Dengue,12,Mayores de 65 años,1
+28,Cruz del Eje,14,Córdoba,2025,21,Dengue,12,Mayores de 65 años,1
+35,General Roca,14,Córdoba,2025,8,Dengue,12,Mayores de 65 años,1
+42,General San Martín,14,Córdoba,2025,11,Dengue,2,Posneonato (29 hasta 365 días),1
+42,General San Martín,14,Córdoba,2025,13,Dengue,2,Posneonato (29 hasta 365 días),1
+42,General San Martín,14,Córdoba,2025,5,Dengue,3,De 13 a 24 meses,1
+42,General San Martín,14,Córdoba,2025,10,Dengue,3,De 13 a 24 meses,1
+42,General San Martín,14,Córdoba,2025,12,Dengue,4,De 2 a 4 años,1
+42,General San Martín,14,Córdoba,2025,15,Dengue,4,De 2 a 4 años,1
+42,General San Martín,14,Córdoba,2025,16,Dengue,4,De 2 a 4 años,1
+42,General San Martín,14,Córdoba,2025,22,Dengue,4,De 2 a 4 años,2
+42,General San Martín,14,Córdoba,2025,5,Dengue,5,De 5 a 9 años,1
+42,General San Martín,14,Córdoba,2025,6,Dengue,5,De 5 a 9 años,1
+42,General San Martín,14,Córdoba,2025,7,Dengue,5,De 5 a 9 años,1
+42,General San Martín,14,Córdoba,2025,9,Dengue,5,De 5 a 9 años,2
+42,General San Martín,14,Córdoba,2025,10,Dengue,5,De 5 a 9 años,5
+42,General San Martín,14,Córdoba,2025,11,Dengue,5,De 5 a 9 años,6
+42,General San Martín,14,Córdoba,2025,12,Dengue,5,De 5 a 9 años,1
+42,General San Martín,14,Córdoba,2025,13,Dengue,5,De 5 a 9 años,2
+42,General San Martín,14,Córdoba,2025,14,Dengue,5,De 5 a 9 años,4
+42,General San Martín,14,Córdoba,2025,15,Dengue,5,De 5 a 9 años,1
+42,General San Martín,14,Córdoba,2025,17,Dengue,5,De 5 a 9 años,1
+42,General San Martín,14,Córdoba,2025,18,Dengue,5,De 5 a 9 años,1
+42,General San Martín,14,Córdoba,2025,20,Dengue,5,De 5 a 9 años,2
+42,General San Martín,14,Córdoba,2025,22,Dengue,5,De 5 a 9 años,2
+42,General San Martín,14,Córdoba,2025,7,Dengue,6,De 10 a 14 años,2
+42,General San Martín,14,Córdoba,2025,8,Dengue,6,De 10 a 14 años,1
+42,General San Martín,14,Córdoba,2025,9,Dengue,6,De 10 a 14 años,2
+42,General San Martín,14,Córdoba,2025,10,Dengue,6,De 10 a 14 años,7
+42,General San Martín,14,Córdoba,2025,11,Dengue,6,De 10 a 14 años,8
+42,General San Martín,14,Córdoba,2025,12,Dengue,6,De 10 a 14 años,3
+42,General San Martín,14,Córdoba,2025,13,Dengue,6,De 10 a 14 años,6
+42,General San Martín,14,Córdoba,2025,14,Dengue,6,De 10 a 14 años,4
+42,General San Martín,14,Córdoba,2025,15,Dengue,6,De 10 a 14 años,3
+42,General San Martín,14,Córdoba,2025,16,Dengue,6,De 10 a 14 años,2
+42,General San Martín,14,Córdoba,2025,17,Dengue,6,De 10 a 14 años,1
+42,General San Martín,14,Córdoba,2025,20,Dengue,6,De 10 a 14 años,1
+42,General San Martín,14,Córdoba,2025,9,Dengue,7,De 15 a 19 años,1
+42,General San Martín,14,Córdoba,2025,10,Dengue,7,De 15 a 19 años,5
+42,General San Martín,14,Córdoba,2025,11,Dengue,7,De 15 a 19 años,7
+42,General San Martín,14,Córdoba,2025,12,Dengue,7,De 15 a 19 años,2
+42,General San Martín,14,Córdoba,2025,13,Dengue,7,De 15 a 19 años,1
+42,General San Martín,14,Córdoba,2025,14,Dengue,7,De 15 a 19 años,4
+42,General San Martín,14,Córdoba,2025,15,Dengue,7,De 15 a 19 años,3
+42,General San Martín,14,Córdoba,2025,17,Dengue,7,De 15 a 19 años,1
+42,General San Martín,14,Córdoba,2025,18,Dengue,7,De 15 a 19 años,1
+42,General San Martín,14,Córdoba,2025,19,Dengue,7,De 15 a 19 años,3
+42,General San Martín,14,Córdoba,2025,20,Dengue,7,De 15 a 19 años,2
+42,General San Martín,14,Córdoba,2025,21,Dengue,7,De 15 a 19 años,1
+42,General San Martín,14,Córdoba,2025,7,Dengue,8,De 20 a 24 años,1
+42,General San Martín,14,Córdoba,2025,8,Dengue,8,De 20 a 24 años,2
+42,General San Martín,14,Córdoba,2025,9,Dengue,8,De 20 a 24 años,3
+42,General San Martín,14,Córdoba,2025,10,Dengue,8,De 20 a 24 años,7
+42,General San Martín,14,Córdoba,2025,11,Dengue,8,De 20 a 24 años,11
+42,General San Martín,14,Córdoba,2025,12,Dengue,8,De 20 a 24 años,4
+42,General San Martín,14,Córdoba,2025,13,Dengue,8,De 20 a 24 años,4
+42,General San Martín,14,Córdoba,2025,14,Dengue,8,De 20 a 24 años,6
+42,General San Martín,14,Córdoba,2025,15,Dengue,8,De 20 a 24 años,3
+42,General San Martín,14,Córdoba,2025,16,Dengue,8,De 20 a 24 años,2
+42,General San Martín,14,Córdoba,2025,18,Dengue,8,De 20 a 24 años,2
+42,General San Martín,14,Córdoba,2025,20,Dengue,8,De 20 a 24 años,1
+42,General San Martín,14,Córdoba,2025,21,Dengue,8,De 20 a 24 años,1
+42,General San Martín,14,Córdoba,2025,3,Dengue,9,De 25 a 34 años,1
+42,General San Martín,14,Córdoba,2025,5,Dengue,9,De 25 a 34 años,1
+42,General San Martín,14,Córdoba,2025,6,Dengue,9,De 25 a 34 años,4
+42,General San Martín,14,Córdoba,2025,7,Dengue,9,De 25 a 34 años,3
+42,General San Martín,14,Córdoba,2025,8,Dengue,9,De 25 a 34 años,2
+42,General San Martín,14,Córdoba,2025,9,Dengue,9,De 25 a 34 años,5
+42,General San Martín,14,Córdoba,2025,10,Dengue,9,De 25 a 34 años,16
+42,General San Martín,14,Córdoba,2025,11,Dengue,9,De 25 a 34 años,10
+42,General San Martín,14,Córdoba,2025,12,Dengue,9,De 25 a 34 años,4
+42,General San Martín,14,Córdoba,2025,13,Dengue,9,De 25 a 34 años,4
+42,General San Martín,14,Córdoba,2025,14,Dengue,9,De 25 a 34 años,3
+42,General San Martín,14,Córdoba,2025,15,Dengue,9,De 25 a 34 años,3
+42,General San Martín,14,Córdoba,2025,16,Dengue,9,De 25 a 34 años,4
+42,General San Martín,14,Córdoba,2025,17,Dengue,9,De 25 a 34 años,3
+42,General San Martín,14,Córdoba,2025,18,Dengue,9,De 25 a 34 años,1
+42,General San Martín,14,Córdoba,2025,19,Dengue,9,De 25 a 34 años,1
+42,General San Martín,14,Córdoba,2025,20,Dengue,9,De 25 a 34 años,3
+42,General San Martín,14,Córdoba,2025,23,Dengue,9,De 25 a 34 años,1
+42,General San Martín,14,Córdoba,2025,2,Dengue,10,De 35 a 44 años,1
+42,General San Martín,14,Córdoba,2025,6,Dengue,10,De 35 a 44 años,1
+42,General San Martín,14,Córdoba,2025,7,Dengue,10,De 35 a 44 años,2
+42,General San Martín,14,Córdoba,2025,8,Dengue,10,De 35 a 44 años,3
+42,General San Martín,14,Córdoba,2025,9,Dengue,10,De 35 a 44 años,5
+42,General San Martín,14,Córdoba,2025,10,Dengue,10,De 35 a 44 años,8
+42,General San Martín,14,Córdoba,2025,11,Dengue,10,De 35 a 44 años,19
+42,General San Martín,14,Córdoba,2025,12,Dengue,10,De 35 a 44 años,8
+42,General San Martín,14,Córdoba,2025,13,Dengue,10,De 35 a 44 años,11
+42,General San Martín,14,Córdoba,2025,14,Dengue,10,De 35 a 44 años,5
+42,General San Martín,14,Córdoba,2025,15,Dengue,10,De 35 a 44 años,4
+42,General San Martín,14,Córdoba,2025,16,Dengue,10,De 35 a 44 años,3
+42,General San Martín,14,Córdoba,2025,17,Dengue,10,De 35 a 44 años,2
+42,General San Martín,14,Córdoba,2025,20,Dengue,10,De 35 a 44 años,1
+42,General San Martín,14,Córdoba,2025,21,Dengue,10,De 35 a 44 años,1
+42,General San Martín,14,Córdoba,2025,2,Dengue,11,De 45 a 65 años,1
+42,General San Martín,14,Córdoba,2025,4,Dengue,11,De 45 a 65 años,1
+42,General San Martín,14,Córdoba,2025,5,Dengue,11,De 45 a 65 años,1
+42,General San Martín,14,Córdoba,2025,6,Dengue,11,De 45 a 65 años,2
+42,General San Martín,14,Córdoba,2025,7,Dengue,11,De 45 a 65 años,2
+42,General San Martín,14,Córdoba,2025,8,Dengue,11,De 45 a 65 años,6
+42,General San Martín,14,Córdoba,2025,9,Dengue,11,De 45 a 65 años,9
+42,General San Martín,14,Córdoba,2025,10,Dengue,11,De 45 a 65 años,9
+42,General San Martín,14,Córdoba,2025,11,Dengue,11,De 45 a 65 años,22
+42,General San Martín,14,Córdoba,2025,12,Dengue,11,De 45 a 65 años,10
+42,General San Martín,14,Córdoba,2025,13,Dengue,11,De 45 a 65 años,16
+42,General San Martín,14,Córdoba,2025,14,Dengue,11,De 45 a 65 años,7
+42,General San Martín,14,Córdoba,2025,15,Dengue,11,De 45 a 65 años,8
+42,General San Martín,14,Córdoba,2025,16,Dengue,11,De 45 a 65 años,6
+42,General San Martín,14,Córdoba,2025,17,Dengue,11,De 45 a 65 años,4
+42,General San Martín,14,Córdoba,2025,18,Dengue,11,De 45 a 65 años,3
+42,General San Martín,14,Córdoba,2025,19,Dengue,11,De 45 a 65 años,4
+42,General San Martín,14,Córdoba,2025,20,Dengue,11,De 45 a 65 años,4
+42,General San Martín,14,Córdoba,2025,21,Dengue,11,De 45 a 65 años,1
+42,General San Martín,14,Córdoba,2025,4,Dengue,12,Mayores de 65 años,1
+42,General San Martín,14,Córdoba,2025,8,Dengue,12,Mayores de 65 años,1
+42,General San Martín,14,Córdoba,2025,9,Dengue,12,Mayores de 65 años,2
+42,General San Martín,14,Córdoba,2025,10,Dengue,12,Mayores de 65 años,7
+42,General San Martín,14,Córdoba,2025,11,Dengue,12,Mayores de 65 años,5
+42,General San Martín,14,Córdoba,2025,12,Dengue,12,Mayores de 65 años,4
+42,General San Martín,14,Córdoba,2025,13,Dengue,12,Mayores de 65 años,8
+42,General San Martín,14,Córdoba,2025,14,Dengue,12,Mayores de 65 años,8
+42,General San Martín,14,Córdoba,2025,16,Dengue,12,Mayores de 65 años,2
+42,General San Martín,14,Córdoba,2025,17,Dengue,12,Mayores de 65 años,3
+42,General San Martín,14,Córdoba,2025,18,Dengue,12,Mayores de 65 años,1
+42,General San Martín,14,Córdoba,2025,19,Dengue,12,Mayores de 65 años,2
+42,General San Martín,14,Córdoba,2025,20,Dengue,12,Mayores de 65 años,1
+42,General San Martín,14,Córdoba,2025,14,Dengue durante la gestación,9,De 25 a 34 años,1
+42,General San Martín,14,Córdoba,2025,14,Dengue durante la gestación,10,De 35 a 44 años,1
+49,Ischilín,14,Córdoba,2025,13,Dengue,4,De 2 a 4 años,2
+49,Ischilín,14,Córdoba,2025,14,Dengue,4,De 2 a 4 años,1
+49,Ischilín,14,Córdoba,2025,13,Dengue,5,De 5 a 9 años,1
+49,Ischilín,14,Córdoba,2025,11,Dengue,6,De 10 a 14 años,1
+49,Ischilín,14,Córdoba,2025,12,Dengue,6,De 10 a 14 años,1
+49,Ischilín,14,Córdoba,2025,14,Dengue,6,De 10 a 14 años,1
+49,Ischilín,14,Córdoba,2025,12,Dengue,7,De 15 a 19 años,1
+49,Ischilín,14,Córdoba,2025,9,Dengue,8,De 20 a 24 años,1
+49,Ischilín,14,Córdoba,2025,12,Dengue,8,De 20 a 24 años,1
+49,Ischilín,14,Córdoba,2025,13,Dengue,8,De 20 a 24 años,1
+49,Ischilín,14,Córdoba,2025,14,Dengue,8,De 20 a 24 años,1
+49,Ischilín,14,Córdoba,2025,15,Dengue,8,De 20 a 24 años,1
+49,Ischilín,14,Córdoba,2025,5,Dengue,9,De 25 a 34 años,1
+49,Ischilín,14,Córdoba,2025,7,Dengue,9,De 25 a 34 años,1
+49,Ischilín,14,Córdoba,2025,11,Dengue,9,De 25 a 34 años,2
+49,Ischilín,14,Córdoba,2025,12,Dengue,9,De 25 a 34 años,1
+49,Ischilín,14,Córdoba,2025,13,Dengue,9,De 25 a 34 años,1
+49,Ischilín,14,Córdoba,2025,14,Dengue,9,De 25 a 34 años,2
+49,Ischilín,14,Córdoba,2025,15,Dengue,9,De 25 a 34 años,1
+49,Ischilín,14,Córdoba,2025,20,Dengue,9,De 25 a 34 años,1
+49,Ischilín,14,Córdoba,2025,5,Dengue,10,De 35 a 44 años,1
+49,Ischilín,14,Córdoba,2025,7,Dengue,10,De 35 a 44 años,3
+49,Ischilín,14,Córdoba,2025,9,Dengue,10,De 35 a 44 años,1
+49,Ischilín,14,Córdoba,2025,10,Dengue,10,De 35 a 44 años,1
+49,Ischilín,14,Córdoba,2025,11,Dengue,10,De 35 a 44 años,3
+49,Ischilín,14,Córdoba,2025,12,Dengue,10,De 35 a 44 años,5
+49,Ischilín,14,Córdoba,2025,13,Dengue,10,De 35 a 44 años,2
+49,Ischilín,14,Córdoba,2025,14,Dengue,10,De 35 a 44 años,3
+49,Ischilín,14,Córdoba,2025,15,Dengue,10,De 35 a 44 años,1
+49,Ischilín,14,Córdoba,2025,7,Dengue,11,De 45 a 65 años,2
+49,Ischilín,14,Córdoba,2025,8,Dengue,11,De 45 a 65 años,1
+49,Ischilín,14,Córdoba,2025,10,Dengue,11,De 45 a 65 años,3
+49,Ischilín,14,Córdoba,2025,11,Dengue,11,De 45 a 65 años,3
+49,Ischilín,14,Córdoba,2025,12,Dengue,11,De 45 a 65 años,2
+49,Ischilín,14,Córdoba,2025,13,Dengue,11,De 45 a 65 años,3
+49,Ischilín,14,Córdoba,2025,14,Dengue,11,De 45 a 65 años,1
+49,Ischilín,14,Córdoba,2025,15,Dengue,11,De 45 a 65 años,1
+49,Ischilín,14,Córdoba,2025,10,Dengue,12,Mayores de 65 años,1
+49,Ischilín,14,Córdoba,2025,13,Dengue,12,Mayores de 65 años,1
+56,Juárez Celman,14,Córdoba,2025,12,Dengue,11,De 45 a 65 años,1
+63,Marcos Juárez,14,Córdoba,2025,14,Dengue,6,De 10 a 14 años,1
+63,Marcos Juárez,14,Córdoba,2025,11,Dengue,7,De 15 a 19 años,1
+63,Marcos Juárez,14,Córdoba,2025,12,Dengue,7,De 15 a 19 años,1
+63,Marcos Juárez,14,Córdoba,2025,14,Dengue,8,De 20 a 24 años,1
+63,Marcos Juárez,14,Córdoba,2025,16,Dengue,8,De 20 a 24 años,1
+63,Marcos Juárez,14,Córdoba,2025,19,Dengue,8,De 20 a 24 años,1
+63,Marcos Juárez,14,Córdoba,2025,21,Dengue,8,De 20 a 24 años,1
+63,Marcos Juárez,14,Córdoba,2025,10,Dengue,9,De 25 a 34 años,2
+63,Marcos Juárez,14,Córdoba,2025,11,Dengue,9,De 25 a 34 años,3
+63,Marcos Juárez,14,Córdoba,2025,13,Dengue,9,De 25 a 34 años,1
+63,Marcos Juárez,14,Córdoba,2025,14,Dengue,9,De 25 a 34 años,1
+63,Marcos Juárez,14,Córdoba,2025,3,Dengue,10,De 35 a 44 años,1
+63,Marcos Juárez,14,Córdoba,2025,11,Dengue,10,De 35 a 44 años,1
+63,Marcos Juárez,14,Córdoba,2025,12,Dengue,10,De 35 a 44 años,1
+63,Marcos Juárez,14,Córdoba,2025,13,Dengue,10,De 35 a 44 años,2
+63,Marcos Juárez,14,Córdoba,2025,14,Dengue,10,De 35 a 44 años,2
+63,Marcos Juárez,14,Córdoba,2025,15,Dengue,10,De 35 a 44 años,1
+63,Marcos Juárez,14,Córdoba,2025,11,Dengue,11,De 45 a 65 años,3
+63,Marcos Juárez,14,Córdoba,2025,12,Dengue,11,De 45 a 65 años,1
+63,Marcos Juárez,14,Córdoba,2025,13,Dengue,11,De 45 a 65 años,3
+63,Marcos Juárez,14,Córdoba,2025,14,Dengue,11,De 45 a 65 años,4
+63,Marcos Juárez,14,Córdoba,2025,16,Dengue,11,De 45 a 65 años,1
+63,Marcos Juárez,14,Córdoba,2025,19,Dengue,11,De 45 a 65 años,1
+63,Marcos Juárez,14,Córdoba,2025,9,Dengue,12,Mayores de 65 años,1
+63,Marcos Juárez,14,Córdoba,2025,12,Dengue,12,Mayores de 65 años,1
+63,Marcos Juárez,14,Córdoba,2025,12,Dengue durante la gestación,8,De 20 a 24 años,1
+63,Marcos Juárez,14,Córdoba,2025,11,Dengue durante la gestación,9,De 25 a 34 años,1
+70,Minas,14,Córdoba,2025,13,Dengue,11,De 45 a 65 años,1
+77,Pocho,14,Córdoba,2025,9,Dengue,7,De 15 a 19 años,1
+84,Presidente Roque Sáenz Peña,14,Córdoba,2025,15,Dengue,10,De 35 a 44 años,1
+84,Presidente Roque Sáenz Peña,14,Córdoba,2025,16,Dengue,10,De 35 a 44 años,1
+84,Presidente Roque Sáenz Peña,14,Córdoba,2025,17,Dengue,10,De 35 a 44 años,1
+91,Punilla,14,Córdoba,2025,9,Dengue,7,De 15 a 19 años,1
+91,Punilla,14,Córdoba,2025,18,Dengue,7,De 15 a 19 años,1
+91,Punilla,14,Córdoba,2025,10,Dengue,9,De 25 a 34 años,1
+91,Punilla,14,Córdoba,2025,14,Dengue,9,De 25 a 34 años,1
+91,Punilla,14,Córdoba,2025,12,Dengue,10,De 35 a 44 años,1
+91,Punilla,14,Córdoba,2025,14,Dengue,11,De 45 a 65 años,1
+91,Punilla,14,Córdoba,2025,23,Dengue,11,De 45 a 65 años,1
+98,Río Cuarto,14,Córdoba,2025,11,Dengue,5,De 5 a 9 años,1
+98,Río Cuarto,14,Córdoba,2025,10,Dengue,6,De 10 a 14 años,1
+98,Río Cuarto,14,Córdoba,2025,11,Dengue,6,De 10 a 14 años,1
+98,Río Cuarto,14,Córdoba,2025,12,Dengue,6,De 10 a 14 años,1
+98,Río Cuarto,14,Córdoba,2025,11,Dengue,7,De 15 a 19 años,1
+98,Río Cuarto,14,Córdoba,2025,11,Dengue,8,De 20 a 24 años,1
+98,Río Cuarto,14,Córdoba,2025,11,Dengue,9,De 25 a 34 años,1
+98,Río Cuarto,14,Córdoba,2025,13,Dengue,9,De 25 a 34 años,1
+98,Río Cuarto,14,Córdoba,2025,7,Dengue,10,De 35 a 44 años,1
+98,Río Cuarto,14,Córdoba,2025,11,Dengue,10,De 35 a 44 años,2
+98,Río Cuarto,14,Córdoba,2025,15,Dengue,10,De 35 a 44 años,1
+98,Río Cuarto,14,Córdoba,2025,10,Dengue,11,De 45 a 65 años,1
+98,Río Cuarto,14,Córdoba,2025,12,Dengue,11,De 45 a 65 años,1
+98,Río Cuarto,14,Córdoba,2025,13,Dengue,11,De 45 a 65 años,1
+98,Río Cuarto,14,Córdoba,2025,15,Dengue,11,De 45 a 65 años,1
+98,Río Cuarto,14,Córdoba,2025,11,Dengue,12,Mayores de 65 años,2
+105,Río Primero,14,Córdoba,2025,11,Dengue,9,De 25 a 34 años,1
+105,Río Primero,14,Córdoba,2025,12,Dengue,11,De 45 a 65 años,1
+112,Río Seco,14,Córdoba,2025,15,Dengue,9,De 25 a 34 años,1
+112,Río Seco,14,Córdoba,2025,12,Dengue,10,De 35 a 44 años,1
+119,Río Segundo,14,Córdoba,2025,21,Dengue,4,De 2 a 4 años,1
+119,Río Segundo,14,Córdoba,2025,14,Dengue,8,De 20 a 24 años,1
+119,Río Segundo,14,Córdoba,2025,9,Dengue,9,De 25 a 34 años,1
+119,Río Segundo,14,Córdoba,2025,11,Dengue,9,De 25 a 34 años,1
+119,Río Segundo,14,Córdoba,2025,13,Dengue,9,De 25 a 34 años,2
+119,Río Segundo,14,Córdoba,2025,15,Dengue,9,De 25 a 34 años,1
+119,Río Segundo,14,Córdoba,2025,16,Dengue,9,De 25 a 34 años,1
+119,Río Segundo,14,Córdoba,2025,17,Dengue,9,De 25 a 34 años,1
+119,Río Segundo,14,Córdoba,2025,9,Dengue,11,De 45 a 65 años,1
+119,Río Segundo,14,Córdoba,2025,10,Dengue,11,De 45 a 65 años,1
+119,Río Segundo,14,Córdoba,2025,11,Dengue,11,De 45 a 65 años,1
+119,Río Segundo,14,Córdoba,2025,13,Dengue,11,De 45 a 65 años,1
+119,Río Segundo,14,Córdoba,2025,15,Dengue,11,De 45 a 65 años,1
+119,Río Segundo,14,Córdoba,2025,16,Dengue,11,De 45 a 65 años,1
+119,Río Segundo,14,Córdoba,2025,10,Dengue,12,Mayores de 65 años,1
+126,San Alberto,14,Córdoba,2025,14,Dengue,2,Posneonato (29 hasta 365 días),1
+126,San Alberto,14,Córdoba,2025,7,Dengue,3,De 13 a 24 meses,1
+126,San Alberto,14,Córdoba,2025,17,Dengue,3,De 13 a 24 meses,1
+126,San Alberto,14,Córdoba,2025,8,Dengue,4,De 2 a 4 años,1
+126,San Alberto,14,Córdoba,2025,10,Dengue,4,De 2 a 4 años,1
+126,San Alberto,14,Córdoba,2025,11,Dengue,4,De 2 a 4 años,2
+126,San Alberto,14,Córdoba,2025,12,Dengue,4,De 2 a 4 años,1
+126,San Alberto,14,Córdoba,2025,13,Dengue,4,De 2 a 4 años,2
+126,San Alberto,14,Córdoba,2025,14,Dengue,4,De 2 a 4 años,1
+126,San Alberto,14,Córdoba,2025,15,Dengue,4,De 2 a 4 años,1
+126,San Alberto,14,Córdoba,2025,7,Dengue,5,De 5 a 9 años,1
+126,San Alberto,14,Córdoba,2025,8,Dengue,5,De 5 a 9 años,3
+126,San Alberto,14,Córdoba,2025,10,Dengue,5,De 5 a 9 años,3
+126,San Alberto,14,Córdoba,2025,11,Dengue,5,De 5 a 9 años,8
+126,San Alberto,14,Córdoba,2025,12,Dengue,5,De 5 a 9 años,7
+126,San Alberto,14,Córdoba,2025,13,Dengue,5,De 5 a 9 años,8
+126,San Alberto,14,Córdoba,2025,14,Dengue,5,De 5 a 9 años,7
+126,San Alberto,14,Córdoba,2025,15,Dengue,5,De 5 a 9 años,2
+126,San Alberto,14,Córdoba,2025,17,Dengue,5,De 5 a 9 años,3
+126,San Alberto,14,Córdoba,2025,19,Dengue,5,De 5 a 9 años,1
+126,San Alberto,14,Córdoba,2025,9,Dengue,6,De 10 a 14 años,1
+126,San Alberto,14,Córdoba,2025,10,Dengue,6,De 10 a 14 años,2
+126,San Alberto,14,Córdoba,2025,11,Dengue,6,De 10 a 14 años,10
+126,San Alberto,14,Córdoba,2025,12,Dengue,6,De 10 a 14 años,4
+126,San Alberto,14,Córdoba,2025,13,Dengue,6,De 10 a 14 años,9
+126,San Alberto,14,Córdoba,2025,14,Dengue,6,De 10 a 14 años,3
+126,San Alberto,14,Córdoba,2025,15,Dengue,6,De 10 a 14 años,1
+126,San Alberto,14,Córdoba,2025,16,Dengue,6,De 10 a 14 años,1
+126,San Alberto,14,Córdoba,2025,17,Dengue,6,De 10 a 14 años,1
+126,San Alberto,14,Córdoba,2025,19,Dengue,6,De 10 a 14 años,2
+126,San Alberto,14,Córdoba,2025,22,Dengue,6,De 10 a 14 años,1
+126,San Alberto,14,Córdoba,2025,9,Dengue,7,De 15 a 19 años,1
+126,San Alberto,14,Córdoba,2025,10,Dengue,7,De 15 a 19 años,2
+126,San Alberto,14,Córdoba,2025,11,Dengue,7,De 15 a 19 años,5
+126,San Alberto,14,Córdoba,2025,12,Dengue,7,De 15 a 19 años,4
+126,San Alberto,14,Córdoba,2025,13,Dengue,7,De 15 a 19 años,7
+126,San Alberto,14,Córdoba,2025,14,Dengue,7,De 15 a 19 años,2
+126,San Alberto,14,Córdoba,2025,15,Dengue,7,De 15 a 19 años,1
+126,San Alberto,14,Córdoba,2025,16,Dengue,7,De 15 a 19 años,2
+126,San Alberto,14,Córdoba,2025,17,Dengue,7,De 15 a 19 años,1
+126,San Alberto,14,Córdoba,2025,18,Dengue,7,De 15 a 19 años,1
+126,San Alberto,14,Córdoba,2025,19,Dengue,7,De 15 a 19 años,2
+126,San Alberto,14,Córdoba,2025,20,Dengue,7,De 15 a 19 años,2
+126,San Alberto,14,Córdoba,2025,21,Dengue,7,De 15 a 19 años,1
+126,San Alberto,14,Córdoba,2025,22,Dengue,7,De 15 a 19 años,1
+126,San Alberto,14,Córdoba,2025,7,Dengue,8,De 20 a 24 años,1
+126,San Alberto,14,Córdoba,2025,8,Dengue,8,De 20 a 24 años,2
+126,San Alberto,14,Córdoba,2025,10,Dengue,8,De 20 a 24 años,1
+126,San Alberto,14,Córdoba,2025,11,Dengue,8,De 20 a 24 años,4
+126,San Alberto,14,Córdoba,2025,12,Dengue,8,De 20 a 24 años,3
+126,San Alberto,14,Córdoba,2025,13,Dengue,8,De 20 a 24 años,5
+126,San Alberto,14,Córdoba,2025,16,Dengue,8,De 20 a 24 años,1
+126,San Alberto,14,Córdoba,2025,17,Dengue,8,De 20 a 24 años,3
+126,San Alberto,14,Córdoba,2025,21,Dengue,8,De 20 a 24 años,1
+126,San Alberto,14,Córdoba,2025,6,Dengue,9,De 25 a 34 años,1
+126,San Alberto,14,Córdoba,2025,8,Dengue,9,De 25 a 34 años,3
+126,San Alberto,14,Córdoba,2025,9,Dengue,9,De 25 a 34 años,2
+126,San Alberto,14,Córdoba,2025,10,Dengue,9,De 25 a 34 años,4
+126,San Alberto,14,Córdoba,2025,11,Dengue,9,De 25 a 34 años,6
+126,San Alberto,14,Córdoba,2025,12,Dengue,9,De 25 a 34 años,8
+126,San Alberto,14,Córdoba,2025,13,Dengue,9,De 25 a 34 años,7
+126,San Alberto,14,Córdoba,2025,14,Dengue,9,De 25 a 34 años,11
+126,San Alberto,14,Córdoba,2025,15,Dengue,9,De 25 a 34 años,2
+126,San Alberto,14,Córdoba,2025,16,Dengue,9,De 25 a 34 años,1
+126,San Alberto,14,Córdoba,2025,17,Dengue,9,De 25 a 34 años,2
+126,San Alberto,14,Córdoba,2025,18,Dengue,9,De 25 a 34 años,2
+126,San Alberto,14,Córdoba,2025,19,Dengue,9,De 25 a 34 años,2
+126,San Alberto,14,Córdoba,2025,21,Dengue,9,De 25 a 34 años,1
+126,San Alberto,14,Córdoba,2025,6,Dengue,10,De 35 a 44 años,2
+126,San Alberto,14,Córdoba,2025,7,Dengue,10,De 35 a 44 años,1
+126,San Alberto,14,Córdoba,2025,8,Dengue,10,De 35 a 44 años,1
+126,San Alberto,14,Córdoba,2025,9,Dengue,10,De 35 a 44 años,2
+126,San Alberto,14,Córdoba,2025,10,Dengue,10,De 35 a 44 años,11
+126,San Alberto,14,Córdoba,2025,11,Dengue,10,De 35 a 44 años,13
+126,San Alberto,14,Córdoba,2025,12,Dengue,10,De 35 a 44 años,8
+126,San Alberto,14,Córdoba,2025,13,Dengue,10,De 35 a 44 años,9
+126,San Alberto,14,Córdoba,2025,14,Dengue,10,De 35 a 44 años,7
+126,San Alberto,14,Córdoba,2025,15,Dengue,10,De 35 a 44 años,3
+126,San Alberto,14,Córdoba,2025,16,Dengue,10,De 35 a 44 años,3
+126,San Alberto,14,Córdoba,2025,17,Dengue,10,De 35 a 44 años,1
+126,San Alberto,14,Córdoba,2025,18,Dengue,10,De 35 a 44 años,4
+126,San Alberto,14,Córdoba,2025,19,Dengue,10,De 35 a 44 años,3
+126,San Alberto,14,Córdoba,2025,20,Dengue,10,De 35 a 44 años,1
+126,San Alberto,14,Córdoba,2025,21,Dengue,10,De 35 a 44 años,1
+126,San Alberto,14,Córdoba,2025,22,Dengue,10,De 35 a 44 años,2
+126,San Alberto,14,Córdoba,2025,5,Dengue,11,De 45 a 65 años,2
+126,San Alberto,14,Córdoba,2025,7,Dengue,11,De 45 a 65 años,1
+126,San Alberto,14,Córdoba,2025,8,Dengue,11,De 45 a 65 años,6
+126,San Alberto,14,Córdoba,2025,9,Dengue,11,De 45 a 65 años,1
+126,San Alberto,14,Córdoba,2025,10,Dengue,11,De 45 a 65 años,4
+126,San Alberto,14,Córdoba,2025,11,Dengue,11,De 45 a 65 años,18
+126,San Alberto,14,Córdoba,2025,12,Dengue,11,De 45 a 65 años,5
+126,San Alberto,14,Córdoba,2025,13,Dengue,11,De 45 a 65 años,11
+126,San Alberto,14,Córdoba,2025,14,Dengue,11,De 45 a 65 años,17
+126,San Alberto,14,Córdoba,2025,15,Dengue,11,De 45 a 65 años,4
+126,San Alberto,14,Córdoba,2025,16,Dengue,11,De 45 a 65 años,2
+126,San Alberto,14,Córdoba,2025,17,Dengue,11,De 45 a 65 años,3
+126,San Alberto,14,Córdoba,2025,18,Dengue,11,De 45 a 65 años,3
+126,San Alberto,14,Córdoba,2025,19,Dengue,11,De 45 a 65 años,2
+126,San Alberto,14,Córdoba,2025,20,Dengue,11,De 45 a 65 años,2
+126,San Alberto,14,Córdoba,2025,21,Dengue,11,De 45 a 65 años,4
+126,San Alberto,14,Córdoba,2025,22,Dengue,11,De 45 a 65 años,2
+126,San Alberto,14,Córdoba,2025,8,Dengue,12,Mayores de 65 años,1
+126,San Alberto,14,Córdoba,2025,10,Dengue,12,Mayores de 65 años,4
+126,San Alberto,14,Córdoba,2025,11,Dengue,12,Mayores de 65 años,4
+126,San Alberto,14,Córdoba,2025,12,Dengue,12,Mayores de 65 años,2
+126,San Alberto,14,Córdoba,2025,13,Dengue,12,Mayores de 65 años,4
+126,San Alberto,14,Córdoba,2025,14,Dengue,12,Mayores de 65 años,2
+126,San Alberto,14,Córdoba,2025,15,Dengue,12,Mayores de 65 años,2
+126,San Alberto,14,Córdoba,2025,17,Dengue,12,Mayores de 65 años,1
+126,San Alberto,14,Córdoba,2025,18,Dengue,12,Mayores de 65 años,2
+126,San Alberto,14,Córdoba,2025,14,Dengue durante la gestación,7,De 15 a 19 años,1
+126,San Alberto,14,Córdoba,2025,13,Dengue durante la gestación,8,De 20 a 24 años,2
+126,San Alberto,14,Córdoba,2025,15,Dengue durante la gestación,9,De 25 a 34 años,1
+126,San Alberto,14,Córdoba,2025,10,Dengue durante la gestación,10,De 35 a 44 años,1
+133,San Javier,14,Córdoba,2025,8,Dengue,2,Posneonato (29 hasta 365 días),1
+133,San Javier,14,Córdoba,2025,10,Dengue,2,Posneonato (29 hasta 365 días),3
+133,San Javier,14,Córdoba,2025,12,Dengue,2,Posneonato (29 hasta 365 días),1
+133,San Javier,14,Córdoba,2025,13,Dengue,2,Posneonato (29 hasta 365 días),1
+133,San Javier,14,Córdoba,2025,15,Dengue,2,Posneonato (29 hasta 365 días),1
+133,San Javier,14,Córdoba,2025,9,Dengue,3,De 13 a 24 meses,1
+133,San Javier,14,Córdoba,2025,10,Dengue,3,De 13 a 24 meses,2
+133,San Javier,14,Córdoba,2025,12,Dengue,3,De 13 a 24 meses,3
+133,San Javier,14,Córdoba,2025,13,Dengue,3,De 13 a 24 meses,3
+133,San Javier,14,Córdoba,2025,17,Dengue,3,De 13 a 24 meses,1
+133,San Javier,14,Córdoba,2025,8,Dengue,4,De 2 a 4 años,3
+133,San Javier,14,Córdoba,2025,9,Dengue,4,De 2 a 4 años,4
+133,San Javier,14,Córdoba,2025,10,Dengue,4,De 2 a 4 años,5
+133,San Javier,14,Córdoba,2025,11,Dengue,4,De 2 a 4 años,3
+133,San Javier,14,Córdoba,2025,12,Dengue,4,De 2 a 4 años,6
+133,San Javier,14,Córdoba,2025,13,Dengue,4,De 2 a 4 años,3
+133,San Javier,14,Córdoba,2025,14,Dengue,4,De 2 a 4 años,3
+133,San Javier,14,Córdoba,2025,15,Dengue,4,De 2 a 4 años,1
+133,San Javier,14,Córdoba,2025,5,Dengue,5,De 5 a 9 años,1
+133,San Javier,14,Córdoba,2025,8,Dengue,5,De 5 a 9 años,3
+133,San Javier,14,Córdoba,2025,9,Dengue,5,De 5 a 9 años,8
+133,San Javier,14,Córdoba,2025,10,Dengue,5,De 5 a 9 años,12
+133,San Javier,14,Córdoba,2025,11,Dengue,5,De 5 a 9 años,7
+133,San Javier,14,Córdoba,2025,12,Dengue,5,De 5 a 9 años,4
+133,San Javier,14,Córdoba,2025,13,Dengue,5,De 5 a 9 años,8
+133,San Javier,14,Córdoba,2025,14,Dengue,5,De 5 a 9 años,12
+133,San Javier,14,Córdoba,2025,15,Dengue,5,De 5 a 9 años,2
+133,San Javier,14,Córdoba,2025,17,Dengue,5,De 5 a 9 años,2
+133,San Javier,14,Córdoba,2025,18,Dengue,5,De 5 a 9 años,2
+133,San Javier,14,Córdoba,2025,21,Dengue,5,De 5 a 9 años,1
+133,San Javier,14,Córdoba,2025,4,Dengue,6,De 10 a 14 años,1
+133,San Javier,14,Córdoba,2025,5,Dengue,6,De 10 a 14 años,3
+133,San Javier,14,Córdoba,2025,6,Dengue,6,De 10 a 14 años,2
+133,San Javier,14,Córdoba,2025,8,Dengue,6,De 10 a 14 años,4
+133,San Javier,14,Córdoba,2025,9,Dengue,6,De 10 a 14 años,3
+133,San Javier,14,Córdoba,2025,10,Dengue,6,De 10 a 14 años,6
+133,San Javier,14,Córdoba,2025,11,Dengue,6,De 10 a 14 años,19
+133,San Javier,14,Córdoba,2025,12,Dengue,6,De 10 a 14 años,15
+133,San Javier,14,Córdoba,2025,13,Dengue,6,De 10 a 14 años,9
+133,San Javier,14,Córdoba,2025,14,Dengue,6,De 10 a 14 años,7
+133,San Javier,14,Córdoba,2025,15,Dengue,6,De 10 a 14 años,3
+133,San Javier,14,Córdoba,2025,16,Dengue,6,De 10 a 14 años,3
+133,San Javier,14,Córdoba,2025,17,Dengue,6,De 10 a 14 años,4
+133,San Javier,14,Córdoba,2025,18,Dengue,6,De 10 a 14 años,3
+133,San Javier,14,Córdoba,2025,19,Dengue,6,De 10 a 14 años,1
+133,San Javier,14,Córdoba,2025,20,Dengue,6,De 10 a 14 años,1
+133,San Javier,14,Córdoba,2025,21,Dengue,6,De 10 a 14 años,2
+133,San Javier,14,Córdoba,2025,3,Dengue,7,De 15 a 19 años,1
+133,San Javier,14,Córdoba,2025,4,Dengue,7,De 15 a 19 años,1
+133,San Javier,14,Córdoba,2025,5,Dengue,7,De 15 a 19 años,3
+133,San Javier,14,Córdoba,2025,7,Dengue,7,De 15 a 19 años,1
+133,San Javier,14,Córdoba,2025,8,Dengue,7,De 15 a 19 años,2
+133,San Javier,14,Córdoba,2025,9,Dengue,7,De 15 a 19 años,4
+133,San Javier,14,Córdoba,2025,10,Dengue,7,De 15 a 19 años,7
+133,San Javier,14,Córdoba,2025,11,Dengue,7,De 15 a 19 años,12
+133,San Javier,14,Córdoba,2025,12,Dengue,7,De 15 a 19 años,9
+133,San Javier,14,Córdoba,2025,13,Dengue,7,De 15 a 19 años,9
+133,San Javier,14,Córdoba,2025,14,Dengue,7,De 15 a 19 años,6
+133,San Javier,14,Córdoba,2025,15,Dengue,7,De 15 a 19 años,6
+133,San Javier,14,Córdoba,2025,17,Dengue,7,De 15 a 19 años,5
+133,San Javier,14,Córdoba,2025,18,Dengue,7,De 15 a 19 años,2
+133,San Javier,14,Córdoba,2025,19,Dengue,7,De 15 a 19 años,1
+133,San Javier,14,Córdoba,2025,20,Dengue,7,De 15 a 19 años,1
+133,San Javier,14,Córdoba,2025,21,Dengue,7,De 15 a 19 años,1
+133,San Javier,14,Córdoba,2025,5,Dengue,8,De 20 a 24 años,4
+133,San Javier,14,Córdoba,2025,7,Dengue,8,De 20 a 24 años,2
+133,San Javier,14,Córdoba,2025,8,Dengue,8,De 20 a 24 años,6
+133,San Javier,14,Córdoba,2025,9,Dengue,8,De 20 a 24 años,17
+133,San Javier,14,Córdoba,2025,10,Dengue,8,De 20 a 24 años,7
+133,San Javier,14,Córdoba,2025,11,Dengue,8,De 20 a 24 años,15
+133,San Javier,14,Córdoba,2025,12,Dengue,8,De 20 a 24 años,11
+133,San Javier,14,Córdoba,2025,13,Dengue,8,De 20 a 24 años,8
+133,San Javier,14,Córdoba,2025,14,Dengue,8,De 20 a 24 años,7
+133,San Javier,14,Córdoba,2025,15,Dengue,8,De 20 a 24 años,3
+133,San Javier,14,Córdoba,2025,16,Dengue,8,De 20 a 24 años,1
+133,San Javier,14,Córdoba,2025,17,Dengue,8,De 20 a 24 años,2
+133,San Javier,14,Córdoba,2025,18,Dengue,8,De 20 a 24 años,1
+133,San Javier,14,Córdoba,2025,19,Dengue,8,De 20 a 24 años,3
+133,San Javier,14,Córdoba,2025,20,Dengue,8,De 20 a 24 años,1
+133,San Javier,14,Córdoba,2025,21,Dengue,8,De 20 a 24 años,2
+133,San Javier,14,Córdoba,2025,3,Dengue,9,De 25 a 34 años,1
+133,San Javier,14,Córdoba,2025,5,Dengue,9,De 25 a 34 años,3
+133,San Javier,14,Córdoba,2025,6,Dengue,9,De 25 a 34 años,2
+133,San Javier,14,Córdoba,2025,7,Dengue,9,De 25 a 34 años,8
+133,San Javier,14,Córdoba,2025,8,Dengue,9,De 25 a 34 años,10
+133,San Javier,14,Córdoba,2025,9,Dengue,9,De 25 a 34 años,20
+133,San Javier,14,Córdoba,2025,10,Dengue,9,De 25 a 34 años,23
+133,San Javier,14,Córdoba,2025,11,Dengue,9,De 25 a 34 años,29
+133,San Javier,14,Córdoba,2025,12,Dengue,9,De 25 a 34 años,22
+133,San Javier,14,Córdoba,2025,13,Dengue,9,De 25 a 34 años,22
+133,San Javier,14,Córdoba,2025,14,Dengue,9,De 25 a 34 años,22
+133,San Javier,14,Córdoba,2025,15,Dengue,9,De 25 a 34 años,12
+133,San Javier,14,Córdoba,2025,16,Dengue,9,De 25 a 34 años,7
+133,San Javier,14,Córdoba,2025,17,Dengue,9,De 25 a 34 años,2
+133,San Javier,14,Córdoba,2025,18,Dengue,9,De 25 a 34 años,7
+133,San Javier,14,Córdoba,2025,19,Dengue,9,De 25 a 34 años,1
+133,San Javier,14,Córdoba,2025,20,Dengue,9,De 25 a 34 años,3
+133,San Javier,14,Córdoba,2025,21,Dengue,9,De 25 a 34 años,1
+133,San Javier,14,Córdoba,2025,3,Dengue,10,De 35 a 44 años,1
+133,San Javier,14,Córdoba,2025,4,Dengue,10,De 35 a 44 años,2
+133,San Javier,14,Córdoba,2025,5,Dengue,10,De 35 a 44 años,6
+133,San Javier,14,Córdoba,2025,6,Dengue,10,De 35 a 44 años,5
+133,San Javier,14,Córdoba,2025,7,Dengue,10,De 35 a 44 años,5
+133,San Javier,14,Córdoba,2025,8,Dengue,10,De 35 a 44 años,18
+133,San Javier,14,Córdoba,2025,9,Dengue,10,De 35 a 44 años,19
+133,San Javier,14,Córdoba,2025,10,Dengue,10,De 35 a 44 años,16
+133,San Javier,14,Córdoba,2025,11,Dengue,10,De 35 a 44 años,17
+133,San Javier,14,Córdoba,2025,12,Dengue,10,De 35 a 44 años,16
+133,San Javier,14,Córdoba,2025,13,Dengue,10,De 35 a 44 años,14
+133,San Javier,14,Córdoba,2025,14,Dengue,10,De 35 a 44 años,17
+133,San Javier,14,Córdoba,2025,15,Dengue,10,De 35 a 44 años,6
+133,San Javier,14,Córdoba,2025,16,Dengue,10,De 35 a 44 años,9
+133,San Javier,14,Córdoba,2025,17,Dengue,10,De 35 a 44 años,5
+133,San Javier,14,Córdoba,2025,18,Dengue,10,De 35 a 44 años,7
+133,San Javier,14,Córdoba,2025,19,Dengue,10,De 35 a 44 años,4
+133,San Javier,14,Córdoba,2025,20,Dengue,10,De 35 a 44 años,4
+133,San Javier,14,Córdoba,2025,21,Dengue,10,De 35 a 44 años,1
+133,San Javier,14,Córdoba,2025,22,Dengue,10,De 35 a 44 años,1
+133,San Javier,14,Córdoba,2025,23,Dengue,10,De 35 a 44 años,2
+133,San Javier,14,Córdoba,2025,3,Dengue,11,De 45 a 65 años,1
+133,San Javier,14,Córdoba,2025,4,Dengue,11,De 45 a 65 años,3
+133,San Javier,14,Córdoba,2025,5,Dengue,11,De 45 a 65 años,5
+133,San Javier,14,Córdoba,2025,6,Dengue,11,De 45 a 65 años,8
+133,San Javier,14,Córdoba,2025,7,Dengue,11,De 45 a 65 años,9
+133,San Javier,14,Córdoba,2025,8,Dengue,11,De 45 a 65 años,19
+133,San Javier,14,Córdoba,2025,9,Dengue,11,De 45 a 65 años,23
+133,San Javier,14,Córdoba,2025,10,Dengue,11,De 45 a 65 años,43
+133,San Javier,14,Córdoba,2025,11,Dengue,11,De 45 a 65 años,49
+133,San Javier,14,Córdoba,2025,12,Dengue,11,De 45 a 65 años,35
+133,San Javier,14,Córdoba,2025,13,Dengue,11,De 45 a 65 años,33
+133,San Javier,14,Córdoba,2025,14,Dengue,11,De 45 a 65 años,30
+133,San Javier,14,Córdoba,2025,15,Dengue,11,De 45 a 65 años,14
+133,San Javier,14,Córdoba,2025,16,Dengue,11,De 45 a 65 años,2
+133,San Javier,14,Córdoba,2025,17,Dengue,11,De 45 a 65 años,12
+133,San Javier,14,Córdoba,2025,18,Dengue,11,De 45 a 65 años,5
+133,San Javier,14,Córdoba,2025,19,Dengue,11,De 45 a 65 años,6
+133,San Javier,14,Córdoba,2025,20,Dengue,11,De 45 a 65 años,10
+133,San Javier,14,Córdoba,2025,21,Dengue,11,De 45 a 65 años,6
+133,San Javier,14,Córdoba,2025,22,Dengue,11,De 45 a 65 años,1
+133,San Javier,14,Córdoba,2025,23,Dengue,11,De 45 a 65 años,2
+133,San Javier,14,Córdoba,2025,4,Dengue,12,Mayores de 65 años,1
+133,San Javier,14,Córdoba,2025,7,Dengue,12,Mayores de 65 años,2
+133,San Javier,14,Córdoba,2025,8,Dengue,12,Mayores de 65 años,3
+133,San Javier,14,Córdoba,2025,9,Dengue,12,Mayores de 65 años,11
+133,San Javier,14,Córdoba,2025,10,Dengue,12,Mayores de 65 años,3
+133,San Javier,14,Córdoba,2025,11,Dengue,12,Mayores de 65 años,31
+133,San Javier,14,Córdoba,2025,12,Dengue,12,Mayores de 65 años,6
+133,San Javier,14,Córdoba,2025,13,Dengue,12,Mayores de 65 años,12
+133,San Javier,14,Córdoba,2025,14,Dengue,12,Mayores de 65 años,7
+133,San Javier,14,Córdoba,2025,15,Dengue,12,Mayores de 65 años,1
+133,San Javier,14,Córdoba,2025,17,Dengue,12,Mayores de 65 años,1
+133,San Javier,14,Córdoba,2025,18,Dengue,12,Mayores de 65 años,3
+133,San Javier,14,Córdoba,2025,19,Dengue,12,Mayores de 65 años,1
+133,San Javier,14,Córdoba,2025,20,Dengue,12,Mayores de 65 años,2
+133,San Javier,14,Córdoba,2025,14,Dengue durante la gestación,7,De 15 a 19 años,1
+133,San Javier,14,Córdoba,2025,7,Dengue durante la gestación,8,De 20 a 24 años,1
+133,San Javier,14,Córdoba,2025,12,Dengue durante la gestación,8,De 20 a 24 años,1
+133,San Javier,14,Córdoba,2025,14,Dengue durante la gestación,8,De 20 a 24 años,1
+133,San Javier,14,Córdoba,2025,6,Dengue durante la gestación,9,De 25 a 34 años,2
+133,San Javier,14,Córdoba,2025,10,Dengue durante la gestación,9,De 25 a 34 años,3
+133,San Javier,14,Córdoba,2025,12,Dengue durante la gestación,9,De 25 a 34 años,2
+133,San Javier,14,Córdoba,2025,13,Dengue durante la gestación,9,De 25 a 34 años,1
+133,San Javier,14,Córdoba,2025,14,Dengue durante la gestación,9,De 25 a 34 años,1
+133,San Javier,14,Córdoba,2025,16,Dengue durante la gestación,9,De 25 a 34 años,1
+133,San Javier,14,Córdoba,2025,11,Dengue durante la gestación,10,De 35 a 44 años,1
+133,San Javier,14,Córdoba,2025,16,Dengue durante la gestación,10,De 35 a 44 años,1
+140,San Justo,14,Córdoba,2025,10,Dengue,5,De 5 a 9 años,1
+140,San Justo,14,Córdoba,2025,15,Dengue,5,De 5 a 9 años,1
+140,San Justo,14,Córdoba,2025,10,Dengue,6,De 10 a 14 años,1
+140,San Justo,14,Córdoba,2025,13,Dengue,6,De 10 a 14 años,1
+140,San Justo,14,Córdoba,2025,17,Dengue,6,De 10 a 14 años,1
+140,San Justo,14,Córdoba,2025,15,Dengue,7,De 15 a 19 años,1
+140,San Justo,14,Córdoba,2025,17,Dengue,7,De 15 a 19 años,1
+140,San Justo,14,Córdoba,2025,9,Dengue,8,De 20 a 24 años,1
+140,San Justo,14,Córdoba,2025,11,Dengue,8,De 20 a 24 años,2
+140,San Justo,14,Córdoba,2025,13,Dengue,8,De 20 a 24 años,1
+140,San Justo,14,Córdoba,2025,16,Dengue,8,De 20 a 24 años,1
+140,San Justo,14,Córdoba,2025,17,Dengue,8,De 20 a 24 años,1
+140,San Justo,14,Córdoba,2025,8,Dengue,9,De 25 a 34 años,1
+140,San Justo,14,Córdoba,2025,9,Dengue,9,De 25 a 34 años,1
+140,San Justo,14,Córdoba,2025,10,Dengue,9,De 25 a 34 años,1
+140,San Justo,14,Córdoba,2025,11,Dengue,9,De 25 a 34 años,3
+140,San Justo,14,Córdoba,2025,12,Dengue,9,De 25 a 34 años,1
+140,San Justo,14,Córdoba,2025,13,Dengue,9,De 25 a 34 años,1
+140,San Justo,14,Córdoba,2025,14,Dengue,9,De 25 a 34 años,2
+140,San Justo,14,Córdoba,2025,15,Dengue,9,De 25 a 34 años,2
+140,San Justo,14,Córdoba,2025,17,Dengue,9,De 25 a 34 años,1
+140,San Justo,14,Córdoba,2025,21,Dengue,9,De 25 a 34 años,1
+140,San Justo,14,Córdoba,2025,3,Dengue,10,De 35 a 44 años,1
+140,San Justo,14,Córdoba,2025,8,Dengue,10,De 35 a 44 años,1
+140,San Justo,14,Córdoba,2025,10,Dengue,10,De 35 a 44 años,4
+140,San Justo,14,Córdoba,2025,11,Dengue,10,De 35 a 44 años,1
+140,San Justo,14,Córdoba,2025,13,Dengue,10,De 35 a 44 años,3
+140,San Justo,14,Córdoba,2025,14,Dengue,10,De 35 a 44 años,3
+140,San Justo,14,Córdoba,2025,15,Dengue,10,De 35 a 44 años,1
+140,San Justo,14,Córdoba,2025,8,Dengue,11,De 45 a 65 años,2
+140,San Justo,14,Córdoba,2025,9,Dengue,11,De 45 a 65 años,4
+140,San Justo,14,Córdoba,2025,11,Dengue,11,De 45 a 65 años,2
+140,San Justo,14,Córdoba,2025,12,Dengue,11,De 45 a 65 años,1
+140,San Justo,14,Córdoba,2025,13,Dengue,11,De 45 a 65 años,3
+140,San Justo,14,Córdoba,2025,14,Dengue,11,De 45 a 65 años,3
+140,San Justo,14,Córdoba,2025,15,Dengue,11,De 45 a 65 años,1
+140,San Justo,14,Córdoba,2025,10,Dengue,12,Mayores de 65 años,1
+140,San Justo,14,Córdoba,2025,12,Dengue,12,Mayores de 65 años,2
+140,San Justo,14,Córdoba,2025,17,Dengue durante la gestación,9,De 25 a 34 años,1
+147,Santa María,14,Córdoba,2025,12,Dengue,2,Posneonato (29 hasta 365 días),3
+147,Santa María,14,Córdoba,2025,13,Dengue,3,De 13 a 24 meses,1
+147,Santa María,14,Córdoba,2025,9,Dengue,4,De 2 a 4 años,1
+147,Santa María,14,Córdoba,2025,11,Dengue,4,De 2 a 4 años,1
+147,Santa María,14,Córdoba,2025,12,Dengue,4,De 2 a 4 años,2
+147,Santa María,14,Córdoba,2025,13,Dengue,4,De 2 a 4 años,6
+147,Santa María,14,Córdoba,2025,8,Dengue,5,De 5 a 9 años,1
+147,Santa María,14,Córdoba,2025,9,Dengue,5,De 5 a 9 años,1
+147,Santa María,14,Córdoba,2025,10,Dengue,5,De 5 a 9 años,1
+147,Santa María,14,Córdoba,2025,11,Dengue,5,De 5 a 9 años,11
+147,Santa María,14,Córdoba,2025,12,Dengue,5,De 5 a 9 años,9
+147,Santa María,14,Córdoba,2025,13,Dengue,5,De 5 a 9 años,4
+147,Santa María,14,Córdoba,2025,14,Dengue,5,De 5 a 9 años,3
+147,Santa María,14,Córdoba,2025,9,Dengue,6,De 10 a 14 años,3
+147,Santa María,14,Córdoba,2025,10,Dengue,6,De 10 a 14 años,10
+147,Santa María,14,Córdoba,2025,11,Dengue,6,De 10 a 14 años,13
+147,Santa María,14,Córdoba,2025,12,Dengue,6,De 10 a 14 años,15
+147,Santa María,14,Córdoba,2025,13,Dengue,6,De 10 a 14 años,7
+147,Santa María,14,Córdoba,2025,14,Dengue,6,De 10 a 14 años,4
+147,Santa María,14,Córdoba,2025,16,Dengue,6,De 10 a 14 años,1
+147,Santa María,14,Córdoba,2025,17,Dengue,6,De 10 a 14 años,1
+147,Santa María,14,Córdoba,2025,20,Dengue,6,De 10 a 14 años,2
+147,Santa María,14,Córdoba,2025,4,Dengue,7,De 15 a 19 años,1
+147,Santa María,14,Córdoba,2025,7,Dengue,7,De 15 a 19 años,1
+147,Santa María,14,Córdoba,2025,8,Dengue,7,De 15 a 19 años,3
+147,Santa María,14,Córdoba,2025,9,Dengue,7,De 15 a 19 años,7
+147,Santa María,14,Córdoba,2025,10,Dengue,7,De 15 a 19 años,6
+147,Santa María,14,Córdoba,2025,11,Dengue,7,De 15 a 19 años,6
+147,Santa María,14,Córdoba,2025,12,Dengue,7,De 15 a 19 años,5
+147,Santa María,14,Córdoba,2025,13,Dengue,7,De 15 a 19 años,5
+147,Santa María,14,Córdoba,2025,14,Dengue,7,De 15 a 19 años,4
+147,Santa María,14,Córdoba,2025,15,Dengue,7,De 15 a 19 años,1
+147,Santa María,14,Córdoba,2025,17,Dengue,7,De 15 a 19 años,1
+147,Santa María,14,Córdoba,2025,18,Dengue,7,De 15 a 19 años,1
+147,Santa María,14,Córdoba,2025,20,Dengue,7,De 15 a 19 años,1
+147,Santa María,14,Córdoba,2025,21,Dengue,7,De 15 a 19 años,1
+147,Santa María,14,Córdoba,2025,6,Dengue,8,De 20 a 24 años,1
+147,Santa María,14,Córdoba,2025,8,Dengue,8,De 20 a 24 años,6
+147,Santa María,14,Córdoba,2025,10,Dengue,8,De 20 a 24 años,5
+147,Santa María,14,Córdoba,2025,11,Dengue,8,De 20 a 24 años,7
+147,Santa María,14,Córdoba,2025,12,Dengue,8,De 20 a 24 años,20
+147,Santa María,14,Córdoba,2025,13,Dengue,8,De 20 a 24 años,12
+147,Santa María,14,Córdoba,2025,14,Dengue,8,De 20 a 24 años,2
+147,Santa María,14,Córdoba,2025,15,Dengue,8,De 20 a 24 años,3
+147,Santa María,14,Córdoba,2025,6,Dengue,9,De 25 a 34 años,1
+147,Santa María,14,Córdoba,2025,7,Dengue,9,De 25 a 34 años,2
+147,Santa María,14,Córdoba,2025,8,Dengue,9,De 25 a 34 años,6
+147,Santa María,14,Córdoba,2025,9,Dengue,9,De 25 a 34 años,11
+147,Santa María,14,Córdoba,2025,10,Dengue,9,De 25 a 34 años,20
+147,Santa María,14,Córdoba,2025,11,Dengue,9,De 25 a 34 años,21
+147,Santa María,14,Córdoba,2025,12,Dengue,9,De 25 a 34 años,25
+147,Santa María,14,Córdoba,2025,13,Dengue,9,De 25 a 34 años,22
+147,Santa María,14,Córdoba,2025,14,Dengue,9,De 25 a 34 años,12
+147,Santa María,14,Córdoba,2025,15,Dengue,9,De 25 a 34 años,6
+147,Santa María,14,Córdoba,2025,16,Dengue,9,De 25 a 34 años,4
+147,Santa María,14,Córdoba,2025,17,Dengue,9,De 25 a 34 años,1
+147,Santa María,14,Córdoba,2025,21,Dengue,9,De 25 a 34 años,1
+147,Santa María,14,Córdoba,2025,3,Dengue,10,De 35 a 44 años,1
+147,Santa María,14,Córdoba,2025,6,Dengue,10,De 35 a 44 años,1
+147,Santa María,14,Córdoba,2025,7,Dengue,10,De 35 a 44 años,1
+147,Santa María,14,Córdoba,2025,8,Dengue,10,De 35 a 44 años,8
+147,Santa María,14,Córdoba,2025,9,Dengue,10,De 35 a 44 años,7
+147,Santa María,14,Córdoba,2025,10,Dengue,10,De 35 a 44 años,16
+147,Santa María,14,Córdoba,2025,11,Dengue,10,De 35 a 44 años,24
+147,Santa María,14,Córdoba,2025,12,Dengue,10,De 35 a 44 años,22
+147,Santa María,14,Córdoba,2025,13,Dengue,10,De 35 a 44 años,17
+147,Santa María,14,Córdoba,2025,14,Dengue,10,De 35 a 44 años,8
+147,Santa María,14,Córdoba,2025,15,Dengue,10,De 35 a 44 años,4
+147,Santa María,14,Córdoba,2025,17,Dengue,10,De 35 a 44 años,1
+147,Santa María,14,Córdoba,2025,6,Dengue,11,De 45 a 65 años,1
+147,Santa María,14,Córdoba,2025,7,Dengue,11,De 45 a 65 años,1
+147,Santa María,14,Córdoba,2025,8,Dengue,11,De 45 a 65 años,4
+147,Santa María,14,Córdoba,2025,9,Dengue,11,De 45 a 65 años,10
+147,Santa María,14,Córdoba,2025,10,Dengue,11,De 45 a 65 años,13
+147,Santa María,14,Córdoba,2025,11,Dengue,11,De 45 a 65 años,15
+147,Santa María,14,Córdoba,2025,12,Dengue,11,De 45 a 65 años,26
+147,Santa María,14,Córdoba,2025,13,Dengue,11,De 45 a 65 años,29
+147,Santa María,14,Córdoba,2025,14,Dengue,11,De 45 a 65 años,11
+147,Santa María,14,Córdoba,2025,15,Dengue,11,De 45 a 65 años,3
+147,Santa María,14,Córdoba,2025,16,Dengue,11,De 45 a 65 años,3
+147,Santa María,14,Córdoba,2025,17,Dengue,11,De 45 a 65 años,2
+147,Santa María,14,Córdoba,2025,18,Dengue,11,De 45 a 65 años,4
+147,Santa María,14,Córdoba,2025,19,Dengue,11,De 45 a 65 años,2
+147,Santa María,14,Córdoba,2025,8,Dengue,12,Mayores de 65 años,1
+147,Santa María,14,Córdoba,2025,9,Dengue,12,Mayores de 65 años,2
+147,Santa María,14,Córdoba,2025,10,Dengue,12,Mayores de 65 años,3
+147,Santa María,14,Córdoba,2025,11,Dengue,12,Mayores de 65 años,5
+147,Santa María,14,Córdoba,2025,12,Dengue,12,Mayores de 65 años,5
+147,Santa María,14,Córdoba,2025,13,Dengue,12,Mayores de 65 años,2
+147,Santa María,14,Córdoba,2025,14,Dengue,12,Mayores de 65 años,1
+147,Santa María,14,Córdoba,2025,16,Dengue,12,Mayores de 65 años,1
+147,Santa María,14,Córdoba,2025,12,Dengue durante la gestación,9,De 25 a 34 años,1
+161,Tercero Arriba,14,Córdoba,2025,15,Dengue,7,De 15 a 19 años,1
+161,Tercero Arriba,14,Córdoba,2025,18,Dengue,7,De 15 a 19 años,1
+161,Tercero Arriba,14,Córdoba,2025,10,Dengue,11,De 45 a 65 años,1
+161,Tercero Arriba,14,Córdoba,2025,14,Dengue,11,De 45 a 65 años,1
+161,Tercero Arriba,14,Córdoba,2025,17,Dengue,11,De 45 a 65 años,1
+161,Tercero Arriba,14,Córdoba,2025,9,Dengue,12,Mayores de 65 años,1
+168,Totoral,14,Córdoba,2025,14,Dengue,6,De 10 a 14 años,1
+168,Totoral,14,Córdoba,2025,12,Dengue,7,De 15 a 19 años,1
+168,Totoral,14,Córdoba,2025,16,Dengue,7,De 15 a 19 años,1
+168,Totoral,14,Córdoba,2025,23,Dengue,7,De 15 a 19 años,1
+168,Totoral,14,Córdoba,2025,14,Dengue,8,De 20 a 24 años,1
+168,Totoral,14,Córdoba,2025,9,Dengue,9,De 25 a 34 años,1
+168,Totoral,14,Córdoba,2025,10,Dengue,9,De 25 a 34 años,2
+168,Totoral,14,Córdoba,2025,11,Dengue,9,De 25 a 34 años,1
+168,Totoral,14,Córdoba,2025,8,Dengue,10,De 35 a 44 años,1
+168,Totoral,14,Córdoba,2025,9,Dengue,10,De 35 a 44 años,2
+168,Totoral,14,Córdoba,2025,12,Dengue,10,De 35 a 44 años,4
+168,Totoral,14,Córdoba,2025,13,Dengue,10,De 35 a 44 años,1
+168,Totoral,14,Córdoba,2025,15,Dengue,10,De 35 a 44 años,1
+168,Totoral,14,Córdoba,2025,11,Dengue,11,De 45 a 65 años,2
+168,Totoral,14,Córdoba,2025,14,Dengue,11,De 45 a 65 años,1
+168,Totoral,14,Córdoba,2025,16,Dengue,11,De 45 a 65 años,2
+168,Totoral,14,Córdoba,2025,21,Dengue,12,Mayores de 65 años,1
+175,Tulumba,14,Córdoba,2025,13,Dengue,9,De 25 a 34 años,1
+175,Tulumba,14,Córdoba,2025,10,Dengue,10,De 35 a 44 años,1
+175,Tulumba,14,Córdoba,2025,10,Dengue,11,De 45 a 65 años,1
+175,Tulumba,14,Córdoba,2025,11,Dengue,11,De 45 a 65 años,1
+182,Unión,14,Córdoba,2025,13,Dengue,8,De 20 a 24 años,1
+182,Unión,14,Córdoba,2025,16,Dengue,8,De 20 a 24 años,1
+182,Unión,14,Córdoba,2025,13,Dengue,9,De 25 a 34 años,1
+182,Unión,14,Córdoba,2025,12,Dengue,10,De 35 a 44 años,1
+182,Unión,14,Córdoba,2025,3,Dengue,11,De 45 a 65 años,1
+182,Unión,14,Córdoba,2025,16,Dengue,11,De 45 a 65 años,2
+21,Capital,18,Corrientes,2025,5,Dengue,9,De 25 a 34 años,1
+21,Capital,18,Corrientes,2025,5,Dengue,10,De 35 a 44 años,1
+35,Curuzú Cuatiá,18,Corrientes,2025,11,Dengue,9,De 25 a 34 años,1
+49,Esquina,18,Corrientes,2025,21,Dengue,5,De 5 a 9 años,1
+49,Esquina,18,Corrientes,2025,10,Dengue,6,De 10 a 14 años,1
+49,Esquina,18,Corrientes,2025,14,Dengue,6,De 10 a 14 años,1
+49,Esquina,18,Corrientes,2025,9,Dengue,7,De 15 a 19 años,1
+49,Esquina,18,Corrientes,2025,11,Dengue,7,De 15 a 19 años,1
+49,Esquina,18,Corrientes,2025,14,Dengue,7,De 15 a 19 años,1
+49,Esquina,18,Corrientes,2025,16,Dengue,7,De 15 a 19 años,2
+49,Esquina,18,Corrientes,2025,16,Dengue,8,De 20 a 24 años,3
+49,Esquina,18,Corrientes,2025,9,Dengue,9,De 25 a 34 años,1
+49,Esquina,18,Corrientes,2025,10,Dengue,9,De 25 a 34 años,1
+49,Esquina,18,Corrientes,2025,11,Dengue,9,De 25 a 34 años,1
+49,Esquina,18,Corrientes,2025,14,Dengue,9,De 25 a 34 años,1
+49,Esquina,18,Corrientes,2025,16,Dengue,9,De 25 a 34 años,4
+49,Esquina,18,Corrientes,2025,18,Dengue,9,De 25 a 34 años,1
+49,Esquina,18,Corrientes,2025,21,Dengue,9,De 25 a 34 años,1
+49,Esquina,18,Corrientes,2025,9,Dengue,10,De 35 a 44 años,2
+49,Esquina,18,Corrientes,2025,11,Dengue,10,De 35 a 44 años,1
+49,Esquina,18,Corrientes,2025,16,Dengue,10,De 35 a 44 años,3
+49,Esquina,18,Corrientes,2025,18,Dengue,10,De 35 a 44 años,2
+49,Esquina,18,Corrientes,2025,8,Dengue,11,De 45 a 65 años,1
+49,Esquina,18,Corrientes,2025,10,Dengue,11,De 45 a 65 años,1
+49,Esquina,18,Corrientes,2025,11,Dengue,11,De 45 a 65 años,1
+49,Esquina,18,Corrientes,2025,12,Dengue,11,De 45 a 65 años,2
+49,Esquina,18,Corrientes,2025,14,Dengue,11,De 45 a 65 años,1
+49,Esquina,18,Corrientes,2025,16,Dengue,11,De 45 a 65 años,1
+49,Esquina,18,Corrientes,2025,18,Dengue,11,De 45 a 65 años,2
+49,Esquina,18,Corrientes,2025,9,Dengue,12,Mayores de 65 años,2
+49,Esquina,18,Corrientes,2025,10,Dengue,12,Mayores de 65 años,1
+49,Esquina,18,Corrientes,2025,12,Dengue,12,Mayores de 65 años,1
+49,Esquina,18,Corrientes,2025,13,Dengue,12,Mayores de 65 años,1
+49,Esquina,18,Corrientes,2025,16,Dengue,12,Mayores de 65 años,2
+49,Esquina,18,Corrientes,2025,21,Dengue,12,Mayores de 65 años,2
+49,Esquina,18,Corrientes,2025,11,Dengue durante la gestación,9,De 25 a 34 años,1
+112,Monte Caseros,18,Corrientes,2025,14,Dengue,12,Mayores de 65 años,1
+133,San Cosme,18,Corrientes,2025,5,Dengue,11,De 45 a 65 años,1
+154,San Miguel,18,Corrientes,2025,16,Dengue,11,De 45 a 65 años,1
+28,Chacabuco,22,Chaco,2025,11,Dengue,8,De 20 a 24 años,1
+36,12 de Octubre,22,Chaco,2025,8,Dengue,11,De 45 a 65 años,1
+63,General Güemes,22,Chaco,2025,20,Dengue,5,De 5 a 9 años,1
+63,General Güemes,22,Chaco,2025,20,Dengue,6,De 10 a 14 años,1
+63,General Güemes,22,Chaco,2025,21,Dengue,6,De 10 a 14 años,1
+63,General Güemes,22,Chaco,2025,21,Dengue,8,De 20 a 24 años,1
+63,General Güemes,22,Chaco,2025,14,Dengue,9,De 25 a 34 años,1
+63,General Güemes,22,Chaco,2025,19,Dengue,9,De 25 a 34 años,1
+63,General Güemes,22,Chaco,2025,21,Dengue,9,De 25 a 34 años,1
+63,General Güemes,22,Chaco,2025,7,Dengue,10,De 35 a 44 años,1
+63,General Güemes,22,Chaco,2025,14,Dengue,11,De 45 a 65 años,1
+63,General Güemes,22,Chaco,2025,20,Dengue,11,De 45 a 65 años,2
+63,General Güemes,22,Chaco,2025,12,Dengue,12,Mayores de 65 años,1
+7,Biedma,26,Chubut,2025,13,Dengue,7,De 15 a 19 años,1
+7,Biedma,26,Chubut,2025,14,Dengue,8,De 20 a 24 años,1
+21,Escalante,26,Chubut,2025,15,Dengue,10,De 35 a 44 años,1
+35,Futaleufú,26,Chubut,2025,12,Dengue,6,De 10 a 14 años,1
+15,Concordia,30,Entre Ríos,2025,10,Dengue,8,De 20 a 24 años,1
+15,Concordia,30,Entre Ríos,2025,10,Dengue,11,De 45 a 65 años,1
+28,Federación,30,Entre Ríos,2025,10,Dengue,6,De 10 a 14 años,1
+49,Gualeguay,30,Entre Ríos,2025,15,Dengue,11,De 45 a 65 años,1
+56,Gualeguaychú,30,Entre Ríos,2025,21,Dengue,12,Mayores de 65 años,1
+70,La Paz,30,Entre Ríos,2025,8,Dengue,6,De 10 a 14 años,1
+70,La Paz,30,Entre Ríos,2025,6,Dengue,7,De 15 a 19 años,1
+70,La Paz,30,Entre Ríos,2025,10,Dengue,9,De 25 a 34 años,1
+70,La Paz,30,Entre Ríos,2025,16,Dengue,9,De 25 a 34 años,1
+70,La Paz,30,Entre Ríos,2025,7,Dengue,10,De 35 a 44 años,1
+70,La Paz,30,Entre Ríos,2025,1,Dengue,11,De 45 a 65 años,1
+70,La Paz,30,Entre Ríos,2025,2,Dengue,11,De 45 a 65 años,1
+70,La Paz,30,Entre Ríos,2025,8,Dengue,11,De 45 a 65 años,1
+70,La Paz,30,Entre Ríos,2025,11,Dengue,11,De 45 a 65 años,1
+77,Nogoyá,30,Entre Ríos,2025,15,Dengue,6,De 10 a 14 años,1
+77,Nogoyá,30,Entre Ríos,2025,21,Dengue,7,De 15 a 19 años,1
+77,Nogoyá,30,Entre Ríos,2025,12,Dengue,8,De 20 a 24 años,1
+77,Nogoyá,30,Entre Ríos,2025,12,Dengue,9,De 25 a 34 años,1
+77,Nogoyá,30,Entre Ríos,2025,13,Dengue,9,De 25 a 34 años,1
+77,Nogoyá,30,Entre Ríos,2025,14,Dengue,9,De 25 a 34 años,1
+77,Nogoyá,30,Entre Ríos,2025,19,Dengue,9,De 25 a 34 años,1
+77,Nogoyá,30,Entre Ríos,2025,12,Dengue,10,De 35 a 44 años,1
+77,Nogoyá,30,Entre Ríos,2025,16,Dengue,10,De 35 a 44 años,1
+77,Nogoyá,30,Entre Ríos,2025,17,Dengue,10,De 35 a 44 años,1
+77,Nogoyá,30,Entre Ríos,2025,13,Dengue,11,De 45 a 65 años,2
+77,Nogoyá,30,Entre Ríos,2025,14,Dengue,11,De 45 a 65 años,1
+77,Nogoyá,30,Entre Ríos,2025,19,Dengue,11,De 45 a 65 años,1
+77,Nogoyá,30,Entre Ríos,2025,18,Dengue,12,Mayores de 65 años,1
+84,Paraná,30,Entre Ríos,2025,7,Dengue,6,De 10 a 14 años,1
+84,Paraná,30,Entre Ríos,2025,14,Dengue,6,De 10 a 14 años,1
+84,Paraná,30,Entre Ríos,2025,15,Dengue,6,De 10 a 14 años,1
+84,Paraná,30,Entre Ríos,2025,16,Dengue,6,De 10 a 14 años,1
+84,Paraná,30,Entre Ríos,2025,22,Dengue,6,De 10 a 14 años,1
+84,Paraná,30,Entre Ríos,2025,10,Dengue,7,De 15 a 19 años,1
+84,Paraná,30,Entre Ríos,2025,13,Dengue,7,De 15 a 19 años,1
+84,Paraná,30,Entre Ríos,2025,14,Dengue,7,De 15 a 19 años,1
+84,Paraná,30,Entre Ríos,2025,17,Dengue,7,De 15 a 19 años,1
+84,Paraná,30,Entre Ríos,2025,19,Dengue,7,De 15 a 19 años,1
+84,Paraná,30,Entre Ríos,2025,2,Dengue,8,De 20 a 24 años,1
+84,Paraná,30,Entre Ríos,2025,6,Dengue,8,De 20 a 24 años,1
+84,Paraná,30,Entre Ríos,2025,7,Dengue,8,De 20 a 24 años,1
+84,Paraná,30,Entre Ríos,2025,8,Dengue,8,De 20 a 24 años,1
+84,Paraná,30,Entre Ríos,2025,10,Dengue,8,De 20 a 24 años,1
+84,Paraná,30,Entre Ríos,2025,11,Dengue,8,De 20 a 24 años,2
+84,Paraná,30,Entre Ríos,2025,13,Dengue,8,De 20 a 24 años,2
+84,Paraná,30,Entre Ríos,2025,15,Dengue,8,De 20 a 24 años,2
+84,Paraná,30,Entre Ríos,2025,6,Dengue,9,De 25 a 34 años,1
+84,Paraná,30,Entre Ríos,2025,7,Dengue,9,De 25 a 34 años,1
+84,Paraná,30,Entre Ríos,2025,8,Dengue,9,De 25 a 34 años,1
+84,Paraná,30,Entre Ríos,2025,10,Dengue,9,De 25 a 34 años,1
+84,Paraná,30,Entre Ríos,2025,12,Dengue,9,De 25 a 34 años,2
+84,Paraná,30,Entre Ríos,2025,13,Dengue,9,De 25 a 34 años,1
+84,Paraná,30,Entre Ríos,2025,14,Dengue,9,De 25 a 34 años,3
+84,Paraná,30,Entre Ríos,2025,15,Dengue,9,De 25 a 34 años,1
+84,Paraná,30,Entre Ríos,2025,16,Dengue,9,De 25 a 34 años,4
+84,Paraná,30,Entre Ríos,2025,17,Dengue,9,De 25 a 34 años,1
+84,Paraná,30,Entre Ríos,2025,18,Dengue,9,De 25 a 34 años,1
+84,Paraná,30,Entre Ríos,2025,19,Dengue,9,De 25 a 34 años,3
+84,Paraná,30,Entre Ríos,2025,5,Dengue,10,De 35 a 44 años,2
+84,Paraná,30,Entre Ríos,2025,6,Dengue,10,De 35 a 44 años,1
+84,Paraná,30,Entre Ríos,2025,7,Dengue,10,De 35 a 44 años,1
+84,Paraná,30,Entre Ríos,2025,8,Dengue,10,De 35 a 44 años,2
+84,Paraná,30,Entre Ríos,2025,11,Dengue,10,De 35 a 44 años,2
+84,Paraná,30,Entre Ríos,2025,12,Dengue,10,De 35 a 44 años,3
+84,Paraná,30,Entre Ríos,2025,13,Dengue,10,De 35 a 44 años,2
+84,Paraná,30,Entre Ríos,2025,14,Dengue,10,De 35 a 44 años,1
+84,Paraná,30,Entre Ríos,2025,15,Dengue,10,De 35 a 44 años,1
+84,Paraná,30,Entre Ríos,2025,17,Dengue,10,De 35 a 44 años,1
+84,Paraná,30,Entre Ríos,2025,23,Dengue,10,De 35 a 44 años,1
+84,Paraná,30,Entre Ríos,2025,6,Dengue,11,De 45 a 65 años,1
+84,Paraná,30,Entre Ríos,2025,8,Dengue,11,De 45 a 65 años,1
+84,Paraná,30,Entre Ríos,2025,9,Dengue,11,De 45 a 65 años,2
+84,Paraná,30,Entre Ríos,2025,10,Dengue,11,De 45 a 65 años,3
+84,Paraná,30,Entre Ríos,2025,11,Dengue,11,De 45 a 65 años,3
+84,Paraná,30,Entre Ríos,2025,13,Dengue,11,De 45 a 65 años,4
+84,Paraná,30,Entre Ríos,2025,15,Dengue,11,De 45 a 65 años,3
+84,Paraná,30,Entre Ríos,2025,16,Dengue,11,De 45 a 65 años,1
+84,Paraná,30,Entre Ríos,2025,6,Dengue,12,Mayores de 65 años,1
+84,Paraná,30,Entre Ríos,2025,8,Dengue,12,Mayores de 65 años,1
+84,Paraná,30,Entre Ríos,2025,9,Dengue,12,Mayores de 65 años,1
+84,Paraná,30,Entre Ríos,2025,14,Dengue,12,Mayores de 65 años,2
+84,Paraná,30,Entre Ríos,2025,17,Dengue,12,Mayores de 65 años,1
+84,Paraná,30,Entre Ríos,2025,20,Dengue,12,Mayores de 65 años,1
+98,Uruguay,30,Entre Ríos,2025,17,Dengue,9,De 25 a 34 años,1
+98,Uruguay,30,Entre Ríos,2025,29,Dengue,9,De 25 a 34 años,1
+105,Victoria,30,Entre Ríos,2025,16,Dengue,7,De 15 a 19 años,1
+105,Victoria,30,Entre Ríos,2025,12,Dengue,8,De 20 a 24 años,1
+105,Victoria,30,Entre Ríos,2025,14,Dengue,8,De 20 a 24 años,1
+105,Victoria,30,Entre Ríos,2025,16,Dengue,8,De 20 a 24 años,2
+105,Victoria,30,Entre Ríos,2025,21,Dengue,9,De 25 a 34 años,1
+105,Victoria,30,Entre Ríos,2025,16,Dengue,11,De 45 a 65 años,1
+105,Victoria,30,Entre Ríos,2025,12,Dengue,12,Mayores de 65 años,1
+14,Formosa,34,Formosa,2025,2,Dengue,5,De 5 a 9 años,1
+14,Formosa,34,Formosa,2025,3,Dengue,5,De 5 a 9 años,1
+14,Formosa,34,Formosa,2025,1,Dengue,6,De 10 a 14 años,2
+14,Formosa,34,Formosa,2025,2,Dengue,6,De 10 a 14 años,1
+14,Formosa,34,Formosa,2025,29,Dengue,6,De 10 a 14 años,1
+14,Formosa,34,Formosa,2025,2,Dengue,7,De 15 a 19 años,1
+14,Formosa,34,Formosa,2025,5,Dengue,7,De 15 a 19 años,1
+14,Formosa,34,Formosa,2025,27,Dengue,7,De 15 a 19 años,1
+14,Formosa,34,Formosa,2025,1,Dengue,8,De 20 a 24 años,1
+14,Formosa,34,Formosa,2025,2,Dengue,8,De 20 a 24 años,1
+14,Formosa,34,Formosa,2025,4,Dengue,8,De 20 a 24 años,1
+14,Formosa,34,Formosa,2025,7,Dengue,8,De 20 a 24 años,1
+14,Formosa,34,Formosa,2025,10,Dengue,8,De 20 a 24 años,1
+14,Formosa,34,Formosa,2025,11,Dengue,8,De 20 a 24 años,1
+14,Formosa,34,Formosa,2025,20,Dengue,8,De 20 a 24 años,1
+14,Formosa,34,Formosa,2025,26,Dengue,8,De 20 a 24 años,1
+14,Formosa,34,Formosa,2025,2,Dengue,9,De 25 a 34 años,1
+14,Formosa,34,Formosa,2025,3,Dengue,9,De 25 a 34 años,1
+14,Formosa,34,Formosa,2025,4,Dengue,9,De 25 a 34 años,1
+14,Formosa,34,Formosa,2025,5,Dengue,9,De 25 a 34 años,1
+14,Formosa,34,Formosa,2025,11,Dengue,9,De 25 a 34 años,2
+14,Formosa,34,Formosa,2025,16,Dengue,9,De 25 a 34 años,1
+14,Formosa,34,Formosa,2025,20,Dengue,9,De 25 a 34 años,1
+14,Formosa,34,Formosa,2025,27,Dengue,9,De 25 a 34 años,1
+14,Formosa,34,Formosa,2025,1,Dengue,10,De 35 a 44 años,2
+14,Formosa,34,Formosa,2025,2,Dengue,10,De 35 a 44 años,1
+14,Formosa,34,Formosa,2025,3,Dengue,10,De 35 a 44 años,1
+14,Formosa,34,Formosa,2025,10,Dengue,10,De 35 a 44 años,1
+14,Formosa,34,Formosa,2025,13,Dengue,10,De 35 a 44 años,1
+14,Formosa,34,Formosa,2025,15,Dengue,10,De 35 a 44 años,2
+14,Formosa,34,Formosa,2025,18,Dengue,10,De 35 a 44 años,1
+14,Formosa,34,Formosa,2025,19,Dengue,10,De 35 a 44 años,1
+14,Formosa,34,Formosa,2025,20,Dengue,10,De 35 a 44 años,1
+14,Formosa,34,Formosa,2025,23,Dengue,10,De 35 a 44 años,1
+14,Formosa,34,Formosa,2025,24,Dengue,10,De 35 a 44 años,2
+14,Formosa,34,Formosa,2025,26,Dengue,10,De 35 a 44 años,1
+14,Formosa,34,Formosa,2025,1,Dengue,11,De 45 a 65 años,1
+14,Formosa,34,Formosa,2025,2,Dengue,11,De 45 a 65 años,1
+14,Formosa,34,Formosa,2025,3,Dengue,11,De 45 a 65 años,2
+14,Formosa,34,Formosa,2025,4,Dengue,11,De 45 a 65 años,2
+14,Formosa,34,Formosa,2025,5,Dengue,11,De 45 a 65 años,2
+14,Formosa,34,Formosa,2025,9,Dengue,11,De 45 a 65 años,1
+14,Formosa,34,Formosa,2025,12,Dengue,11,De 45 a 65 años,1
+14,Formosa,34,Formosa,2025,16,Dengue,11,De 45 a 65 años,1
+14,Formosa,34,Formosa,2025,17,Dengue,11,De 45 a 65 años,1
+14,Formosa,34,Formosa,2025,18,Dengue,11,De 45 a 65 años,2
+14,Formosa,34,Formosa,2025,19,Dengue,11,De 45 a 65 años,1
+14,Formosa,34,Formosa,2025,20,Dengue,11,De 45 a 65 años,1
+14,Formosa,34,Formosa,2025,21,Dengue,11,De 45 a 65 años,2
+14,Formosa,34,Formosa,2025,22,Dengue,11,De 45 a 65 años,2
+14,Formosa,34,Formosa,2025,23,Dengue,11,De 45 a 65 años,2
+14,Formosa,34,Formosa,2025,24,Dengue,11,De 45 a 65 años,3
+14,Formosa,34,Formosa,2025,25,Dengue,11,De 45 a 65 años,1
+14,Formosa,34,Formosa,2025,26,Dengue,11,De 45 a 65 años,1
+14,Formosa,34,Formosa,2025,30,Dengue,12,Mayores de 65 años,1
+21,Laishi,34,Formosa,2025,22,Dengue,9,De 25 a 34 años,1
+35,Patiño,34,Formosa,2025,2,Dengue,5,De 5 a 9 años,1
+35,Patiño,34,Formosa,2025,25,Dengue,5,De 5 a 9 años,1
+35,Patiño,34,Formosa,2025,26,Dengue,5,De 5 a 9 años,1
+35,Patiño,34,Formosa,2025,27,Dengue,5,De 5 a 9 años,1
+35,Patiño,34,Formosa,2025,2,Dengue,6,De 10 a 14 años,2
+35,Patiño,34,Formosa,2025,4,Dengue,6,De 10 a 14 años,2
+35,Patiño,34,Formosa,2025,9,Dengue,6,De 10 a 14 años,1
+35,Patiño,34,Formosa,2025,17,Dengue,6,De 10 a 14 años,1
+35,Patiño,34,Formosa,2025,1,Dengue,7,De 15 a 19 años,1
+35,Patiño,34,Formosa,2025,2,Dengue,7,De 15 a 19 años,1
+35,Patiño,34,Formosa,2025,18,Dengue,7,De 15 a 19 años,2
+35,Patiño,34,Formosa,2025,23,Dengue,7,De 15 a 19 años,1
+35,Patiño,34,Formosa,2025,1,Dengue,8,De 20 a 24 años,2
+35,Patiño,34,Formosa,2025,16,Dengue,8,De 20 a 24 años,1
+35,Patiño,34,Formosa,2025,18,Dengue,8,De 20 a 24 años,3
+35,Patiño,34,Formosa,2025,22,Dengue,8,De 20 a 24 años,1
+35,Patiño,34,Formosa,2025,24,Dengue,8,De 20 a 24 años,2
+35,Patiño,34,Formosa,2025,25,Dengue,8,De 20 a 24 años,1
+35,Patiño,34,Formosa,2025,1,Dengue,9,De 25 a 34 años,1
+35,Patiño,34,Formosa,2025,3,Dengue,9,De 25 a 34 años,2
+35,Patiño,34,Formosa,2025,5,Dengue,9,De 25 a 34 años,1
+35,Patiño,34,Formosa,2025,8,Dengue,9,De 25 a 34 años,1
+35,Patiño,34,Formosa,2025,11,Dengue,9,De 25 a 34 años,2
+35,Patiño,34,Formosa,2025,13,Dengue,9,De 25 a 34 años,2
+35,Patiño,34,Formosa,2025,14,Dengue,9,De 25 a 34 años,1
+35,Patiño,34,Formosa,2025,17,Dengue,9,De 25 a 34 años,1
+35,Patiño,34,Formosa,2025,20,Dengue,9,De 25 a 34 años,1
+35,Patiño,34,Formosa,2025,23,Dengue,9,De 25 a 34 años,1
+35,Patiño,34,Formosa,2025,25,Dengue,9,De 25 a 34 años,1
+35,Patiño,34,Formosa,2025,26,Dengue,9,De 25 a 34 años,1
+35,Patiño,34,Formosa,2025,27,Dengue,9,De 25 a 34 años,1
+35,Patiño,34,Formosa,2025,28,Dengue,9,De 25 a 34 años,1
+35,Patiño,34,Formosa,2025,30,Dengue,9,De 25 a 34 años,2
+35,Patiño,34,Formosa,2025,2,Dengue,10,De 35 a 44 años,1
+35,Patiño,34,Formosa,2025,14,Dengue,10,De 35 a 44 años,1
+35,Patiño,34,Formosa,2025,19,Dengue,10,De 35 a 44 años,1
+35,Patiño,34,Formosa,2025,20,Dengue,10,De 35 a 44 años,2
+35,Patiño,34,Formosa,2025,21,Dengue,10,De 35 a 44 años,2
+35,Patiño,34,Formosa,2025,23,Dengue,10,De 35 a 44 años,1
+35,Patiño,34,Formosa,2025,25,Dengue,10,De 35 a 44 años,1
+35,Patiño,34,Formosa,2025,26,Dengue,10,De 35 a 44 años,1
+35,Patiño,34,Formosa,2025,28,Dengue,10,De 35 a 44 años,1
+35,Patiño,34,Formosa,2025,1,Dengue,11,De 45 a 65 años,1
+35,Patiño,34,Formosa,2025,5,Dengue,11,De 45 a 65 años,1
+35,Patiño,34,Formosa,2025,6,Dengue,11,De 45 a 65 años,2
+35,Patiño,34,Formosa,2025,15,Dengue,11,De 45 a 65 años,2
+35,Patiño,34,Formosa,2025,16,Dengue,11,De 45 a 65 años,1
+35,Patiño,34,Formosa,2025,17,Dengue,11,De 45 a 65 años,1
+35,Patiño,34,Formosa,2025,20,Dengue,11,De 45 a 65 años,1
+35,Patiño,34,Formosa,2025,28,Dengue,11,De 45 a 65 años,1
+35,Patiño,34,Formosa,2025,2,Dengue,12,Mayores de 65 años,1
+35,Patiño,34,Formosa,2025,3,Dengue,12,Mayores de 65 años,2
+35,Patiño,34,Formosa,2025,28,Dengue,12,Mayores de 65 años,1
+42,Pilagás,34,Formosa,2025,5,Dengue,6,De 10 a 14 años,1
+42,Pilagás,34,Formosa,2025,8,Dengue,7,De 15 a 19 años,1
+42,Pilagás,34,Formosa,2025,21,Dengue,7,De 15 a 19 años,1
+42,Pilagás,34,Formosa,2025,29,Dengue,7,De 15 a 19 años,1
+42,Pilagás,34,Formosa,2025,5,Dengue,8,De 20 a 24 años,1
+42,Pilagás,34,Formosa,2025,8,Dengue,8,De 20 a 24 años,1
+42,Pilagás,34,Formosa,2025,10,Dengue,8,De 20 a 24 años,1
+42,Pilagás,34,Formosa,2025,11,Dengue,8,De 20 a 24 años,1
+42,Pilagás,34,Formosa,2025,1,Dengue,9,De 25 a 34 años,1
+42,Pilagás,34,Formosa,2025,13,Dengue,9,De 25 a 34 años,1
+42,Pilagás,34,Formosa,2025,23,Dengue,9,De 25 a 34 años,1
+42,Pilagás,34,Formosa,2025,24,Dengue,9,De 25 a 34 años,1
+42,Pilagás,34,Formosa,2025,25,Dengue,10,De 35 a 44 años,1
+42,Pilagás,34,Formosa,2025,26,Dengue,10,De 35 a 44 años,1
+42,Pilagás,34,Formosa,2025,11,Dengue,11,De 45 a 65 años,1
+42,Pilagás,34,Formosa,2025,14,Dengue,11,De 45 a 65 años,1
+42,Pilagás,34,Formosa,2025,15,Dengue,11,De 45 a 65 años,1
+42,Pilagás,34,Formosa,2025,17,Dengue,11,De 45 a 65 años,1
+42,Pilagás,34,Formosa,2025,22,Dengue,11,De 45 a 65 años,1
+42,Pilagás,34,Formosa,2025,23,Dengue,11,De 45 a 65 años,1
+42,Pilagás,34,Formosa,2025,27,Dengue,11,De 45 a 65 años,1
+42,Pilagás,34,Formosa,2025,1,Dengue,12,Mayores de 65 años,1
+42,Pilagás,34,Formosa,2025,20,Dengue,12,Mayores de 65 años,1
+49,Pilcomayo,34,Formosa,2025,24,Dengue,4,De 2 a 4 años,1
+49,Pilcomayo,34,Formosa,2025,2,Dengue,5,De 5 a 9 años,1
+49,Pilcomayo,34,Formosa,2025,24,Dengue,6,De 10 a 14 años,1
+49,Pilcomayo,34,Formosa,2025,3,Dengue,7,De 15 a 19 años,1
+49,Pilcomayo,34,Formosa,2025,7,Dengue,7,De 15 a 19 años,1
+49,Pilcomayo,34,Formosa,2025,25,Dengue,7,De 15 a 19 años,1
+49,Pilcomayo,34,Formosa,2025,3,Dengue,8,De 20 a 24 años,1
+49,Pilcomayo,34,Formosa,2025,4,Dengue,8,De 20 a 24 años,2
+49,Pilcomayo,34,Formosa,2025,6,Dengue,8,De 20 a 24 años,1
+49,Pilcomayo,34,Formosa,2025,11,Dengue,8,De 20 a 24 años,1
+49,Pilcomayo,34,Formosa,2025,1,Dengue,9,De 25 a 34 años,1
+49,Pilcomayo,34,Formosa,2025,2,Dengue,9,De 25 a 34 años,1
+49,Pilcomayo,34,Formosa,2025,3,Dengue,9,De 25 a 34 años,2
+49,Pilcomayo,34,Formosa,2025,4,Dengue,9,De 25 a 34 años,2
+49,Pilcomayo,34,Formosa,2025,5,Dengue,9,De 25 a 34 años,1
+49,Pilcomayo,34,Formosa,2025,6,Dengue,9,De 25 a 34 años,1
+49,Pilcomayo,34,Formosa,2025,8,Dengue,9,De 25 a 34 años,1
+49,Pilcomayo,34,Formosa,2025,9,Dengue,9,De 25 a 34 años,2
+49,Pilcomayo,34,Formosa,2025,10,Dengue,9,De 25 a 34 años,1
+49,Pilcomayo,34,Formosa,2025,14,Dengue,9,De 25 a 34 años,1
+49,Pilcomayo,34,Formosa,2025,16,Dengue,9,De 25 a 34 años,1
+49,Pilcomayo,34,Formosa,2025,18,Dengue,9,De 25 a 34 años,1
+49,Pilcomayo,34,Formosa,2025,2,Dengue,10,De 35 a 44 años,1
+49,Pilcomayo,34,Formosa,2025,4,Dengue,10,De 35 a 44 años,4
+49,Pilcomayo,34,Formosa,2025,5,Dengue,10,De 35 a 44 años,1
+49,Pilcomayo,34,Formosa,2025,8,Dengue,10,De 35 a 44 años,1
+49,Pilcomayo,34,Formosa,2025,2,Dengue,11,De 45 a 65 años,1
+49,Pilcomayo,34,Formosa,2025,3,Dengue,11,De 45 a 65 años,3
+49,Pilcomayo,34,Formosa,2025,4,Dengue,11,De 45 a 65 años,1
+49,Pilcomayo,34,Formosa,2025,5,Dengue,11,De 45 a 65 años,1
+49,Pilcomayo,34,Formosa,2025,6,Dengue,11,De 45 a 65 años,2
+49,Pilcomayo,34,Formosa,2025,9,Dengue,11,De 45 a 65 años,1
+49,Pilcomayo,34,Formosa,2025,10,Dengue,11,De 45 a 65 años,1
+49,Pilcomayo,34,Formosa,2025,13,Dengue,11,De 45 a 65 años,1
+49,Pilcomayo,34,Formosa,2025,20,Dengue,11,De 45 a 65 años,1
+49,Pilcomayo,34,Formosa,2025,4,Dengue,12,Mayores de 65 años,1
+49,Pilcomayo,34,Formosa,2025,5,Dengue,12,Mayores de 65 años,2
+56,Pirané,34,Formosa,2025,29,Dengue,5,De 5 a 9 años,1
+56,Pirané,34,Formosa,2025,13,Dengue,8,De 20 a 24 años,1
+56,Pirané,34,Formosa,2025,21,Dengue,8,De 20 a 24 años,1
+56,Pirané,34,Formosa,2025,3,Dengue,9,De 25 a 34 años,1
+56,Pirané,34,Formosa,2025,21,Dengue,9,De 25 a 34 años,1
+56,Pirané,34,Formosa,2025,24,Dengue,9,De 25 a 34 años,1
+56,Pirané,34,Formosa,2025,23,Dengue,11,De 45 a 65 años,1
+56,Pirané,34,Formosa,2025,26,Dengue,11,De 45 a 65 años,1
+56,Pirané,34,Formosa,2025,30,Dengue,11,De 45 a 65 años,1
+21,Capital,42,La Pampa,2025,8,Dengue,7,De 15 a 19 años,1
+21,Capital,42,La Pampa,2025,13,Dengue,10,De 35 a 44 años,1
+98,Loventué,42,La Pampa,2025,14,Dengue,8,De 20 a 24 años,1
+105,Maracó,42,La Pampa,2025,14,Dengue,3,De 13 a 24 meses,2
+105,Maracó,42,La Pampa,2025,15,Dengue,3,De 13 a 24 meses,1
+105,Maracó,42,La Pampa,2025,12,Dengue,4,De 2 a 4 años,1
+105,Maracó,42,La Pampa,2025,14,Dengue,5,De 5 a 9 años,3
+105,Maracó,42,La Pampa,2025,8,Dengue,6,De 10 a 14 años,1
+105,Maracó,42,La Pampa,2025,10,Dengue,6,De 10 a 14 años,2
+105,Maracó,42,La Pampa,2025,11,Dengue,6,De 10 a 14 años,2
+105,Maracó,42,La Pampa,2025,12,Dengue,6,De 10 a 14 años,1
+105,Maracó,42,La Pampa,2025,13,Dengue,6,De 10 a 14 años,1
+105,Maracó,42,La Pampa,2025,14,Dengue,6,De 10 a 14 años,3
+105,Maracó,42,La Pampa,2025,15,Dengue,6,De 10 a 14 años,1
+105,Maracó,42,La Pampa,2025,19,Dengue,6,De 10 a 14 años,1
+105,Maracó,42,La Pampa,2025,6,Dengue,7,De 15 a 19 años,2
+105,Maracó,42,La Pampa,2025,7,Dengue,7,De 15 a 19 años,1
+105,Maracó,42,La Pampa,2025,8,Dengue,7,De 15 a 19 años,1
+105,Maracó,42,La Pampa,2025,10,Dengue,7,De 15 a 19 años,3
+105,Maracó,42,La Pampa,2025,11,Dengue,7,De 15 a 19 años,3
+105,Maracó,42,La Pampa,2025,12,Dengue,7,De 15 a 19 años,2
+105,Maracó,42,La Pampa,2025,14,Dengue,7,De 15 a 19 años,3
+105,Maracó,42,La Pampa,2025,15,Dengue,7,De 15 a 19 años,1
+105,Maracó,42,La Pampa,2025,1,Dengue,8,De 20 a 24 años,1
+105,Maracó,42,La Pampa,2025,7,Dengue,8,De 20 a 24 años,2
+105,Maracó,42,La Pampa,2025,8,Dengue,8,De 20 a 24 años,1
+105,Maracó,42,La Pampa,2025,11,Dengue,8,De 20 a 24 años,1
+105,Maracó,42,La Pampa,2025,12,Dengue,8,De 20 a 24 años,4
+105,Maracó,42,La Pampa,2025,13,Dengue,8,De 20 a 24 años,4
+105,Maracó,42,La Pampa,2025,14,Dengue,8,De 20 a 24 años,3
+105,Maracó,42,La Pampa,2025,15,Dengue,8,De 20 a 24 años,4
+105,Maracó,42,La Pampa,2025,7,Dengue,9,De 25 a 34 años,1
+105,Maracó,42,La Pampa,2025,9,Dengue,9,De 25 a 34 años,1
+105,Maracó,42,La Pampa,2025,10,Dengue,9,De 25 a 34 años,5
+105,Maracó,42,La Pampa,2025,11,Dengue,9,De 25 a 34 años,4
+105,Maracó,42,La Pampa,2025,12,Dengue,9,De 25 a 34 años,11
+105,Maracó,42,La Pampa,2025,13,Dengue,9,De 25 a 34 años,7
+105,Maracó,42,La Pampa,2025,14,Dengue,9,De 25 a 34 años,3
+105,Maracó,42,La Pampa,2025,15,Dengue,9,De 25 a 34 años,4
+105,Maracó,42,La Pampa,2025,5,Dengue,10,De 35 a 44 años,1
+105,Maracó,42,La Pampa,2025,6,Dengue,10,De 35 a 44 años,3
+105,Maracó,42,La Pampa,2025,7,Dengue,10,De 35 a 44 años,1
+105,Maracó,42,La Pampa,2025,8,Dengue,10,De 35 a 44 años,1
+105,Maracó,42,La Pampa,2025,9,Dengue,10,De 35 a 44 años,2
+105,Maracó,42,La Pampa,2025,10,Dengue,10,De 35 a 44 años,7
+105,Maracó,42,La Pampa,2025,11,Dengue,10,De 35 a 44 años,3
+105,Maracó,42,La Pampa,2025,12,Dengue,10,De 35 a 44 años,5
+105,Maracó,42,La Pampa,2025,13,Dengue,10,De 35 a 44 años,2
+105,Maracó,42,La Pampa,2025,14,Dengue,10,De 35 a 44 años,7
+105,Maracó,42,La Pampa,2025,15,Dengue,10,De 35 a 44 años,2
+105,Maracó,42,La Pampa,2025,18,Dengue,10,De 35 a 44 años,1
+105,Maracó,42,La Pampa,2025,19,Dengue,10,De 35 a 44 años,1
+105,Maracó,42,La Pampa,2025,4,Dengue,11,De 45 a 65 años,1
+105,Maracó,42,La Pampa,2025,6,Dengue,11,De 45 a 65 años,1
+105,Maracó,42,La Pampa,2025,7,Dengue,11,De 45 a 65 años,1
+105,Maracó,42,La Pampa,2025,8,Dengue,11,De 45 a 65 años,1
+105,Maracó,42,La Pampa,2025,10,Dengue,11,De 45 a 65 años,9
+105,Maracó,42,La Pampa,2025,11,Dengue,11,De 45 a 65 años,9
+105,Maracó,42,La Pampa,2025,12,Dengue,11,De 45 a 65 años,9
+105,Maracó,42,La Pampa,2025,13,Dengue,11,De 45 a 65 años,13
+105,Maracó,42,La Pampa,2025,14,Dengue,11,De 45 a 65 años,11
+105,Maracó,42,La Pampa,2025,15,Dengue,11,De 45 a 65 años,5
+105,Maracó,42,La Pampa,2025,16,Dengue,11,De 45 a 65 años,4
+105,Maracó,42,La Pampa,2025,19,Dengue,11,De 45 a 65 años,1
+105,Maracó,42,La Pampa,2025,7,Dengue,12,Mayores de 65 años,1
+105,Maracó,42,La Pampa,2025,9,Dengue,12,Mayores de 65 años,1
+105,Maracó,42,La Pampa,2025,10,Dengue,12,Mayores de 65 años,2
+105,Maracó,42,La Pampa,2025,11,Dengue,12,Mayores de 65 años,3
+105,Maracó,42,La Pampa,2025,12,Dengue,12,Mayores de 65 años,7
+105,Maracó,42,La Pampa,2025,13,Dengue,12,Mayores de 65 años,3
+105,Maracó,42,La Pampa,2025,14,Dengue,12,Mayores de 65 años,2
+105,Maracó,42,La Pampa,2025,16,Dengue,12,Mayores de 65 años,1
+7,Arauco,46,La Rioja,2025,19,Dengue,10,De 35 a 44 años,1
+14,Capital,46,La Rioja,2025,10,Dengue,4,De 2 a 4 años,1
+14,Capital,46,La Rioja,2025,10,Dengue,5,De 5 a 9 años,1
+14,Capital,46,La Rioja,2025,15,Dengue,5,De 5 a 9 años,1
+14,Capital,46,La Rioja,2025,5,Dengue,6,De 10 a 14 años,1
+14,Capital,46,La Rioja,2025,10,Dengue,7,De 15 a 19 años,4
+14,Capital,46,La Rioja,2025,11,Dengue,7,De 15 a 19 años,1
+14,Capital,46,La Rioja,2025,14,Dengue,7,De 15 a 19 años,1
+14,Capital,46,La Rioja,2025,5,Dengue,8,De 20 a 24 años,1
+14,Capital,46,La Rioja,2025,14,Dengue,8,De 20 a 24 años,1
+14,Capital,46,La Rioja,2025,4,Dengue,9,De 25 a 34 años,1
+14,Capital,46,La Rioja,2025,11,Dengue,9,De 25 a 34 años,3
+14,Capital,46,La Rioja,2025,13,Dengue,9,De 25 a 34 años,1
+14,Capital,46,La Rioja,2025,3,Dengue,10,De 35 a 44 años,1
+14,Capital,46,La Rioja,2025,9,Dengue,10,De 35 a 44 años,1
+14,Capital,46,La Rioja,2025,10,Dengue,10,De 35 a 44 años,3
+14,Capital,46,La Rioja,2025,11,Dengue,10,De 35 a 44 años,1
+14,Capital,46,La Rioja,2025,13,Dengue,10,De 35 a 44 años,1
+14,Capital,46,La Rioja,2025,19,Dengue,10,De 35 a 44 años,2
+14,Capital,46,La Rioja,2025,9,Dengue,11,De 45 a 65 años,1
+14,Capital,46,La Rioja,2025,10,Dengue,11,De 45 a 65 años,4
+14,Capital,46,La Rioja,2025,13,Dengue,11,De 45 a 65 años,1
+14,Capital,46,La Rioja,2025,20,Dengue,11,De 45 a 65 años,1
+14,Capital,46,La Rioja,2025,22,Dengue,11,De 45 a 65 años,1
+14,Capital,46,La Rioja,2025,13,Dengue,12,Mayores de 65 años,1
+14,Capital,46,La Rioja,2025,14,Dengue,12,Mayores de 65 años,2
+14,Capital,46,La Rioja,2025,15,Dengue,12,Mayores de 65 años,1
+35,Chamical,46,La Rioja,2025,13,Dengue,6,De 10 a 14 años,1
+35,Chamical,46,La Rioja,2025,14,Dengue,7,De 15 a 19 años,1
+35,Chamical,46,La Rioja,2025,13,Dengue,9,De 25 a 34 años,1
+35,Chamical,46,La Rioja,2025,15,Dengue,11,De 45 a 65 años,1
+42,Chilecito,46,La Rioja,2025,1,Dengue,9,De 25 a 34 años,1
+56,General Angel V. Peñaloza,46,La Rioja,2025,12,Dengue,8,De 20 a 24 años,1
+91,General San Martín,46,La Rioja,2025,16,Dengue,5,De 5 a 9 años,1
+91,General San Martín,46,La Rioja,2025,19,Dengue,5,De 5 a 9 años,1
+91,General San Martín,46,La Rioja,2025,9,Dengue,6,De 10 a 14 años,1
+91,General San Martín,46,La Rioja,2025,11,Dengue,6,De 10 a 14 años,2
+91,General San Martín,46,La Rioja,2025,13,Dengue,6,De 10 a 14 años,2
+91,General San Martín,46,La Rioja,2025,15,Dengue,6,De 10 a 14 años,1
+91,General San Martín,46,La Rioja,2025,11,Dengue,7,De 15 a 19 años,1
+91,General San Martín,46,La Rioja,2025,18,Dengue,7,De 15 a 19 años,1
+91,General San Martín,46,La Rioja,2025,19,Dengue,7,De 15 a 19 años,1
+91,General San Martín,46,La Rioja,2025,10,Dengue,8,De 20 a 24 años,3
+91,General San Martín,46,La Rioja,2025,15,Dengue,8,De 20 a 24 años,1
+91,General San Martín,46,La Rioja,2025,16,Dengue,8,De 20 a 24 años,1
+91,General San Martín,46,La Rioja,2025,19,Dengue,8,De 20 a 24 años,1
+91,General San Martín,46,La Rioja,2025,9,Dengue,9,De 25 a 34 años,1
+91,General San Martín,46,La Rioja,2025,10,Dengue,9,De 25 a 34 años,3
+91,General San Martín,46,La Rioja,2025,13,Dengue,9,De 25 a 34 años,1
+91,General San Martín,46,La Rioja,2025,14,Dengue,9,De 25 a 34 años,1
+91,General San Martín,46,La Rioja,2025,15,Dengue,9,De 25 a 34 años,1
+91,General San Martín,46,La Rioja,2025,16,Dengue,9,De 25 a 34 años,2
+91,General San Martín,46,La Rioja,2025,18,Dengue,9,De 25 a 34 años,2
+91,General San Martín,46,La Rioja,2025,19,Dengue,9,De 25 a 34 años,1
+91,General San Martín,46,La Rioja,2025,10,Dengue,10,De 35 a 44 años,2
+91,General San Martín,46,La Rioja,2025,11,Dengue,10,De 35 a 44 años,1
+91,General San Martín,46,La Rioja,2025,13,Dengue,10,De 35 a 44 años,1
+91,General San Martín,46,La Rioja,2025,14,Dengue,10,De 35 a 44 años,1
+91,General San Martín,46,La Rioja,2025,19,Dengue,10,De 35 a 44 años,1
+91,General San Martín,46,La Rioja,2025,9,Dengue,11,De 45 a 65 años,1
+91,General San Martín,46,La Rioja,2025,10,Dengue,11,De 45 a 65 años,3
+91,General San Martín,46,La Rioja,2025,11,Dengue,11,De 45 a 65 años,1
+91,General San Martín,46,La Rioja,2025,13,Dengue,11,De 45 a 65 años,2
+91,General San Martín,46,La Rioja,2025,14,Dengue,11,De 45 a 65 años,2
+91,General San Martín,46,La Rioja,2025,16,Dengue,11,De 45 a 65 años,1
+91,General San Martín,46,La Rioja,2025,19,Dengue,11,De 45 a 65 años,2
+91,General San Martín,46,La Rioja,2025,20,Dengue,11,De 45 a 65 años,2
+91,General San Martín,46,La Rioja,2025,21,Dengue,11,De 45 a 65 años,1
+91,General San Martín,46,La Rioja,2025,11,Dengue,12,Mayores de 65 años,1
+91,General San Martín,46,La Rioja,2025,20,Dengue,12,Mayores de 65 años,1
+112,Rosario Vera Peñaloza,46,La Rioja,2025,14,Dengue,7,De 15 a 19 años,1
+112,Rosario Vera Peñaloza,46,La Rioja,2025,13,Dengue,9,De 25 a 34 años,1
+112,Rosario Vera Peñaloza,46,La Rioja,2025,14,Dengue,9,De 25 a 34 años,1
+112,Rosario Vera Peñaloza,46,La Rioja,2025,10,Dengue,11,De 45 a 65 años,1
+112,Rosario Vera Peñaloza,46,La Rioja,2025,15,Dengue,11,De 45 a 65 años,1
+112,Rosario Vera Peñaloza,46,La Rioja,2025,14,Dengue,12,Mayores de 65 años,1
+112,Rosario Vera Peñaloza,46,La Rioja,2025,15,Dengue,12,Mayores de 65 años,2
+7,Capital,50,Mendoza,2025,16,Dengue,11,De 45 a 65 años,1
+7,Capital,50,Mendoza,2025,25,Dengue,11,De 45 a 65 años,1
+21,Godoy Cruz,50,Mendoza,2025,25,Dengue,10,De 35 a 44 años,1
+28,Guaymallén,50,Mendoza,2025,3,Dengue,9,De 25 a 34 años,1
+28,Guaymallén,50,Mendoza,2025,10,Dengue,9,De 25 a 34 años,1
+49,Las Heras,50,Mendoza,2025,16,Dengue,11,De 45 a 65 años,1
+63,Luján de Cuyo,50,Mendoza,2025,10,Dengue,11,De 45 a 65 años,1
+126,Tupungato,50,Mendoza,2025,9,Dengue,9,De 25 a 34 años,1
+28,Capital,54,Misiones,2025,5,Dengue,8,De 20 a 24 años,1
+28,Capital,54,Misiones,2025,17,Dengue,11,De 45 a 65 años,1
+63,Iguazú,54,Misiones,2025,17,Dengue,5,De 5 a 9 años,1
+63,Iguazú,54,Misiones,2025,4,Dengue,9,De 25 a 34 años,1
+35,Confluencia,58,Neuquén,2025,7,Dengue,11,De 45 a 65 años,1
+56,Lácar,58,Neuquén,2025,15,Dengue,10,De 35 a 44 años,1
+70,Los Lagos,58,Neuquén,2025,14,Dengue,5,De 5 a 9 años,1
+70,Los Lagos,58,Neuquén,2025,13,Dengue,11,De 45 a 65 años,1
+28,Capital,66,Salta,2025,4,Dengue,5,De 5 a 9 años,1
+28,Capital,66,Salta,2025,10,Dengue,6,De 10 a 14 años,1
+28,Capital,66,Salta,2025,16,Dengue,6,De 10 a 14 años,1
+28,Capital,66,Salta,2025,13,Dengue,7,De 15 a 19 años,1
+28,Capital,66,Salta,2025,15,Dengue,7,De 15 a 19 años,1
+28,Capital,66,Salta,2025,9,Dengue,8,De 20 a 24 años,1
+28,Capital,66,Salta,2025,11,Dengue,8,De 20 a 24 años,2
+28,Capital,66,Salta,2025,9,Dengue,9,De 25 a 34 años,2
+28,Capital,66,Salta,2025,10,Dengue,9,De 25 a 34 años,1
+28,Capital,66,Salta,2025,11,Dengue,9,De 25 a 34 años,1
+28,Capital,66,Salta,2025,11,Dengue,10,De 35 a 44 años,1
+28,Capital,66,Salta,2025,1,Dengue,11,De 45 a 65 años,1
+28,Capital,66,Salta,2025,6,Dengue,11,De 45 a 65 años,1
+28,Capital,66,Salta,2025,8,Dengue,11,De 45 a 65 años,1
+28,Capital,66,Salta,2025,10,Dengue,11,De 45 a 65 años,1
+28,Capital,66,Salta,2025,11,Dengue,11,De 45 a 65 años,1
+28,Capital,66,Salta,2025,12,Dengue,11,De 45 a 65 años,1
+28,Capital,66,Salta,2025,18,Dengue,11,De 45 a 65 años,1
+49,General Güemes,66,Salta,2025,11,Dengue,9,De 25 a 34 años,1
+126,Orán,66,Salta,2025,13,Dengue,11,De 45 a 65 años,1
+126,Orán,66,Salta,2025,14,Dengue,11,De 45 a 65 años,1
+28,Capital,70,San Juan,2025,9,Dengue,12,Mayores de 65 años,1
+77,Rawson,70,San Juan,2025,14,Dengue,11,De 45 a 65 años,1
+7,Ayacucho,74,San Luis,2025,11,Dengue,6,De 10 a 14 años,1
+7,Ayacucho,74,San Luis,2025,19,Dengue,6,De 10 a 14 años,1
+7,Ayacucho,74,San Luis,2025,10,Dengue,7,De 15 a 19 años,1
+7,Ayacucho,74,San Luis,2025,15,Dengue,7,De 15 a 19 años,2
+7,Ayacucho,74,San Luis,2025,22,Dengue,7,De 15 a 19 años,1
+7,Ayacucho,74,San Luis,2025,19,Dengue,9,De 25 a 34 años,1
+7,Ayacucho,74,San Luis,2025,11,Dengue,10,De 35 a 44 años,1
+7,Ayacucho,74,San Luis,2025,16,Dengue,10,De 35 a 44 años,1
+7,Ayacucho,74,San Luis,2025,19,Dengue,10,De 35 a 44 años,2
+28,Chacabuco,74,San Luis,2025,11,Dengue,6,De 10 a 14 años,1
+28,Chacabuco,74,San Luis,2025,12,Dengue,7,De 15 a 19 años,1
+28,Chacabuco,74,San Luis,2025,9,Dengue,9,De 25 a 34 años,1
+28,Chacabuco,74,San Luis,2025,9,Dengue,10,De 35 a 44 años,1
+28,Chacabuco,74,San Luis,2025,10,Dengue,10,De 35 a 44 años,1
+28,Chacabuco,74,San Luis,2025,14,Dengue,10,De 35 a 44 años,1
+28,Chacabuco,74,San Luis,2025,9,Dengue,11,De 45 a 65 años,3
+28,Chacabuco,74,San Luis,2025,10,Dengue,11,De 45 a 65 años,1
+28,Chacabuco,74,San Luis,2025,10,Dengue,12,Mayores de 65 años,1
+28,Chacabuco,74,San Luis,2025,11,Dengue,12,Mayores de 65 años,1
+35,General Pedernera,74,San Luis,2025,11,Dengue,6,De 10 a 14 años,1
+35,General Pedernera,74,San Luis,2025,14,Dengue,7,De 15 a 19 años,1
+35,General Pedernera,74,San Luis,2025,8,Dengue,9,De 25 a 34 años,1
+35,General Pedernera,74,San Luis,2025,12,Dengue,9,De 25 a 34 años,2
+35,General Pedernera,74,San Luis,2025,13,Dengue,10,De 35 a 44 años,1
+35,General Pedernera,74,San Luis,2025,14,Dengue,10,De 35 a 44 años,1
+35,General Pedernera,74,San Luis,2025,10,Dengue,11,De 45 a 65 años,1
+35,General Pedernera,74,San Luis,2025,11,Dengue,11,De 45 a 65 años,1
+35,General Pedernera,74,San Luis,2025,12,Dengue,11,De 45 a 65 años,1
+35,General Pedernera,74,San Luis,2025,13,Dengue,11,De 45 a 65 años,1
+49,Junín,74,San Luis,2025,10,Dengue,6,De 10 a 14 años,1
+49,Junín,74,San Luis,2025,14,Dengue,6,De 10 a 14 años,1
+49,Junín,74,San Luis,2025,16,Dengue,6,De 10 a 14 años,1
+49,Junín,74,San Luis,2025,15,Dengue,7,De 15 a 19 años,1
+49,Junín,74,San Luis,2025,14,Dengue,8,De 20 a 24 años,1
+49,Junín,74,San Luis,2025,22,Dengue,8,De 20 a 24 años,1
+49,Junín,74,San Luis,2025,10,Dengue,9,De 25 a 34 años,1
+49,Junín,74,San Luis,2025,13,Dengue,9,De 25 a 34 años,2
+49,Junín,74,San Luis,2025,16,Dengue,9,De 25 a 34 años,1
+49,Junín,74,San Luis,2025,19,Dengue,9,De 25 a 34 años,1
+49,Junín,74,San Luis,2025,6,Dengue,10,De 35 a 44 años,1
+49,Junín,74,San Luis,2025,8,Dengue,10,De 35 a 44 años,1
+49,Junín,74,San Luis,2025,13,Dengue,10,De 35 a 44 años,1
+49,Junín,74,San Luis,2025,15,Dengue,10,De 35 a 44 años,1
+49,Junín,74,San Luis,2025,10,Dengue,11,De 45 a 65 años,1
+49,Junín,74,San Luis,2025,14,Dengue,11,De 45 a 65 años,2
+49,Junín,74,San Luis,2025,16,Dengue,11,De 45 a 65 años,1
+49,Junín,74,San Luis,2025,9,Dengue,12,Mayores de 65 años,1
+49,Junín,74,San Luis,2025,18,Dengue,12,Mayores de 65 años,1
+49,Junín,74,San Luis,2025,20,Dengue,12,Mayores de 65 años,1
+56,La Capital,74,San Luis,2025,21,Dengue,6,De 10 a 14 años,1
+56,La Capital,74,San Luis,2025,18,Dengue,9,De 25 a 34 años,1
+56,La Capital,74,San Luis,2025,12,Dengue,10,De 35 a 44 años,1
+21,Güer Aike,78,Santa Cruz,2025,12,Dengue,8,De 20 a 24 años,1
+7,Belgrano,82,Santa Fe,2025,3,Dengue,6,De 10 a 14 años,1
+7,Belgrano,82,Santa Fe,2025,17,Dengue,7,De 15 a 19 años,1
+7,Belgrano,82,Santa Fe,2025,15,Dengue,8,De 20 a 24 años,1
+7,Belgrano,82,Santa Fe,2025,12,Dengue,9,De 25 a 34 años,1
+7,Belgrano,82,Santa Fe,2025,14,Dengue,9,De 25 a 34 años,1
+7,Belgrano,82,Santa Fe,2025,20,Dengue,10,De 35 a 44 años,1
+14,Caseros,82,Santa Fe,2025,11,Dengue,5,De 5 a 9 años,2
+14,Caseros,82,Santa Fe,2025,13,Dengue,5,De 5 a 9 años,1
+14,Caseros,82,Santa Fe,2025,14,Dengue,5,De 5 a 9 años,2
+14,Caseros,82,Santa Fe,2025,11,Dengue,6,De 10 a 14 años,2
+14,Caseros,82,Santa Fe,2025,13,Dengue,6,De 10 a 14 años,1
+14,Caseros,82,Santa Fe,2025,14,Dengue,6,De 10 a 14 años,3
+14,Caseros,82,Santa Fe,2025,17,Dengue,6,De 10 a 14 años,2
+14,Caseros,82,Santa Fe,2025,9,Dengue,7,De 15 a 19 años,1
+14,Caseros,82,Santa Fe,2025,11,Dengue,7,De 15 a 19 años,1
+14,Caseros,82,Santa Fe,2025,12,Dengue,7,De 15 a 19 años,1
+14,Caseros,82,Santa Fe,2025,13,Dengue,7,De 15 a 19 años,3
+14,Caseros,82,Santa Fe,2025,14,Dengue,7,De 15 a 19 años,6
+14,Caseros,82,Santa Fe,2025,17,Dengue,7,De 15 a 19 años,1
+14,Caseros,82,Santa Fe,2025,12,Dengue,8,De 20 a 24 años,2
+14,Caseros,82,Santa Fe,2025,13,Dengue,8,De 20 a 24 años,2
+14,Caseros,82,Santa Fe,2025,14,Dengue,8,De 20 a 24 años,3
+14,Caseros,82,Santa Fe,2025,15,Dengue,8,De 20 a 24 años,1
+14,Caseros,82,Santa Fe,2025,9,Dengue,9,De 25 a 34 años,1
+14,Caseros,82,Santa Fe,2025,10,Dengue,9,De 25 a 34 años,6
+14,Caseros,82,Santa Fe,2025,11,Dengue,9,De 25 a 34 años,3
+14,Caseros,82,Santa Fe,2025,12,Dengue,9,De 25 a 34 años,1
+14,Caseros,82,Santa Fe,2025,13,Dengue,9,De 25 a 34 años,3
+14,Caseros,82,Santa Fe,2025,14,Dengue,9,De 25 a 34 años,10
+14,Caseros,82,Santa Fe,2025,11,Dengue,10,De 35 a 44 años,2
+14,Caseros,82,Santa Fe,2025,12,Dengue,10,De 35 a 44 años,1
+14,Caseros,82,Santa Fe,2025,13,Dengue,10,De 35 a 44 años,5
+14,Caseros,82,Santa Fe,2025,14,Dengue,10,De 35 a 44 años,12
+14,Caseros,82,Santa Fe,2025,8,Dengue,11,De 45 a 65 años,1
+14,Caseros,82,Santa Fe,2025,9,Dengue,11,De 45 a 65 años,1
+14,Caseros,82,Santa Fe,2025,10,Dengue,11,De 45 a 65 años,2
+14,Caseros,82,Santa Fe,2025,11,Dengue,11,De 45 a 65 años,7
+14,Caseros,82,Santa Fe,2025,12,Dengue,11,De 45 a 65 años,4
+14,Caseros,82,Santa Fe,2025,13,Dengue,11,De 45 a 65 años,8
+14,Caseros,82,Santa Fe,2025,14,Dengue,11,De 45 a 65 años,28
+14,Caseros,82,Santa Fe,2025,16,Dengue,11,De 45 a 65 años,1
+14,Caseros,82,Santa Fe,2025,20,Dengue,11,De 45 a 65 años,1
+14,Caseros,82,Santa Fe,2025,10,Dengue,12,Mayores de 65 años,3
+14,Caseros,82,Santa Fe,2025,11,Dengue,12,Mayores de 65 años,7
+14,Caseros,82,Santa Fe,2025,12,Dengue,12,Mayores de 65 años,4
+14,Caseros,82,Santa Fe,2025,13,Dengue,12,Mayores de 65 años,2
+14,Caseros,82,Santa Fe,2025,14,Dengue,12,Mayores de 65 años,8
+14,Caseros,82,Santa Fe,2025,16,Dengue,12,Mayores de 65 años,1
+14,Caseros,82,Santa Fe,2025,20,Dengue,12,Mayores de 65 años,1
+14,Caseros,82,Santa Fe,2025,21,Dengue,12,Mayores de 65 años,1
+21,Castellanos,82,Santa Fe,2025,14,Dengue,7,De 15 a 19 años,1
+21,Castellanos,82,Santa Fe,2025,21,Dengue,8,De 20 a 24 años,1
+21,Castellanos,82,Santa Fe,2025,11,Dengue,9,De 25 a 34 años,1
+21,Castellanos,82,Santa Fe,2025,13,Dengue,10,De 35 a 44 años,1
+21,Castellanos,82,Santa Fe,2025,11,Dengue,12,Mayores de 65 años,1
+28,Constitución,82,Santa Fe,2025,18,Dengue,7,De 15 a 19 años,1
+28,Constitución,82,Santa Fe,2025,20,Dengue,8,De 20 a 24 años,1
+28,Constitución,82,Santa Fe,2025,9,Dengue,9,De 25 a 34 años,1
+28,Constitución,82,Santa Fe,2025,12,Dengue,9,De 25 a 34 años,1
+28,Constitución,82,Santa Fe,2025,19,Dengue,9,De 25 a 34 años,3
+28,Constitución,82,Santa Fe,2025,20,Dengue,9,De 25 a 34 años,1
+28,Constitución,82,Santa Fe,2025,12,Dengue,10,De 35 a 44 años,1
+28,Constitución,82,Santa Fe,2025,14,Dengue,10,De 35 a 44 años,2
+28,Constitución,82,Santa Fe,2025,18,Dengue,10,De 35 a 44 años,1
+28,Constitución,82,Santa Fe,2025,19,Dengue,10,De 35 a 44 años,2
+28,Constitución,82,Santa Fe,2025,21,Dengue,10,De 35 a 44 años,1
+28,Constitución,82,Santa Fe,2025,11,Dengue,11,De 45 a 65 años,1
+28,Constitución,82,Santa Fe,2025,18,Dengue,11,De 45 a 65 años,1
+28,Constitución,82,Santa Fe,2025,19,Dengue,11,De 45 a 65 años,2
+35,Garay,82,Santa Fe,2025,20,Dengue,8,De 20 a 24 años,1
+35,Garay,82,Santa Fe,2025,13,Dengue,12,Mayores de 65 años,1
+42,General López,82,Santa Fe,2025,9,Dengue,6,De 10 a 14 años,1
+42,General López,82,Santa Fe,2025,15,Dengue,7,De 15 a 19 años,1
+42,General López,82,Santa Fe,2025,19,Dengue,7,De 15 a 19 años,1
+42,General López,82,Santa Fe,2025,13,Dengue,8,De 20 a 24 años,2
+42,General López,82,Santa Fe,2025,16,Dengue,8,De 20 a 24 años,1
+42,General López,82,Santa Fe,2025,17,Dengue,8,De 20 a 24 años,1
+42,General López,82,Santa Fe,2025,8,Dengue,9,De 25 a 34 años,1
+42,General López,82,Santa Fe,2025,11,Dengue,9,De 25 a 34 años,1
+42,General López,82,Santa Fe,2025,13,Dengue,9,De 25 a 34 años,1
+42,General López,82,Santa Fe,2025,14,Dengue,9,De 25 a 34 años,1
+42,General López,82,Santa Fe,2025,19,Dengue,9,De 25 a 34 años,1
+42,General López,82,Santa Fe,2025,10,Dengue,11,De 45 a 65 años,1
+42,General López,82,Santa Fe,2025,17,Dengue,11,De 45 a 65 años,1
+42,General López,82,Santa Fe,2025,8,Dengue,12,Mayores de 65 años,1
+49,General Obligado,82,Santa Fe,2025,21,Dengue,8,De 20 a 24 años,1
+49,General Obligado,82,Santa Fe,2025,20,Dengue,9,De 25 a 34 años,1
+49,General Obligado,82,Santa Fe,2025,21,Dengue,9,De 25 a 34 años,1
+49,General Obligado,82,Santa Fe,2025,22,Dengue,9,De 25 a 34 años,1
+49,General Obligado,82,Santa Fe,2025,20,Dengue,10,De 35 a 44 años,1
+49,General Obligado,82,Santa Fe,2025,12,Dengue,11,De 45 a 65 años,1
+56,Iriondo,82,Santa Fe,2025,13,Dengue,7,De 15 a 19 años,1
+56,Iriondo,82,Santa Fe,2025,15,Dengue,7,De 15 a 19 años,1
+56,Iriondo,82,Santa Fe,2025,19,Dengue,7,De 15 a 19 años,1
+56,Iriondo,82,Santa Fe,2025,16,Dengue,8,De 20 a 24 años,1
+56,Iriondo,82,Santa Fe,2025,13,Dengue,9,De 25 a 34 años,2
+56,Iriondo,82,Santa Fe,2025,12,Dengue,10,De 35 a 44 años,1
+56,Iriondo,82,Santa Fe,2025,15,Dengue,10,De 35 a 44 años,1
+56,Iriondo,82,Santa Fe,2025,18,Dengue,10,De 35 a 44 años,2
+56,Iriondo,82,Santa Fe,2025,19,Dengue,10,De 35 a 44 años,1
+56,Iriondo,82,Santa Fe,2025,13,Dengue,11,De 45 a 65 años,3
+56,Iriondo,82,Santa Fe,2025,16,Dengue,11,De 45 a 65 años,1
+56,Iriondo,82,Santa Fe,2025,20,Dengue,11,De 45 a 65 años,1
+56,Iriondo,82,Santa Fe,2025,21,Dengue,11,De 45 a 65 años,1
+56,Iriondo,82,Santa Fe,2025,11,Dengue,12,Mayores de 65 años,1
+63,La Capital,82,Santa Fe,2025,11,Dengue,8,De 20 a 24 años,1
+63,La Capital,82,Santa Fe,2025,12,Dengue,8,De 20 a 24 años,1
+63,La Capital,82,Santa Fe,2025,14,Dengue,8,De 20 a 24 años,1
+63,La Capital,82,Santa Fe,2025,17,Dengue,8,De 20 a 24 años,1
+63,La Capital,82,Santa Fe,2025,19,Dengue,8,De 20 a 24 años,1
+63,La Capital,82,Santa Fe,2025,9,Dengue,9,De 25 a 34 años,1
+63,La Capital,82,Santa Fe,2025,12,Dengue,9,De 25 a 34 años,1
+63,La Capital,82,Santa Fe,2025,14,Dengue,9,De 25 a 34 años,1
+63,La Capital,82,Santa Fe,2025,9,Dengue,10,De 35 a 44 años,1
+63,La Capital,82,Santa Fe,2025,12,Dengue,10,De 35 a 44 años,1
+63,La Capital,82,Santa Fe,2025,15,Dengue,10,De 35 a 44 años,1
+63,La Capital,82,Santa Fe,2025,18,Dengue,10,De 35 a 44 años,2
+63,La Capital,82,Santa Fe,2025,7,Dengue,11,De 45 a 65 años,1
+63,La Capital,82,Santa Fe,2025,10,Dengue,11,De 45 a 65 años,1
+63,La Capital,82,Santa Fe,2025,11,Dengue,11,De 45 a 65 años,1
+63,La Capital,82,Santa Fe,2025,13,Dengue,11,De 45 a 65 años,2
+63,La Capital,82,Santa Fe,2025,18,Dengue,11,De 45 a 65 años,1
+77,9 de Julio,82,Santa Fe,2025,13,Dengue,10,De 35 a 44 años,1
+84,Rosario,82,Santa Fe,2025,12,Dengue,1,Neonato (hasta 28 días),1
+84,Rosario,82,Santa Fe,2025,14,Dengue,1,Neonato (hasta 28 días),1
+84,Rosario,82,Santa Fe,2025,15,Dengue,1,Neonato (hasta 28 días),2
+84,Rosario,82,Santa Fe,2025,20,Dengue,1,Neonato (hasta 28 días),1
+84,Rosario,82,Santa Fe,2025,21,Dengue,1,Neonato (hasta 28 días),2
+84,Rosario,82,Santa Fe,2025,10,Dengue,2,Posneonato (29 hasta 365 días),1
+84,Rosario,82,Santa Fe,2025,11,Dengue,2,Posneonato (29 hasta 365 días),2
+84,Rosario,82,Santa Fe,2025,12,Dengue,2,Posneonato (29 hasta 365 días),7
+84,Rosario,82,Santa Fe,2025,13,Dengue,2,Posneonato (29 hasta 365 días),4
+84,Rosario,82,Santa Fe,2025,14,Dengue,2,Posneonato (29 hasta 365 días),6
+84,Rosario,82,Santa Fe,2025,15,Dengue,2,Posneonato (29 hasta 365 días),2
+84,Rosario,82,Santa Fe,2025,16,Dengue,2,Posneonato (29 hasta 365 días),2
+84,Rosario,82,Santa Fe,2025,17,Dengue,2,Posneonato (29 hasta 365 días),4
+84,Rosario,82,Santa Fe,2025,18,Dengue,2,Posneonato (29 hasta 365 días),2
+84,Rosario,82,Santa Fe,2025,19,Dengue,2,Posneonato (29 hasta 365 días),1
+84,Rosario,82,Santa Fe,2025,20,Dengue,2,Posneonato (29 hasta 365 días),2
+84,Rosario,82,Santa Fe,2025,10,Dengue,3,De 13 a 24 meses,1
+84,Rosario,82,Santa Fe,2025,12,Dengue,3,De 13 a 24 meses,5
+84,Rosario,82,Santa Fe,2025,14,Dengue,3,De 13 a 24 meses,6
+84,Rosario,82,Santa Fe,2025,15,Dengue,3,De 13 a 24 meses,4
+84,Rosario,82,Santa Fe,2025,16,Dengue,3,De 13 a 24 meses,3
+84,Rosario,82,Santa Fe,2025,17,Dengue,3,De 13 a 24 meses,3
+84,Rosario,82,Santa Fe,2025,18,Dengue,3,De 13 a 24 meses,5
+84,Rosario,82,Santa Fe,2025,20,Dengue,3,De 13 a 24 meses,1
+84,Rosario,82,Santa Fe,2025,8,Dengue,4,De 2 a 4 años,1
+84,Rosario,82,Santa Fe,2025,12,Dengue,4,De 2 a 4 años,8
+84,Rosario,82,Santa Fe,2025,13,Dengue,4,De 2 a 4 años,8
+84,Rosario,82,Santa Fe,2025,14,Dengue,4,De 2 a 4 años,15
+84,Rosario,82,Santa Fe,2025,15,Dengue,4,De 2 a 4 años,13
+84,Rosario,82,Santa Fe,2025,16,Dengue,4,De 2 a 4 años,13
+84,Rosario,82,Santa Fe,2025,17,Dengue,4,De 2 a 4 años,15
+84,Rosario,82,Santa Fe,2025,18,Dengue,4,De 2 a 4 años,12
+84,Rosario,82,Santa Fe,2025,19,Dengue,4,De 2 a 4 años,9
+84,Rosario,82,Santa Fe,2025,20,Dengue,4,De 2 a 4 años,5
+84,Rosario,82,Santa Fe,2025,22,Dengue,4,De 2 a 4 años,2
+84,Rosario,82,Santa Fe,2025,4,Dengue,5,De 5 a 9 años,1
+84,Rosario,82,Santa Fe,2025,6,Dengue,5,De 5 a 9 años,1
+84,Rosario,82,Santa Fe,2025,7,Dengue,5,De 5 a 9 años,2
+84,Rosario,82,Santa Fe,2025,8,Dengue,5,De 5 a 9 años,2
+84,Rosario,82,Santa Fe,2025,9,Dengue,5,De 5 a 9 años,2
+84,Rosario,82,Santa Fe,2025,10,Dengue,5,De 5 a 9 años,6
+84,Rosario,82,Santa Fe,2025,11,Dengue,5,De 5 a 9 años,8
+84,Rosario,82,Santa Fe,2025,12,Dengue,5,De 5 a 9 años,42
+84,Rosario,82,Santa Fe,2025,13,Dengue,5,De 5 a 9 años,46
+84,Rosario,82,Santa Fe,2025,14,Dengue,5,De 5 a 9 años,78
+84,Rosario,82,Santa Fe,2025,15,Dengue,5,De 5 a 9 años,51
+84,Rosario,82,Santa Fe,2025,16,Dengue,5,De 5 a 9 años,43
+84,Rosario,82,Santa Fe,2025,17,Dengue,5,De 5 a 9 años,51
+84,Rosario,82,Santa Fe,2025,18,Dengue,5,De 5 a 9 años,50
+84,Rosario,82,Santa Fe,2025,19,Dengue,5,De 5 a 9 años,49
+84,Rosario,82,Santa Fe,2025,20,Dengue,5,De 5 a 9 años,14
+84,Rosario,82,Santa Fe,2025,21,Dengue,5,De 5 a 9 años,1
+84,Rosario,82,Santa Fe,2025,22,Dengue,5,De 5 a 9 años,2
+84,Rosario,82,Santa Fe,2025,23,Dengue,5,De 5 a 9 años,1
+84,Rosario,82,Santa Fe,2025,3,Dengue,6,De 10 a 14 años,1
+84,Rosario,82,Santa Fe,2025,7,Dengue,6,De 10 a 14 años,2
+84,Rosario,82,Santa Fe,2025,8,Dengue,6,De 10 a 14 años,6
+84,Rosario,82,Santa Fe,2025,9,Dengue,6,De 10 a 14 años,9
+84,Rosario,82,Santa Fe,2025,10,Dengue,6,De 10 a 14 años,9
+84,Rosario,82,Santa Fe,2025,11,Dengue,6,De 10 a 14 años,18
+84,Rosario,82,Santa Fe,2025,12,Dengue,6,De 10 a 14 años,63
+84,Rosario,82,Santa Fe,2025,13,Dengue,6,De 10 a 14 años,101
+84,Rosario,82,Santa Fe,2025,14,Dengue,6,De 10 a 14 años,133
+84,Rosario,82,Santa Fe,2025,15,Dengue,6,De 10 a 14 años,82
+84,Rosario,82,Santa Fe,2025,16,Dengue,6,De 10 a 14 años,76
+84,Rosario,82,Santa Fe,2025,17,Dengue,6,De 10 a 14 años,103
+84,Rosario,82,Santa Fe,2025,18,Dengue,6,De 10 a 14 años,88
+84,Rosario,82,Santa Fe,2025,19,Dengue,6,De 10 a 14 años,72
+84,Rosario,82,Santa Fe,2025,20,Dengue,6,De 10 a 14 años,48
+84,Rosario,82,Santa Fe,2025,21,Dengue,6,De 10 a 14 años,6
+84,Rosario,82,Santa Fe,2025,22,Dengue,6,De 10 a 14 años,4
+84,Rosario,82,Santa Fe,2025,23,Dengue,6,De 10 a 14 años,1
+84,Rosario,82,Santa Fe,2025,25,Dengue,6,De 10 a 14 años,1
+84,Rosario,82,Santa Fe,2025,1,Dengue,7,De 15 a 19 años,1
+84,Rosario,82,Santa Fe,2025,2,Dengue,7,De 15 a 19 años,1
+84,Rosario,82,Santa Fe,2025,4,Dengue,7,De 15 a 19 años,3
+84,Rosario,82,Santa Fe,2025,6,Dengue,7,De 15 a 19 años,1
+84,Rosario,82,Santa Fe,2025,7,Dengue,7,De 15 a 19 años,2
+84,Rosario,82,Santa Fe,2025,8,Dengue,7,De 15 a 19 años,5
+84,Rosario,82,Santa Fe,2025,9,Dengue,7,De 15 a 19 años,10
+84,Rosario,82,Santa Fe,2025,10,Dengue,7,De 15 a 19 años,13
+84,Rosario,82,Santa Fe,2025,11,Dengue,7,De 15 a 19 años,10
+84,Rosario,82,Santa Fe,2025,12,Dengue,7,De 15 a 19 años,61
+84,Rosario,82,Santa Fe,2025,13,Dengue,7,De 15 a 19 años,79
+84,Rosario,82,Santa Fe,2025,14,Dengue,7,De 15 a 19 años,113
+84,Rosario,82,Santa Fe,2025,15,Dengue,7,De 15 a 19 años,76
+84,Rosario,82,Santa Fe,2025,16,Dengue,7,De 15 a 19 años,65
+84,Rosario,82,Santa Fe,2025,17,Dengue,7,De 15 a 19 años,103
+84,Rosario,82,Santa Fe,2025,18,Dengue,7,De 15 a 19 años,85
+84,Rosario,82,Santa Fe,2025,19,Dengue,7,De 15 a 19 años,74
+84,Rosario,82,Santa Fe,2025,20,Dengue,7,De 15 a 19 años,38
+84,Rosario,82,Santa Fe,2025,21,Dengue,7,De 15 a 19 años,3
+84,Rosario,82,Santa Fe,2025,2,Dengue,8,De 20 a 24 años,1
+84,Rosario,82,Santa Fe,2025,4,Dengue,8,De 20 a 24 años,1
+84,Rosario,82,Santa Fe,2025,6,Dengue,8,De 20 a 24 años,2
+84,Rosario,82,Santa Fe,2025,7,Dengue,8,De 20 a 24 años,6
+84,Rosario,82,Santa Fe,2025,8,Dengue,8,De 20 a 24 años,6
+84,Rosario,82,Santa Fe,2025,9,Dengue,8,De 20 a 24 años,10
+84,Rosario,82,Santa Fe,2025,10,Dengue,8,De 20 a 24 años,7
+84,Rosario,82,Santa Fe,2025,11,Dengue,8,De 20 a 24 años,18
+84,Rosario,82,Santa Fe,2025,12,Dengue,8,De 20 a 24 años,44
+84,Rosario,82,Santa Fe,2025,13,Dengue,8,De 20 a 24 años,92
+84,Rosario,82,Santa Fe,2025,14,Dengue,8,De 20 a 24 años,106
+84,Rosario,82,Santa Fe,2025,15,Dengue,8,De 20 a 24 años,75
+84,Rosario,82,Santa Fe,2025,16,Dengue,8,De 20 a 24 años,92
+84,Rosario,82,Santa Fe,2025,17,Dengue,8,De 20 a 24 años,119
+84,Rosario,82,Santa Fe,2025,18,Dengue,8,De 20 a 24 años,72
+84,Rosario,82,Santa Fe,2025,19,Dengue,8,De 20 a 24 años,57
+84,Rosario,82,Santa Fe,2025,20,Dengue,8,De 20 a 24 años,29
+84,Rosario,82,Santa Fe,2025,21,Dengue,8,De 20 a 24 años,5
+84,Rosario,82,Santa Fe,2025,22,Dengue,8,De 20 a 24 años,2
+84,Rosario,82,Santa Fe,2025,1,Dengue,9,De 25 a 34 años,1
+84,Rosario,82,Santa Fe,2025,4,Dengue,9,De 25 a 34 años,4
+84,Rosario,82,Santa Fe,2025,5,Dengue,9,De 25 a 34 años,3
+84,Rosario,82,Santa Fe,2025,6,Dengue,9,De 25 a 34 años,4
+84,Rosario,82,Santa Fe,2025,7,Dengue,9,De 25 a 34 años,8
+84,Rosario,82,Santa Fe,2025,8,Dengue,9,De 25 a 34 años,20
+84,Rosario,82,Santa Fe,2025,9,Dengue,9,De 25 a 34 años,21
+84,Rosario,82,Santa Fe,2025,10,Dengue,9,De 25 a 34 años,27
+84,Rosario,82,Santa Fe,2025,11,Dengue,9,De 25 a 34 años,20
+84,Rosario,82,Santa Fe,2025,12,Dengue,9,De 25 a 34 años,123
+84,Rosario,82,Santa Fe,2025,13,Dengue,9,De 25 a 34 años,159
+84,Rosario,82,Santa Fe,2025,14,Dengue,9,De 25 a 34 años,270
+84,Rosario,82,Santa Fe,2025,15,Dengue,9,De 25 a 34 años,173
+84,Rosario,82,Santa Fe,2025,16,Dengue,9,De 25 a 34 años,142
+84,Rosario,82,Santa Fe,2025,17,Dengue,9,De 25 a 34 años,215
+84,Rosario,82,Santa Fe,2025,18,Dengue,9,De 25 a 34 años,148
+84,Rosario,82,Santa Fe,2025,19,Dengue,9,De 25 a 34 años,111
+84,Rosario,82,Santa Fe,2025,20,Dengue,9,De 25 a 34 años,86
+84,Rosario,82,Santa Fe,2025,21,Dengue,9,De 25 a 34 años,10
+84,Rosario,82,Santa Fe,2025,22,Dengue,9,De 25 a 34 años,4
+84,Rosario,82,Santa Fe,2025,4,Dengue,10,De 35 a 44 años,1
+84,Rosario,82,Santa Fe,2025,5,Dengue,10,De 35 a 44 años,2
+84,Rosario,82,Santa Fe,2025,6,Dengue,10,De 35 a 44 años,3
+84,Rosario,82,Santa Fe,2025,7,Dengue,10,De 35 a 44 años,2
+84,Rosario,82,Santa Fe,2025,8,Dengue,10,De 35 a 44 años,18
+84,Rosario,82,Santa Fe,2025,9,Dengue,10,De 35 a 44 años,18
+84,Rosario,82,Santa Fe,2025,10,Dengue,10,De 35 a 44 años,25
+84,Rosario,82,Santa Fe,2025,11,Dengue,10,De 35 a 44 años,36
+84,Rosario,82,Santa Fe,2025,12,Dengue,10,De 35 a 44 años,149
+84,Rosario,82,Santa Fe,2025,13,Dengue,10,De 35 a 44 años,165
+84,Rosario,82,Santa Fe,2025,14,Dengue,10,De 35 a 44 años,268
+84,Rosario,82,Santa Fe,2025,15,Dengue,10,De 35 a 44 años,176
+84,Rosario,82,Santa Fe,2025,16,Dengue,10,De 35 a 44 años,134
+84,Rosario,82,Santa Fe,2025,17,Dengue,10,De 35 a 44 años,197
+84,Rosario,82,Santa Fe,2025,18,Dengue,10,De 35 a 44 años,146
+84,Rosario,82,Santa Fe,2025,19,Dengue,10,De 35 a 44 años,124
+84,Rosario,82,Santa Fe,2025,20,Dengue,10,De 35 a 44 años,93
+84,Rosario,82,Santa Fe,2025,21,Dengue,10,De 35 a 44 años,11
+84,Rosario,82,Santa Fe,2025,22,Dengue,10,De 35 a 44 años,2
+84,Rosario,82,Santa Fe,2025,23,Dengue,10,De 35 a 44 años,3
+84,Rosario,82,Santa Fe,2025,1,Dengue,11,De 45 a 65 años,1
+84,Rosario,82,Santa Fe,2025,2,Dengue,11,De 45 a 65 años,1
+84,Rosario,82,Santa Fe,2025,3,Dengue,11,De 45 a 65 años,4
+84,Rosario,82,Santa Fe,2025,4,Dengue,11,De 45 a 65 años,5
+84,Rosario,82,Santa Fe,2025,5,Dengue,11,De 45 a 65 años,4
+84,Rosario,82,Santa Fe,2025,6,Dengue,11,De 45 a 65 años,5
+84,Rosario,82,Santa Fe,2025,7,Dengue,11,De 45 a 65 años,12
+84,Rosario,82,Santa Fe,2025,8,Dengue,11,De 45 a 65 años,21
+84,Rosario,82,Santa Fe,2025,9,Dengue,11,De 45 a 65 años,29
+84,Rosario,82,Santa Fe,2025,10,Dengue,11,De 45 a 65 años,58
+84,Rosario,82,Santa Fe,2025,11,Dengue,11,De 45 a 65 años,76
+84,Rosario,82,Santa Fe,2025,12,Dengue,11,De 45 a 65 años,168
+84,Rosario,82,Santa Fe,2025,13,Dengue,11,De 45 a 65 años,256
+84,Rosario,82,Santa Fe,2025,14,Dengue,11,De 45 a 65 años,410
+84,Rosario,82,Santa Fe,2025,15,Dengue,11,De 45 a 65 años,288
+84,Rosario,82,Santa Fe,2025,16,Dengue,11,De 45 a 65 años,222
+84,Rosario,82,Santa Fe,2025,17,Dengue,11,De 45 a 65 años,274
+84,Rosario,82,Santa Fe,2025,18,Dengue,11,De 45 a 65 años,222
+84,Rosario,82,Santa Fe,2025,19,Dengue,11,De 45 a 65 años,176
+84,Rosario,82,Santa Fe,2025,20,Dengue,11,De 45 a 65 años,112
+84,Rosario,82,Santa Fe,2025,21,Dengue,11,De 45 a 65 años,13
+84,Rosario,82,Santa Fe,2025,22,Dengue,11,De 45 a 65 años,12
+84,Rosario,82,Santa Fe,2025,4,Dengue,12,Mayores de 65 años,1
+84,Rosario,82,Santa Fe,2025,5,Dengue,12,Mayores de 65 años,3
+84,Rosario,82,Santa Fe,2025,7,Dengue,12,Mayores de 65 años,2
+84,Rosario,82,Santa Fe,2025,8,Dengue,12,Mayores de 65 años,6
+84,Rosario,82,Santa Fe,2025,9,Dengue,12,Mayores de 65 años,2
+84,Rosario,82,Santa Fe,2025,10,Dengue,12,Mayores de 65 años,10
+84,Rosario,82,Santa Fe,2025,11,Dengue,12,Mayores de 65 años,25
+84,Rosario,82,Santa Fe,2025,12,Dengue,12,Mayores de 65 años,71
+84,Rosario,82,Santa Fe,2025,13,Dengue,12,Mayores de 65 años,88
+84,Rosario,82,Santa Fe,2025,14,Dengue,12,Mayores de 65 años,134
+84,Rosario,82,Santa Fe,2025,15,Dengue,12,Mayores de 65 años,100
+84,Rosario,82,Santa Fe,2025,16,Dengue,12,Mayores de 65 años,76
+84,Rosario,82,Santa Fe,2025,17,Dengue,12,Mayores de 65 años,100
+84,Rosario,82,Santa Fe,2025,18,Dengue,12,Mayores de 65 años,59
+84,Rosario,82,Santa Fe,2025,19,Dengue,12,Mayores de 65 años,44
+84,Rosario,82,Santa Fe,2025,20,Dengue,12,Mayores de 65 años,25
+84,Rosario,82,Santa Fe,2025,21,Dengue,12,Mayores de 65 años,4
+84,Rosario,82,Santa Fe,2025,23,Dengue,12,Mayores de 65 años,1
+84,Rosario,82,Santa Fe,2025,18,Dengue durante la gestación,6,De 10 a 14 años,1
+84,Rosario,82,Santa Fe,2025,11,Dengue durante la gestación,7,De 15 a 19 años,1
+84,Rosario,82,Santa Fe,2025,14,Dengue durante la gestación,7,De 15 a 19 años,1
+84,Rosario,82,Santa Fe,2025,16,Dengue durante la gestación,7,De 15 a 19 años,1
+84,Rosario,82,Santa Fe,2025,19,Dengue durante la gestación,7,De 15 a 19 años,1
+84,Rosario,82,Santa Fe,2025,21,Dengue durante la gestación,7,De 15 a 19 años,1
+84,Rosario,82,Santa Fe,2025,11,Dengue durante la gestación,8,De 20 a 24 años,2
+84,Rosario,82,Santa Fe,2025,12,Dengue durante la gestación,8,De 20 a 24 años,2
+84,Rosario,82,Santa Fe,2025,14,Dengue durante la gestación,8,De 20 a 24 años,3
+84,Rosario,82,Santa Fe,2025,15,Dengue durante la gestación,8,De 20 a 24 años,2
+84,Rosario,82,Santa Fe,2025,16,Dengue durante la gestación,8,De 20 a 24 años,2
+84,Rosario,82,Santa Fe,2025,17,Dengue durante la gestación,8,De 20 a 24 años,1
+84,Rosario,82,Santa Fe,2025,18,Dengue durante la gestación,8,De 20 a 24 años,2
+84,Rosario,82,Santa Fe,2025,21,Dengue durante la gestación,8,De 20 a 24 años,1
+84,Rosario,82,Santa Fe,2025,7,Dengue durante la gestación,9,De 25 a 34 años,1
+84,Rosario,82,Santa Fe,2025,8,Dengue durante la gestación,9,De 25 a 34 años,1
+84,Rosario,82,Santa Fe,2025,10,Dengue durante la gestación,9,De 25 a 34 años,3
+84,Rosario,82,Santa Fe,2025,11,Dengue durante la gestación,9,De 25 a 34 años,3
+84,Rosario,82,Santa Fe,2025,12,Dengue durante la gestación,9,De 25 a 34 años,3
+84,Rosario,82,Santa Fe,2025,13,Dengue durante la gestación,9,De 25 a 34 años,5
+84,Rosario,82,Santa Fe,2025,14,Dengue durante la gestación,9,De 25 a 34 años,3
+84,Rosario,82,Santa Fe,2025,15,Dengue durante la gestación,9,De 25 a 34 años,3
+84,Rosario,82,Santa Fe,2025,16,Dengue durante la gestación,9,De 25 a 34 años,3
+84,Rosario,82,Santa Fe,2025,17,Dengue durante la gestación,9,De 25 a 34 años,3
+84,Rosario,82,Santa Fe,2025,18,Dengue durante la gestación,9,De 25 a 34 años,2
+84,Rosario,82,Santa Fe,2025,20,Dengue durante la gestación,9,De 25 a 34 años,2
+84,Rosario,82,Santa Fe,2025,22,Dengue durante la gestación,9,De 25 a 34 años,1
+84,Rosario,82,Santa Fe,2025,4,Dengue durante la gestación,10,De 35 a 44 años,1
+84,Rosario,82,Santa Fe,2025,11,Dengue durante la gestación,10,De 35 a 44 años,3
+84,Rosario,82,Santa Fe,2025,13,Dengue durante la gestación,10,De 35 a 44 años,3
+84,Rosario,82,Santa Fe,2025,14,Dengue durante la gestación,10,De 35 a 44 años,2
+84,Rosario,82,Santa Fe,2025,15,Dengue durante la gestación,10,De 35 a 44 años,1
+84,Rosario,82,Santa Fe,2025,17,Dengue durante la gestación,10,De 35 a 44 años,1
+84,Rosario,82,Santa Fe,2025,19,Dengue durante la gestación,10,De 35 a 44 años,1
+84,Rosario,82,Santa Fe,2025,20,Dengue durante la gestación,10,De 35 a 44 años,2
+91,San Cristóbal,82,Santa Fe,2025,11,Dengue,5,De 5 a 9 años,1
+91,San Cristóbal,82,Santa Fe,2025,11,Dengue,6,De 10 a 14 años,1
+91,San Cristóbal,82,Santa Fe,2025,12,Dengue,6,De 10 a 14 años,1
+91,San Cristóbal,82,Santa Fe,2025,6,Dengue,7,De 15 a 19 años,1
+91,San Cristóbal,82,Santa Fe,2025,14,Dengue,7,De 15 a 19 años,1
+91,San Cristóbal,82,Santa Fe,2025,6,Dengue,8,De 20 a 24 años,1
+91,San Cristóbal,82,Santa Fe,2025,8,Dengue,8,De 20 a 24 años,1
+91,San Cristóbal,82,Santa Fe,2025,11,Dengue,8,De 20 a 24 años,1
+91,San Cristóbal,82,Santa Fe,2025,12,Dengue,8,De 20 a 24 años,1
+91,San Cristóbal,82,Santa Fe,2025,4,Dengue,9,De 25 a 34 años,1
+91,San Cristóbal,82,Santa Fe,2025,10,Dengue,9,De 25 a 34 años,2
+91,San Cristóbal,82,Santa Fe,2025,11,Dengue,9,De 25 a 34 años,5
+91,San Cristóbal,82,Santa Fe,2025,13,Dengue,9,De 25 a 34 años,1
+91,San Cristóbal,82,Santa Fe,2025,14,Dengue,9,De 25 a 34 años,1
+91,San Cristóbal,82,Santa Fe,2025,8,Dengue,10,De 35 a 44 años,1
+91,San Cristóbal,82,Santa Fe,2025,9,Dengue,10,De 35 a 44 años,1
+91,San Cristóbal,82,Santa Fe,2025,10,Dengue,10,De 35 a 44 años,4
+91,San Cristóbal,82,Santa Fe,2025,11,Dengue,10,De 35 a 44 años,2
+91,San Cristóbal,82,Santa Fe,2025,12,Dengue,10,De 35 a 44 años,1
+91,San Cristóbal,82,Santa Fe,2025,13,Dengue,10,De 35 a 44 años,1
+91,San Cristóbal,82,Santa Fe,2025,14,Dengue,10,De 35 a 44 años,2
+91,San Cristóbal,82,Santa Fe,2025,15,Dengue,10,De 35 a 44 años,1
+91,San Cristóbal,82,Santa Fe,2025,8,Dengue,11,De 45 a 65 años,3
+91,San Cristóbal,82,Santa Fe,2025,9,Dengue,11,De 45 a 65 años,1
+91,San Cristóbal,82,Santa Fe,2025,10,Dengue,11,De 45 a 65 años,2
+91,San Cristóbal,82,Santa Fe,2025,11,Dengue,11,De 45 a 65 años,2
+91,San Cristóbal,82,Santa Fe,2025,12,Dengue,11,De 45 a 65 años,1
+91,San Cristóbal,82,Santa Fe,2025,13,Dengue,11,De 45 a 65 años,1
+91,San Cristóbal,82,Santa Fe,2025,14,Dengue,11,De 45 a 65 años,1
+91,San Cristóbal,82,Santa Fe,2025,8,Dengue,12,Mayores de 65 años,1
+91,San Cristóbal,82,Santa Fe,2025,10,Dengue,12,Mayores de 65 años,2
+91,San Cristóbal,82,Santa Fe,2025,11,Dengue,12,Mayores de 65 años,2
+91,San Cristóbal,82,Santa Fe,2025,12,Dengue,12,Mayores de 65 años,1
+91,San Cristóbal,82,Santa Fe,2025,13,Dengue durante la gestación,9,De 25 a 34 años,1
+98,San Javier,82,Santa Fe,2025,15,Dengue,8,De 20 a 24 años,1
+105,San Jerónimo,82,Santa Fe,2025,19,Dengue,5,De 5 a 9 años,1
+105,San Jerónimo,82,Santa Fe,2025,19,Dengue,6,De 10 a 14 años,1
+105,San Jerónimo,82,Santa Fe,2025,20,Dengue,6,De 10 a 14 años,2
+105,San Jerónimo,82,Santa Fe,2025,16,Dengue,7,De 15 a 19 años,1
+105,San Jerónimo,82,Santa Fe,2025,20,Dengue,7,De 15 a 19 años,1
+105,San Jerónimo,82,Santa Fe,2025,14,Dengue,8,De 20 a 24 años,1
+105,San Jerónimo,82,Santa Fe,2025,15,Dengue,8,De 20 a 24 años,1
+105,San Jerónimo,82,Santa Fe,2025,16,Dengue,8,De 20 a 24 años,1
+105,San Jerónimo,82,Santa Fe,2025,20,Dengue,8,De 20 a 24 años,1
+105,San Jerónimo,82,Santa Fe,2025,12,Dengue,9,De 25 a 34 años,1
+105,San Jerónimo,82,Santa Fe,2025,19,Dengue,9,De 25 a 34 años,1
+105,San Jerónimo,82,Santa Fe,2025,20,Dengue,9,De 25 a 34 años,1
+105,San Jerónimo,82,Santa Fe,2025,16,Dengue,10,De 35 a 44 años,2
+105,San Jerónimo,82,Santa Fe,2025,17,Dengue,10,De 35 a 44 años,3
+105,San Jerónimo,82,Santa Fe,2025,19,Dengue,10,De 35 a 44 años,2
+105,San Jerónimo,82,Santa Fe,2025,20,Dengue,10,De 35 a 44 años,1
+105,San Jerónimo,82,Santa Fe,2025,21,Dengue,10,De 35 a 44 años,2
+105,San Jerónimo,82,Santa Fe,2025,19,Dengue,11,De 45 a 65 años,2
+105,San Jerónimo,82,Santa Fe,2025,20,Dengue,11,De 45 a 65 años,3
+105,San Jerónimo,82,Santa Fe,2025,21,Dengue,11,De 45 a 65 años,2
+119,San Lorenzo,82,Santa Fe,2025,14,Dengue,4,De 2 a 4 años,1
+119,San Lorenzo,82,Santa Fe,2025,15,Dengue,4,De 2 a 4 años,1
+119,San Lorenzo,82,Santa Fe,2025,16,Dengue,4,De 2 a 4 años,2
+119,San Lorenzo,82,Santa Fe,2025,17,Dengue,4,De 2 a 4 años,4
+119,San Lorenzo,82,Santa Fe,2025,12,Dengue,5,De 5 a 9 años,1
+119,San Lorenzo,82,Santa Fe,2025,13,Dengue,5,De 5 a 9 años,1
+119,San Lorenzo,82,Santa Fe,2025,14,Dengue,5,De 5 a 9 años,2
+119,San Lorenzo,82,Santa Fe,2025,15,Dengue,5,De 5 a 9 años,1
+119,San Lorenzo,82,Santa Fe,2025,17,Dengue,5,De 5 a 9 años,1
+119,San Lorenzo,82,Santa Fe,2025,18,Dengue,5,De 5 a 9 años,2
+119,San Lorenzo,82,Santa Fe,2025,20,Dengue,5,De 5 a 9 años,1
+119,San Lorenzo,82,Santa Fe,2025,21,Dengue,5,De 5 a 9 años,1
+119,San Lorenzo,82,Santa Fe,2025,5,Dengue,6,De 10 a 14 años,1
+119,San Lorenzo,82,Santa Fe,2025,8,Dengue,6,De 10 a 14 años,1
+119,San Lorenzo,82,Santa Fe,2025,13,Dengue,6,De 10 a 14 años,1
+119,San Lorenzo,82,Santa Fe,2025,14,Dengue,6,De 10 a 14 años,3
+119,San Lorenzo,82,Santa Fe,2025,15,Dengue,6,De 10 a 14 años,4
+119,San Lorenzo,82,Santa Fe,2025,16,Dengue,6,De 10 a 14 años,3
+119,San Lorenzo,82,Santa Fe,2025,17,Dengue,6,De 10 a 14 años,8
+119,San Lorenzo,82,Santa Fe,2025,18,Dengue,6,De 10 a 14 años,4
+119,San Lorenzo,82,Santa Fe,2025,19,Dengue,6,De 10 a 14 años,5
+119,San Lorenzo,82,Santa Fe,2025,20,Dengue,6,De 10 a 14 años,2
+119,San Lorenzo,82,Santa Fe,2025,21,Dengue,6,De 10 a 14 años,2
+119,San Lorenzo,82,Santa Fe,2025,6,Dengue,7,De 15 a 19 años,1
+119,San Lorenzo,82,Santa Fe,2025,8,Dengue,7,De 15 a 19 años,2
+119,San Lorenzo,82,Santa Fe,2025,11,Dengue,7,De 15 a 19 años,4
+119,San Lorenzo,82,Santa Fe,2025,12,Dengue,7,De 15 a 19 años,1
+119,San Lorenzo,82,Santa Fe,2025,13,Dengue,7,De 15 a 19 años,1
+119,San Lorenzo,82,Santa Fe,2025,14,Dengue,7,De 15 a 19 años,6
+119,San Lorenzo,82,Santa Fe,2025,15,Dengue,7,De 15 a 19 años,3
+119,San Lorenzo,82,Santa Fe,2025,16,Dengue,7,De 15 a 19 años,8
+119,San Lorenzo,82,Santa Fe,2025,17,Dengue,7,De 15 a 19 años,8
+119,San Lorenzo,82,Santa Fe,2025,18,Dengue,7,De 15 a 19 años,6
+119,San Lorenzo,82,Santa Fe,2025,19,Dengue,7,De 15 a 19 años,1
+119,San Lorenzo,82,Santa Fe,2025,21,Dengue,7,De 15 a 19 años,1
+119,San Lorenzo,82,Santa Fe,2025,6,Dengue,8,De 20 a 24 años,1
+119,San Lorenzo,82,Santa Fe,2025,10,Dengue,8,De 20 a 24 años,1
+119,San Lorenzo,82,Santa Fe,2025,12,Dengue,8,De 20 a 24 años,2
+119,San Lorenzo,82,Santa Fe,2025,13,Dengue,8,De 20 a 24 años,3
+119,San Lorenzo,82,Santa Fe,2025,14,Dengue,8,De 20 a 24 años,8
+119,San Lorenzo,82,Santa Fe,2025,15,Dengue,8,De 20 a 24 años,3
+119,San Lorenzo,82,Santa Fe,2025,16,Dengue,8,De 20 a 24 años,1
+119,San Lorenzo,82,Santa Fe,2025,17,Dengue,8,De 20 a 24 años,8
+119,San Lorenzo,82,Santa Fe,2025,18,Dengue,8,De 20 a 24 años,1
+119,San Lorenzo,82,Santa Fe,2025,6,Dengue,9,De 25 a 34 años,1
+119,San Lorenzo,82,Santa Fe,2025,8,Dengue,9,De 25 a 34 años,3
+119,San Lorenzo,82,Santa Fe,2025,10,Dengue,9,De 25 a 34 años,1
+119,San Lorenzo,82,Santa Fe,2025,11,Dengue,9,De 25 a 34 años,2
+119,San Lorenzo,82,Santa Fe,2025,12,Dengue,9,De 25 a 34 años,1
+119,San Lorenzo,82,Santa Fe,2025,13,Dengue,9,De 25 a 34 años,9
+119,San Lorenzo,82,Santa Fe,2025,14,Dengue,9,De 25 a 34 años,16
+119,San Lorenzo,82,Santa Fe,2025,15,Dengue,9,De 25 a 34 años,10
+119,San Lorenzo,82,Santa Fe,2025,16,Dengue,9,De 25 a 34 años,4
+119,San Lorenzo,82,Santa Fe,2025,17,Dengue,9,De 25 a 34 años,10
+119,San Lorenzo,82,Santa Fe,2025,18,Dengue,9,De 25 a 34 años,5
+119,San Lorenzo,82,Santa Fe,2025,19,Dengue,9,De 25 a 34 años,1
+119,San Lorenzo,82,Santa Fe,2025,20,Dengue,9,De 25 a 34 años,1
+119,San Lorenzo,82,Santa Fe,2025,21,Dengue,9,De 25 a 34 años,1
+119,San Lorenzo,82,Santa Fe,2025,6,Dengue,10,De 35 a 44 años,1
+119,San Lorenzo,82,Santa Fe,2025,7,Dengue,10,De 35 a 44 años,3
+119,San Lorenzo,82,Santa Fe,2025,8,Dengue,10,De 35 a 44 años,5
+119,San Lorenzo,82,Santa Fe,2025,9,Dengue,10,De 35 a 44 años,3
+119,San Lorenzo,82,Santa Fe,2025,10,Dengue,10,De 35 a 44 años,1
+119,San Lorenzo,82,Santa Fe,2025,11,Dengue,10,De 35 a 44 años,4
+119,San Lorenzo,82,Santa Fe,2025,12,Dengue,10,De 35 a 44 años,1
+119,San Lorenzo,82,Santa Fe,2025,13,Dengue,10,De 35 a 44 años,6
+119,San Lorenzo,82,Santa Fe,2025,14,Dengue,10,De 35 a 44 años,19
+119,San Lorenzo,82,Santa Fe,2025,15,Dengue,10,De 35 a 44 años,11
+119,San Lorenzo,82,Santa Fe,2025,16,Dengue,10,De 35 a 44 años,8
+119,San Lorenzo,82,Santa Fe,2025,17,Dengue,10,De 35 a 44 años,5
+119,San Lorenzo,82,Santa Fe,2025,18,Dengue,10,De 35 a 44 años,5
+119,San Lorenzo,82,Santa Fe,2025,19,Dengue,10,De 35 a 44 años,4
+119,San Lorenzo,82,Santa Fe,2025,20,Dengue,10,De 35 a 44 años,1
+119,San Lorenzo,82,Santa Fe,2025,7,Dengue,11,De 45 a 65 años,3
+119,San Lorenzo,82,Santa Fe,2025,8,Dengue,11,De 45 a 65 años,2
+119,San Lorenzo,82,Santa Fe,2025,9,Dengue,11,De 45 a 65 años,1
+119,San Lorenzo,82,Santa Fe,2025,10,Dengue,11,De 45 a 65 años,2
+119,San Lorenzo,82,Santa Fe,2025,11,Dengue,11,De 45 a 65 años,2
+119,San Lorenzo,82,Santa Fe,2025,12,Dengue,11,De 45 a 65 años,3
+119,San Lorenzo,82,Santa Fe,2025,13,Dengue,11,De 45 a 65 años,8
+119,San Lorenzo,82,Santa Fe,2025,14,Dengue,11,De 45 a 65 años,17
+119,San Lorenzo,82,Santa Fe,2025,15,Dengue,11,De 45 a 65 años,16
+119,San Lorenzo,82,Santa Fe,2025,16,Dengue,11,De 45 a 65 años,11
+119,San Lorenzo,82,Santa Fe,2025,17,Dengue,11,De 45 a 65 años,14
+119,San Lorenzo,82,Santa Fe,2025,18,Dengue,11,De 45 a 65 años,11
+119,San Lorenzo,82,Santa Fe,2025,19,Dengue,11,De 45 a 65 años,5
+119,San Lorenzo,82,Santa Fe,2025,20,Dengue,11,De 45 a 65 años,4
+119,San Lorenzo,82,Santa Fe,2025,21,Dengue,11,De 45 a 65 años,2
+119,San Lorenzo,82,Santa Fe,2025,22,Dengue,11,De 45 a 65 años,1
+119,San Lorenzo,82,Santa Fe,2025,8,Dengue,12,Mayores de 65 años,1
+119,San Lorenzo,82,Santa Fe,2025,11,Dengue,12,Mayores de 65 años,1
+119,San Lorenzo,82,Santa Fe,2025,12,Dengue,12,Mayores de 65 años,2
+119,San Lorenzo,82,Santa Fe,2025,13,Dengue,12,Mayores de 65 años,1
+119,San Lorenzo,82,Santa Fe,2025,14,Dengue,12,Mayores de 65 años,4
+119,San Lorenzo,82,Santa Fe,2025,15,Dengue,12,Mayores de 65 años,5
+119,San Lorenzo,82,Santa Fe,2025,16,Dengue,12,Mayores de 65 años,2
+119,San Lorenzo,82,Santa Fe,2025,17,Dengue,12,Mayores de 65 años,2
+119,San Lorenzo,82,Santa Fe,2025,18,Dengue,12,Mayores de 65 años,1
+119,San Lorenzo,82,Santa Fe,2025,19,Dengue,12,Mayores de 65 años,1
+119,San Lorenzo,82,Santa Fe,2025,24,Dengue durante la gestación,7,De 15 a 19 años,1
+119,San Lorenzo,82,Santa Fe,2025,14,Dengue durante la gestación,9,De 25 a 34 años,1
+126,San Martín,82,Santa Fe,2025,14,Dengue,8,De 20 a 24 años,1
+126,San Martín,82,Santa Fe,2025,17,Dengue,8,De 20 a 24 años,1
+126,San Martín,82,Santa Fe,2025,13,Dengue,10,De 35 a 44 años,1
+126,San Martín,82,Santa Fe,2025,20,Dengue,12,Mayores de 65 años,1
+35,Banda,86,Santiago del Estero,2025,7,Dengue,11,De 45 a 65 años,1
+7,Burruyacú,90,Tucumán,2025,12,Dengue,11,De 45 a 65 años,1
+7,Burruyacú,90,Tucumán,2025,12,Dengue,12,Mayores de 65 años,1
+14,Cruz Alta,90,Tucumán,2025,9,Dengue,5,De 5 a 9 años,1
+14,Cruz Alta,90,Tucumán,2025,10,Dengue,5,De 5 a 9 años,1
+14,Cruz Alta,90,Tucumán,2025,13,Dengue,5,De 5 a 9 años,1
+14,Cruz Alta,90,Tucumán,2025,9,Dengue,6,De 10 a 14 años,1
+14,Cruz Alta,90,Tucumán,2025,6,Dengue,8,De 20 a 24 años,1
+14,Cruz Alta,90,Tucumán,2025,10,Dengue,8,De 20 a 24 años,1
+14,Cruz Alta,90,Tucumán,2025,11,Dengue,8,De 20 a 24 años,1
+14,Cruz Alta,90,Tucumán,2025,5,Dengue,9,De 25 a 34 años,1
+14,Cruz Alta,90,Tucumán,2025,8,Dengue,9,De 25 a 34 años,1
+14,Cruz Alta,90,Tucumán,2025,9,Dengue,9,De 25 a 34 años,1
+14,Cruz Alta,90,Tucumán,2025,10,Dengue,9,De 25 a 34 años,1
+14,Cruz Alta,90,Tucumán,2025,14,Dengue,9,De 25 a 34 años,1
+14,Cruz Alta,90,Tucumán,2025,15,Dengue,9,De 25 a 34 años,1
+14,Cruz Alta,90,Tucumán,2025,3,Dengue,10,De 35 a 44 años,1
+14,Cruz Alta,90,Tucumán,2025,11,Dengue,10,De 35 a 44 años,1
+14,Cruz Alta,90,Tucumán,2025,16,Dengue,10,De 35 a 44 años,1
+14,Cruz Alta,90,Tucumán,2025,5,Dengue,11,De 45 a 65 años,1
+14,Cruz Alta,90,Tucumán,2025,9,Dengue,11,De 45 a 65 años,1
+14,Cruz Alta,90,Tucumán,2025,10,Dengue,11,De 45 a 65 años,2
+14,Cruz Alta,90,Tucumán,2025,11,Dengue,11,De 45 a 65 años,2
+21,Chicligasta,90,Tucumán,2025,16,Dengue,2,Posneonato (29 hasta 365 días),1
+21,Chicligasta,90,Tucumán,2025,21,Dengue,2,Posneonato (29 hasta 365 días),1
+21,Chicligasta,90,Tucumán,2025,18,Dengue,3,De 13 a 24 meses,1
+21,Chicligasta,90,Tucumán,2025,21,Dengue,3,De 13 a 24 meses,1
+21,Chicligasta,90,Tucumán,2025,14,Dengue,4,De 2 a 4 años,2
+21,Chicligasta,90,Tucumán,2025,16,Dengue,4,De 2 a 4 años,2
+21,Chicligasta,90,Tucumán,2025,17,Dengue,4,De 2 a 4 años,2
+21,Chicligasta,90,Tucumán,2025,19,Dengue,4,De 2 a 4 años,1
+21,Chicligasta,90,Tucumán,2025,22,Dengue,4,De 2 a 4 años,2
+21,Chicligasta,90,Tucumán,2025,10,Dengue,5,De 5 a 9 años,1
+21,Chicligasta,90,Tucumán,2025,12,Dengue,5,De 5 a 9 años,1
+21,Chicligasta,90,Tucumán,2025,13,Dengue,5,De 5 a 9 años,2
+21,Chicligasta,90,Tucumán,2025,14,Dengue,5,De 5 a 9 años,3
+21,Chicligasta,90,Tucumán,2025,15,Dengue,5,De 5 a 9 años,5
+21,Chicligasta,90,Tucumán,2025,16,Dengue,5,De 5 a 9 años,2
+21,Chicligasta,90,Tucumán,2025,17,Dengue,5,De 5 a 9 años,2
+21,Chicligasta,90,Tucumán,2025,18,Dengue,5,De 5 a 9 años,8
+21,Chicligasta,90,Tucumán,2025,19,Dengue,5,De 5 a 9 años,2
+21,Chicligasta,90,Tucumán,2025,20,Dengue,5,De 5 a 9 años,2
+21,Chicligasta,90,Tucumán,2025,21,Dengue,5,De 5 a 9 años,4
+21,Chicligasta,90,Tucumán,2025,22,Dengue,5,De 5 a 9 años,5
+21,Chicligasta,90,Tucumán,2025,9,Dengue,6,De 10 a 14 años,1
+21,Chicligasta,90,Tucumán,2025,12,Dengue,6,De 10 a 14 años,5
+21,Chicligasta,90,Tucumán,2025,13,Dengue,6,De 10 a 14 años,6
+21,Chicligasta,90,Tucumán,2025,14,Dengue,6,De 10 a 14 años,6
+21,Chicligasta,90,Tucumán,2025,15,Dengue,6,De 10 a 14 años,6
+21,Chicligasta,90,Tucumán,2025,16,Dengue,6,De 10 a 14 años,3
+21,Chicligasta,90,Tucumán,2025,17,Dengue,6,De 10 a 14 años,5
+21,Chicligasta,90,Tucumán,2025,18,Dengue,6,De 10 a 14 años,4
+21,Chicligasta,90,Tucumán,2025,19,Dengue,6,De 10 a 14 años,4
+21,Chicligasta,90,Tucumán,2025,20,Dengue,6,De 10 a 14 años,4
+21,Chicligasta,90,Tucumán,2025,21,Dengue,6,De 10 a 14 años,8
+21,Chicligasta,90,Tucumán,2025,22,Dengue,6,De 10 a 14 años,8
+21,Chicligasta,90,Tucumán,2025,10,Dengue,7,De 15 a 19 años,2
+21,Chicligasta,90,Tucumán,2025,11,Dengue,7,De 15 a 19 años,1
+21,Chicligasta,90,Tucumán,2025,12,Dengue,7,De 15 a 19 años,1
+21,Chicligasta,90,Tucumán,2025,13,Dengue,7,De 15 a 19 años,3
+21,Chicligasta,90,Tucumán,2025,14,Dengue,7,De 15 a 19 años,7
+21,Chicligasta,90,Tucumán,2025,15,Dengue,7,De 15 a 19 años,1
+21,Chicligasta,90,Tucumán,2025,16,Dengue,7,De 15 a 19 años,7
+21,Chicligasta,90,Tucumán,2025,17,Dengue,7,De 15 a 19 años,4
+21,Chicligasta,90,Tucumán,2025,18,Dengue,7,De 15 a 19 años,1
+21,Chicligasta,90,Tucumán,2025,19,Dengue,7,De 15 a 19 años,2
+21,Chicligasta,90,Tucumán,2025,20,Dengue,7,De 15 a 19 años,2
+21,Chicligasta,90,Tucumán,2025,21,Dengue,7,De 15 a 19 años,4
+21,Chicligasta,90,Tucumán,2025,22,Dengue,7,De 15 a 19 años,1
+21,Chicligasta,90,Tucumán,2025,23,Dengue,7,De 15 a 19 años,1
+21,Chicligasta,90,Tucumán,2025,24,Dengue,7,De 15 a 19 años,1
+21,Chicligasta,90,Tucumán,2025,25,Dengue,7,De 15 a 19 años,2
+21,Chicligasta,90,Tucumán,2025,12,Dengue,8,De 20 a 24 años,2
+21,Chicligasta,90,Tucumán,2025,14,Dengue,8,De 20 a 24 años,4
+21,Chicligasta,90,Tucumán,2025,16,Dengue,8,De 20 a 24 años,1
+21,Chicligasta,90,Tucumán,2025,17,Dengue,8,De 20 a 24 años,3
+21,Chicligasta,90,Tucumán,2025,18,Dengue,8,De 20 a 24 años,2
+21,Chicligasta,90,Tucumán,2025,19,Dengue,8,De 20 a 24 años,4
+21,Chicligasta,90,Tucumán,2025,20,Dengue,8,De 20 a 24 años,2
+21,Chicligasta,90,Tucumán,2025,21,Dengue,8,De 20 a 24 años,7
+21,Chicligasta,90,Tucumán,2025,22,Dengue,8,De 20 a 24 años,3
+21,Chicligasta,90,Tucumán,2025,9,Dengue,9,De 25 a 34 años,1
+21,Chicligasta,90,Tucumán,2025,10,Dengue,9,De 25 a 34 años,1
+21,Chicligasta,90,Tucumán,2025,11,Dengue,9,De 25 a 34 años,3
+21,Chicligasta,90,Tucumán,2025,12,Dengue,9,De 25 a 34 años,1
+21,Chicligasta,90,Tucumán,2025,13,Dengue,9,De 25 a 34 años,4
+21,Chicligasta,90,Tucumán,2025,14,Dengue,9,De 25 a 34 años,9
+21,Chicligasta,90,Tucumán,2025,15,Dengue,9,De 25 a 34 años,3
+21,Chicligasta,90,Tucumán,2025,16,Dengue,9,De 25 a 34 años,4
+21,Chicligasta,90,Tucumán,2025,17,Dengue,9,De 25 a 34 años,2
+21,Chicligasta,90,Tucumán,2025,18,Dengue,9,De 25 a 34 años,5
+21,Chicligasta,90,Tucumán,2025,19,Dengue,9,De 25 a 34 años,3
+21,Chicligasta,90,Tucumán,2025,20,Dengue,9,De 25 a 34 años,4
+21,Chicligasta,90,Tucumán,2025,21,Dengue,9,De 25 a 34 años,6
+21,Chicligasta,90,Tucumán,2025,22,Dengue,9,De 25 a 34 años,2
+21,Chicligasta,90,Tucumán,2025,23,Dengue,9,De 25 a 34 años,2
+21,Chicligasta,90,Tucumán,2025,25,Dengue,9,De 25 a 34 años,1
+21,Chicligasta,90,Tucumán,2025,6,Dengue,10,De 35 a 44 años,1
+21,Chicligasta,90,Tucumán,2025,7,Dengue,10,De 35 a 44 años,1
+21,Chicligasta,90,Tucumán,2025,10,Dengue,10,De 35 a 44 años,1
+21,Chicligasta,90,Tucumán,2025,12,Dengue,10,De 35 a 44 años,3
+21,Chicligasta,90,Tucumán,2025,13,Dengue,10,De 35 a 44 años,2
+21,Chicligasta,90,Tucumán,2025,14,Dengue,10,De 35 a 44 años,7
+21,Chicligasta,90,Tucumán,2025,15,Dengue,10,De 35 a 44 años,3
+21,Chicligasta,90,Tucumán,2025,16,Dengue,10,De 35 a 44 años,2
+21,Chicligasta,90,Tucumán,2025,17,Dengue,10,De 35 a 44 años,3
+21,Chicligasta,90,Tucumán,2025,18,Dengue,10,De 35 a 44 años,2
+21,Chicligasta,90,Tucumán,2025,19,Dengue,10,De 35 a 44 años,6
+21,Chicligasta,90,Tucumán,2025,20,Dengue,10,De 35 a 44 años,1
+21,Chicligasta,90,Tucumán,2025,21,Dengue,10,De 35 a 44 años,5
+21,Chicligasta,90,Tucumán,2025,22,Dengue,10,De 35 a 44 años,4
+21,Chicligasta,90,Tucumán,2025,23,Dengue,10,De 35 a 44 años,1
+21,Chicligasta,90,Tucumán,2025,7,Dengue,11,De 45 a 65 años,1
+21,Chicligasta,90,Tucumán,2025,10,Dengue,11,De 45 a 65 años,1
+21,Chicligasta,90,Tucumán,2025,11,Dengue,11,De 45 a 65 años,3
+21,Chicligasta,90,Tucumán,2025,12,Dengue,11,De 45 a 65 años,1
+21,Chicligasta,90,Tucumán,2025,13,Dengue,11,De 45 a 65 años,6
+21,Chicligasta,90,Tucumán,2025,14,Dengue,11,De 45 a 65 años,9
+21,Chicligasta,90,Tucumán,2025,15,Dengue,11,De 45 a 65 años,3
+21,Chicligasta,90,Tucumán,2025,16,Dengue,11,De 45 a 65 años,7
+21,Chicligasta,90,Tucumán,2025,17,Dengue,11,De 45 a 65 años,3
+21,Chicligasta,90,Tucumán,2025,19,Dengue,11,De 45 a 65 años,3
+21,Chicligasta,90,Tucumán,2025,20,Dengue,11,De 45 a 65 años,5
+21,Chicligasta,90,Tucumán,2025,21,Dengue,11,De 45 a 65 años,5
+21,Chicligasta,90,Tucumán,2025,22,Dengue,11,De 45 a 65 años,3
+21,Chicligasta,90,Tucumán,2025,23,Dengue,11,De 45 a 65 años,3
+21,Chicligasta,90,Tucumán,2025,11,Dengue,12,Mayores de 65 años,1
+21,Chicligasta,90,Tucumán,2025,12,Dengue,12,Mayores de 65 años,1
+21,Chicligasta,90,Tucumán,2025,13,Dengue,12,Mayores de 65 años,1
+21,Chicligasta,90,Tucumán,2025,14,Dengue,12,Mayores de 65 años,2
+21,Chicligasta,90,Tucumán,2025,15,Dengue,12,Mayores de 65 años,2
+21,Chicligasta,90,Tucumán,2025,17,Dengue,12,Mayores de 65 años,2
+21,Chicligasta,90,Tucumán,2025,18,Dengue,12,Mayores de 65 años,3
+21,Chicligasta,90,Tucumán,2025,19,Dengue,12,Mayores de 65 años,1
+21,Chicligasta,90,Tucumán,2025,21,Dengue,12,Mayores de 65 años,1
+28,Famaillá,90,Tucumán,2025,7,Dengue,9,De 25 a 34 años,1
+28,Famaillá,90,Tucumán,2025,18,Dengue,10,De 35 a 44 años,1
+35,Graneros,90,Tucumán,2025,21,Dengue,5,De 5 a 9 años,1
+35,Graneros,90,Tucumán,2025,20,Dengue,6,De 10 a 14 años,1
+35,Graneros,90,Tucumán,2025,23,Dengue,6,De 10 a 14 años,1
+35,Graneros,90,Tucumán,2025,21,Dengue,7,De 15 a 19 años,1
+35,Graneros,90,Tucumán,2025,12,Dengue,8,De 20 a 24 años,1
+35,Graneros,90,Tucumán,2025,19,Dengue,9,De 25 a 34 años,1
+35,Graneros,90,Tucumán,2025,22,Dengue,9,De 25 a 34 años,1
+35,Graneros,90,Tucumán,2025,11,Dengue,10,De 35 a 44 años,1
+35,Graneros,90,Tucumán,2025,14,Dengue,10,De 35 a 44 años,2
+35,Graneros,90,Tucumán,2025,18,Dengue,10,De 35 a 44 años,1
+35,Graneros,90,Tucumán,2025,19,Dengue,10,De 35 a 44 años,1
+35,Graneros,90,Tucumán,2025,20,Dengue,10,De 35 a 44 años,3
+35,Graneros,90,Tucumán,2025,21,Dengue,10,De 35 a 44 años,2
+35,Graneros,90,Tucumán,2025,11,Dengue,11,De 45 a 65 años,1
+35,Graneros,90,Tucumán,2025,18,Dengue,11,De 45 a 65 años,1
+35,Graneros,90,Tucumán,2025,24,Dengue,11,De 45 a 65 años,1
+35,Graneros,90,Tucumán,2025,20,Dengue,12,Mayores de 65 años,1
+42,Juan Bautista Alberdi,90,Tucumán,2025,22,Dengue,6,De 10 a 14 años,1
+42,Juan Bautista Alberdi,90,Tucumán,2025,11,Dengue,9,De 25 a 34 años,1
+42,Juan Bautista Alberdi,90,Tucumán,2025,14,Dengue,10,De 35 a 44 años,1
+42,Juan Bautista Alberdi,90,Tucumán,2025,22,Dengue,10,De 35 a 44 años,1
+42,Juan Bautista Alberdi,90,Tucumán,2025,11,Dengue,11,De 45 a 65 años,1
+49,La Cocha,90,Tucumán,2025,19,Dengue,5,De 5 a 9 años,1
+49,La Cocha,90,Tucumán,2025,22,Dengue,5,De 5 a 9 años,1
+49,La Cocha,90,Tucumán,2025,12,Dengue,6,De 10 a 14 años,1
+49,La Cocha,90,Tucumán,2025,20,Dengue,6,De 10 a 14 años,1
+49,La Cocha,90,Tucumán,2025,13,Dengue,7,De 15 a 19 años,1
+49,La Cocha,90,Tucumán,2025,20,Dengue,7,De 15 a 19 años,1
+49,La Cocha,90,Tucumán,2025,22,Dengue,7,De 15 a 19 años,1
+49,La Cocha,90,Tucumán,2025,23,Dengue,7,De 15 a 19 años,1
+49,La Cocha,90,Tucumán,2025,24,Dengue,7,De 15 a 19 años,1
+49,La Cocha,90,Tucumán,2025,14,Dengue,8,De 20 a 24 años,2
+49,La Cocha,90,Tucumán,2025,18,Dengue,8,De 20 a 24 años,1
+49,La Cocha,90,Tucumán,2025,7,Dengue,9,De 25 a 34 años,1
+49,La Cocha,90,Tucumán,2025,10,Dengue,9,De 25 a 34 años,1
+49,La Cocha,90,Tucumán,2025,12,Dengue,9,De 25 a 34 años,2
+49,La Cocha,90,Tucumán,2025,14,Dengue,9,De 25 a 34 años,2
+49,La Cocha,90,Tucumán,2025,16,Dengue,9,De 25 a 34 años,1
+49,La Cocha,90,Tucumán,2025,17,Dengue,9,De 25 a 34 años,1
+49,La Cocha,90,Tucumán,2025,19,Dengue,9,De 25 a 34 años,1
+49,La Cocha,90,Tucumán,2025,16,Dengue,10,De 35 a 44 años,2
+49,La Cocha,90,Tucumán,2025,19,Dengue,10,De 35 a 44 años,1
+49,La Cocha,90,Tucumán,2025,13,Dengue,11,De 45 a 65 años,1
+49,La Cocha,90,Tucumán,2025,14,Dengue,11,De 45 a 65 años,1
+49,La Cocha,90,Tucumán,2025,16,Dengue,11,De 45 a 65 años,1
+49,La Cocha,90,Tucumán,2025,17,Dengue,11,De 45 a 65 años,1
+49,La Cocha,90,Tucumán,2025,19,Dengue,11,De 45 a 65 años,1
+63,Lules,90,Tucumán,2025,10,Dengue,6,De 10 a 14 años,1
+63,Lules,90,Tucumán,2025,14,Dengue,6,De 10 a 14 años,1
+63,Lules,90,Tucumán,2025,17,Dengue,9,De 25 a 34 años,1
+63,Lules,90,Tucumán,2025,10,Dengue,10,De 35 a 44 años,1
+63,Lules,90,Tucumán,2025,11,Dengue,11,De 45 a 65 años,1
+63,Lules,90,Tucumán,2025,20,Dengue,11,De 45 a 65 años,1
+63,Lules,90,Tucumán,2025,8,Dengue,12,Mayores de 65 años,1
+70,Monteros,90,Tucumán,2025,20,Dengue,6,De 10 a 14 años,1
+70,Monteros,90,Tucumán,2025,19,Dengue,8,De 20 a 24 años,1
+70,Monteros,90,Tucumán,2025,13,Dengue,9,De 25 a 34 años,1
+70,Monteros,90,Tucumán,2025,19,Dengue,9,De 25 a 34 años,1
+70,Monteros,90,Tucumán,2025,12,Dengue,10,De 35 a 44 años,1
+70,Monteros,90,Tucumán,2025,6,Dengue,11,De 45 a 65 años,1
+70,Monteros,90,Tucumán,2025,12,Dengue,11,De 45 a 65 años,1
+77,Río Chico,90,Tucumán,2025,12,Dengue,2,Posneonato (29 hasta 365 días),1
+77,Río Chico,90,Tucumán,2025,16,Dengue,2,Posneonato (29 hasta 365 días),1
+77,Río Chico,90,Tucumán,2025,17,Dengue,2,Posneonato (29 hasta 365 días),1
+77,Río Chico,90,Tucumán,2025,20,Dengue,2,Posneonato (29 hasta 365 días),2
+77,Río Chico,90,Tucumán,2025,20,Dengue,3,De 13 a 24 meses,1
+77,Río Chico,90,Tucumán,2025,21,Dengue,3,De 13 a 24 meses,1
+77,Río Chico,90,Tucumán,2025,8,Dengue,4,De 2 a 4 años,1
+77,Río Chico,90,Tucumán,2025,9,Dengue,4,De 2 a 4 años,1
+77,Río Chico,90,Tucumán,2025,10,Dengue,4,De 2 a 4 años,4
+77,Río Chico,90,Tucumán,2025,13,Dengue,4,De 2 a 4 años,2
+77,Río Chico,90,Tucumán,2025,14,Dengue,4,De 2 a 4 años,2
+77,Río Chico,90,Tucumán,2025,16,Dengue,4,De 2 a 4 años,3
+77,Río Chico,90,Tucumán,2025,20,Dengue,4,De 2 a 4 años,1
+77,Río Chico,90,Tucumán,2025,21,Dengue,4,De 2 a 4 años,2
+77,Río Chico,90,Tucumán,2025,3,Dengue,5,De 5 a 9 años,1
+77,Río Chico,90,Tucumán,2025,4,Dengue,5,De 5 a 9 años,2
+77,Río Chico,90,Tucumán,2025,6,Dengue,5,De 5 a 9 años,3
+77,Río Chico,90,Tucumán,2025,8,Dengue,5,De 5 a 9 años,2
+77,Río Chico,90,Tucumán,2025,9,Dengue,5,De 5 a 9 años,3
+77,Río Chico,90,Tucumán,2025,10,Dengue,5,De 5 a 9 años,9
+77,Río Chico,90,Tucumán,2025,11,Dengue,5,De 5 a 9 años,9
+77,Río Chico,90,Tucumán,2025,12,Dengue,5,De 5 a 9 años,7
+77,Río Chico,90,Tucumán,2025,13,Dengue,5,De 5 a 9 años,6
+77,Río Chico,90,Tucumán,2025,14,Dengue,5,De 5 a 9 años,4
+77,Río Chico,90,Tucumán,2025,15,Dengue,5,De 5 a 9 años,2
+77,Río Chico,90,Tucumán,2025,16,Dengue,5,De 5 a 9 años,2
+77,Río Chico,90,Tucumán,2025,17,Dengue,5,De 5 a 9 años,3
+77,Río Chico,90,Tucumán,2025,18,Dengue,5,De 5 a 9 años,1
+77,Río Chico,90,Tucumán,2025,19,Dengue,5,De 5 a 9 años,3
+77,Río Chico,90,Tucumán,2025,20,Dengue,5,De 5 a 9 años,1
+77,Río Chico,90,Tucumán,2025,21,Dengue,5,De 5 a 9 años,2
+77,Río Chico,90,Tucumán,2025,22,Dengue,5,De 5 a 9 años,1
+77,Río Chico,90,Tucumán,2025,7,Dengue,6,De 10 a 14 años,5
+77,Río Chico,90,Tucumán,2025,8,Dengue,6,De 10 a 14 años,2
+77,Río Chico,90,Tucumán,2025,9,Dengue,6,De 10 a 14 años,5
+77,Río Chico,90,Tucumán,2025,10,Dengue,6,De 10 a 14 años,9
+77,Río Chico,90,Tucumán,2025,11,Dengue,6,De 10 a 14 años,12
+77,Río Chico,90,Tucumán,2025,12,Dengue,6,De 10 a 14 años,8
+77,Río Chico,90,Tucumán,2025,13,Dengue,6,De 10 a 14 años,11
+77,Río Chico,90,Tucumán,2025,14,Dengue,6,De 10 a 14 años,8
+77,Río Chico,90,Tucumán,2025,15,Dengue,6,De 10 a 14 años,3
+77,Río Chico,90,Tucumán,2025,16,Dengue,6,De 10 a 14 años,1
+77,Río Chico,90,Tucumán,2025,17,Dengue,6,De 10 a 14 años,4
+77,Río Chico,90,Tucumán,2025,18,Dengue,6,De 10 a 14 años,2
+77,Río Chico,90,Tucumán,2025,19,Dengue,6,De 10 a 14 años,2
+77,Río Chico,90,Tucumán,2025,20,Dengue,6,De 10 a 14 años,1
+77,Río Chico,90,Tucumán,2025,3,Dengue,7,De 15 a 19 años,1
+77,Río Chico,90,Tucumán,2025,4,Dengue,7,De 15 a 19 años,2
+77,Río Chico,90,Tucumán,2025,6,Dengue,7,De 15 a 19 años,3
+77,Río Chico,90,Tucumán,2025,7,Dengue,7,De 15 a 19 años,2
+77,Río Chico,90,Tucumán,2025,8,Dengue,7,De 15 a 19 años,4
+77,Río Chico,90,Tucumán,2025,9,Dengue,7,De 15 a 19 años,8
+77,Río Chico,90,Tucumán,2025,10,Dengue,7,De 15 a 19 años,9
+77,Río Chico,90,Tucumán,2025,11,Dengue,7,De 15 a 19 años,18
+77,Río Chico,90,Tucumán,2025,12,Dengue,7,De 15 a 19 años,6
+77,Río Chico,90,Tucumán,2025,13,Dengue,7,De 15 a 19 años,12
+77,Río Chico,90,Tucumán,2025,14,Dengue,7,De 15 a 19 años,4
+77,Río Chico,90,Tucumán,2025,16,Dengue,7,De 15 a 19 años,3
+77,Río Chico,90,Tucumán,2025,17,Dengue,7,De 15 a 19 años,5
+77,Río Chico,90,Tucumán,2025,18,Dengue,7,De 15 a 19 años,3
+77,Río Chico,90,Tucumán,2025,19,Dengue,7,De 15 a 19 años,5
+77,Río Chico,90,Tucumán,2025,20,Dengue,7,De 15 a 19 años,2
+77,Río Chico,90,Tucumán,2025,21,Dengue,7,De 15 a 19 años,4
+77,Río Chico,90,Tucumán,2025,4,Dengue,8,De 20 a 24 años,1
+77,Río Chico,90,Tucumán,2025,6,Dengue,8,De 20 a 24 años,4
+77,Río Chico,90,Tucumán,2025,7,Dengue,8,De 20 a 24 años,1
+77,Río Chico,90,Tucumán,2025,8,Dengue,8,De 20 a 24 años,7
+77,Río Chico,90,Tucumán,2025,9,Dengue,8,De 20 a 24 años,8
+77,Río Chico,90,Tucumán,2025,10,Dengue,8,De 20 a 24 años,11
+77,Río Chico,90,Tucumán,2025,11,Dengue,8,De 20 a 24 años,15
+77,Río Chico,90,Tucumán,2025,12,Dengue,8,De 20 a 24 años,8
+77,Río Chico,90,Tucumán,2025,13,Dengue,8,De 20 a 24 años,8
+77,Río Chico,90,Tucumán,2025,14,Dengue,8,De 20 a 24 años,7
+77,Río Chico,90,Tucumán,2025,15,Dengue,8,De 20 a 24 años,4
+77,Río Chico,90,Tucumán,2025,17,Dengue,8,De 20 a 24 años,3
+77,Río Chico,90,Tucumán,2025,20,Dengue,8,De 20 a 24 años,3
+77,Río Chico,90,Tucumán,2025,21,Dengue,8,De 20 a 24 años,1
+77,Río Chico,90,Tucumán,2025,22,Dengue,8,De 20 a 24 años,3
+77,Río Chico,90,Tucumán,2025,4,Dengue,9,De 25 a 34 años,1
+77,Río Chico,90,Tucumán,2025,5,Dengue,9,De 25 a 34 años,1
+77,Río Chico,90,Tucumán,2025,6,Dengue,9,De 25 a 34 años,4
+77,Río Chico,90,Tucumán,2025,7,Dengue,9,De 25 a 34 años,6
+77,Río Chico,90,Tucumán,2025,8,Dengue,9,De 25 a 34 años,22
+77,Río Chico,90,Tucumán,2025,9,Dengue,9,De 25 a 34 años,11
+77,Río Chico,90,Tucumán,2025,10,Dengue,9,De 25 a 34 años,28
+77,Río Chico,90,Tucumán,2025,11,Dengue,9,De 25 a 34 años,47
+77,Río Chico,90,Tucumán,2025,12,Dengue,9,De 25 a 34 años,19
+77,Río Chico,90,Tucumán,2025,13,Dengue,9,De 25 a 34 años,23
+77,Río Chico,90,Tucumán,2025,14,Dengue,9,De 25 a 34 años,17
+77,Río Chico,90,Tucumán,2025,15,Dengue,9,De 25 a 34 años,8
+77,Río Chico,90,Tucumán,2025,16,Dengue,9,De 25 a 34 años,10
+77,Río Chico,90,Tucumán,2025,17,Dengue,9,De 25 a 34 años,13
+77,Río Chico,90,Tucumán,2025,18,Dengue,9,De 25 a 34 años,10
+77,Río Chico,90,Tucumán,2025,19,Dengue,9,De 25 a 34 años,5
+77,Río Chico,90,Tucumán,2025,20,Dengue,9,De 25 a 34 años,12
+77,Río Chico,90,Tucumán,2025,21,Dengue,9,De 25 a 34 años,8
+77,Río Chico,90,Tucumán,2025,22,Dengue,9,De 25 a 34 años,3
+77,Río Chico,90,Tucumán,2025,24,Dengue,9,De 25 a 34 años,2
+77,Río Chico,90,Tucumán,2025,1,Dengue,10,De 35 a 44 años,1
+77,Río Chico,90,Tucumán,2025,4,Dengue,10,De 35 a 44 años,1
+77,Río Chico,90,Tucumán,2025,5,Dengue,10,De 35 a 44 años,3
+77,Río Chico,90,Tucumán,2025,6,Dengue,10,De 35 a 44 años,4
+77,Río Chico,90,Tucumán,2025,7,Dengue,10,De 35 a 44 años,4
+77,Río Chico,90,Tucumán,2025,8,Dengue,10,De 35 a 44 años,13
+77,Río Chico,90,Tucumán,2025,9,Dengue,10,De 35 a 44 años,10
+77,Río Chico,90,Tucumán,2025,10,Dengue,10,De 35 a 44 años,19
+77,Río Chico,90,Tucumán,2025,11,Dengue,10,De 35 a 44 años,30
+77,Río Chico,90,Tucumán,2025,12,Dengue,10,De 35 a 44 años,15
+77,Río Chico,90,Tucumán,2025,13,Dengue,10,De 35 a 44 años,13
+77,Río Chico,90,Tucumán,2025,14,Dengue,10,De 35 a 44 años,14
+77,Río Chico,90,Tucumán,2025,15,Dengue,10,De 35 a 44 años,8
+77,Río Chico,90,Tucumán,2025,16,Dengue,10,De 35 a 44 años,12
+77,Río Chico,90,Tucumán,2025,17,Dengue,10,De 35 a 44 años,12
+77,Río Chico,90,Tucumán,2025,18,Dengue,10,De 35 a 44 años,6
+77,Río Chico,90,Tucumán,2025,19,Dengue,10,De 35 a 44 años,6
+77,Río Chico,90,Tucumán,2025,20,Dengue,10,De 35 a 44 años,2
+77,Río Chico,90,Tucumán,2025,21,Dengue,10,De 35 a 44 años,7
+77,Río Chico,90,Tucumán,2025,1,Dengue,11,De 45 a 65 años,1
+77,Río Chico,90,Tucumán,2025,3,Dengue,11,De 45 a 65 años,3
+77,Río Chico,90,Tucumán,2025,4,Dengue,11,De 45 a 65 años,1
+77,Río Chico,90,Tucumán,2025,5,Dengue,11,De 45 a 65 años,1
+77,Río Chico,90,Tucumán,2025,6,Dengue,11,De 45 a 65 años,4
+77,Río Chico,90,Tucumán,2025,7,Dengue,11,De 45 a 65 años,8
+77,Río Chico,90,Tucumán,2025,8,Dengue,11,De 45 a 65 años,14
+77,Río Chico,90,Tucumán,2025,9,Dengue,11,De 45 a 65 años,10
+77,Río Chico,90,Tucumán,2025,10,Dengue,11,De 45 a 65 años,28
+77,Río Chico,90,Tucumán,2025,11,Dengue,11,De 45 a 65 años,57
+77,Río Chico,90,Tucumán,2025,12,Dengue,11,De 45 a 65 años,24
+77,Río Chico,90,Tucumán,2025,13,Dengue,11,De 45 a 65 años,38
+77,Río Chico,90,Tucumán,2025,14,Dengue,11,De 45 a 65 años,34
+77,Río Chico,90,Tucumán,2025,15,Dengue,11,De 45 a 65 años,7
+77,Río Chico,90,Tucumán,2025,16,Dengue,11,De 45 a 65 años,10
+77,Río Chico,90,Tucumán,2025,17,Dengue,11,De 45 a 65 años,18
+77,Río Chico,90,Tucumán,2025,18,Dengue,11,De 45 a 65 años,6
+77,Río Chico,90,Tucumán,2025,19,Dengue,11,De 45 a 65 años,4
+77,Río Chico,90,Tucumán,2025,20,Dengue,11,De 45 a 65 años,7
+77,Río Chico,90,Tucumán,2025,21,Dengue,11,De 45 a 65 años,9
+77,Río Chico,90,Tucumán,2025,22,Dengue,11,De 45 a 65 años,1
+77,Río Chico,90,Tucumán,2025,4,Dengue,12,Mayores de 65 años,1
+77,Río Chico,90,Tucumán,2025,6,Dengue,12,Mayores de 65 años,2
+77,Río Chico,90,Tucumán,2025,7,Dengue,12,Mayores de 65 años,1
+77,Río Chico,90,Tucumán,2025,8,Dengue,12,Mayores de 65 años,9
+77,Río Chico,90,Tucumán,2025,9,Dengue,12,Mayores de 65 años,8
+77,Río Chico,90,Tucumán,2025,10,Dengue,12,Mayores de 65 años,8
+77,Río Chico,90,Tucumán,2025,11,Dengue,12,Mayores de 65 años,34
+77,Río Chico,90,Tucumán,2025,12,Dengue,12,Mayores de 65 años,8
+77,Río Chico,90,Tucumán,2025,13,Dengue,12,Mayores de 65 años,12
+77,Río Chico,90,Tucumán,2025,14,Dengue,12,Mayores de 65 años,11
+77,Río Chico,90,Tucumán,2025,15,Dengue,12,Mayores de 65 años,9
+77,Río Chico,90,Tucumán,2025,16,Dengue,12,Mayores de 65 años,3
+77,Río Chico,90,Tucumán,2025,17,Dengue,12,Mayores de 65 años,1
+77,Río Chico,90,Tucumán,2025,18,Dengue,12,Mayores de 65 años,2
+77,Río Chico,90,Tucumán,2025,19,Dengue,12,Mayores de 65 años,3
+77,Río Chico,90,Tucumán,2025,20,Dengue,12,Mayores de 65 años,6
+77,Río Chico,90,Tucumán,2025,21,Dengue,12,Mayores de 65 años,2
+77,Río Chico,90,Tucumán,2025,25,Dengue,12,Mayores de 65 años,1
+77,Río Chico,90,Tucumán,2025,2,Dengue durante la gestación,9,De 25 a 34 años,1
+84,Capital,90,Tucumán,2025,11,Dengue,5,De 5 a 9 años,1
+84,Capital,90,Tucumán,2025,12,Dengue,7,De 15 a 19 años,1
+84,Capital,90,Tucumán,2025,13,Dengue,7,De 15 a 19 años,1
+84,Capital,90,Tucumán,2025,14,Dengue,9,De 25 a 34 años,1
+84,Capital,90,Tucumán,2025,16,Dengue,9,De 25 a 34 años,1
+84,Capital,90,Tucumán,2025,20,Dengue,9,De 25 a 34 años,1
+84,Capital,90,Tucumán,2025,22,Dengue,9,De 25 a 34 años,1
+84,Capital,90,Tucumán,2025,23,Dengue,9,De 25 a 34 años,1
+84,Capital,90,Tucumán,2025,11,Dengue,10,De 35 a 44 años,1
+84,Capital,90,Tucumán,2025,12,Dengue,10,De 35 a 44 años,1
+84,Capital,90,Tucumán,2025,13,Dengue,10,De 35 a 44 años,1
+84,Capital,90,Tucumán,2025,15,Dengue,10,De 35 a 44 años,1
+84,Capital,90,Tucumán,2025,13,Dengue,11,De 45 a 65 años,1
+84,Capital,90,Tucumán,2025,15,Dengue,11,De 45 a 65 años,1
+91,Simoca,90,Tucumán,2025,17,Dengue,6,De 10 a 14 años,1
+91,Simoca,90,Tucumán,2025,14,Dengue,7,De 15 a 19 años,1
+91,Simoca,90,Tucumán,2025,5,Dengue,8,De 20 a 24 años,1
+91,Simoca,90,Tucumán,2025,13,Dengue,8,De 20 a 24 años,1
+91,Simoca,90,Tucumán,2025,7,Dengue,9,De 25 a 34 años,1
+91,Simoca,90,Tucumán,2025,12,Dengue,9,De 25 a 34 años,3
+91,Simoca,90,Tucumán,2025,14,Dengue,9,De 25 a 34 años,1
+91,Simoca,90,Tucumán,2025,12,Dengue,10,De 35 a 44 años,1
+91,Simoca,90,Tucumán,2025,11,Dengue,11,De 45 a 65 años,1
+91,Simoca,90,Tucumán,2025,13,Dengue,11,De 45 a 65 años,2
+91,Simoca,90,Tucumán,2025,19,Dengue,11,De 45 a 65 años,1
+91,Simoca,90,Tucumán,2025,20,Dengue,12,Mayores de 65 años,1
+98,Tafí del Valle,90,Tucumán,2025,17,Dengue,9,De 25 a 34 años,1
+7,Río Grande,94,Tierra del Fuego,2025,21,Dengue,10,De 35 a 44 años,1
+14,Ushuaia,94,Tierra del Fuego,2025,19,Dengue,10,De 35 a 44 años,1
+999,desconocido,99,desconocida,2025,33,Dengue,9,De 25 a 34 años,1
+2,COMUNA 2,2,CABA,2025,32,Dengue,11,De 45 a 65 años,1
+252,Escobar,6,Buenos Aires,2025,35,Dengue,12,Mayores de 65 años,1
+840,Tres de Febrero,6,Buenos Aires,2025,31,Dengue,8,De 20 a 24 años,1
+35,Patiño,34,Formosa,2025,32,Dengue,11,De 45 a 65 años,1
+42,Pilagás,34,Formosa,2025,31,Dengue,10,De 35 a 44 años,1
+63,La Capital,82,Santa Fe,2025,42,Dengue,10,De 35 a 44 años,1
