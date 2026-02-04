@@ -95,5 +95,6 @@ No reemplaza sistemas oficiales de vigilancia epidemiológica.
 ## 👤 Autor
 **Alan Ruiz Diez**  
 Biólogo | Data Analyst Jr. / Data Scientist Jr.  
-[LinkedIn](https://www.linkedin.com/in/alan-ruiz-440804371/)
-[GitHub](https://github.com/alandruiz)
+
+- [LinkedIn](https://www.linkedin.com/in/alan-ruiz-440804371/)
+- [GitHub](https://github.com/alandruiz)
