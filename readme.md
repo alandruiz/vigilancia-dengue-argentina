@@ -1,249 +1,150 @@
-# **Vigilancia Epidemiológica del Dengue en Argentina**
-**Análisis de datos end-to-end: Python + SQL + Power BI**
+# 🦠 Vigilancia Epidemiológica del Dengue en Argentina  
+### Análisis de datos end-to-end: Python + SQL + Power BI
 
-## **Indice**
+---
 
-- [**Vigilancia Epidemiológica del Dengue en Argentina**](#vigilancia-epidemiológica-del-dengue-en-argentina)
-  - [**Indice**](#indice)
-  - [**Descripcion del proyecto**](#descripcion-del-proyecto)
-  - [**Objetivos**](#objetivos)
-  - [**Dataset**](#dataset)
-  - [**Metodologia**](#metodologia)
-  - [**Capa SQL para analisis estructurado**](#capa-sql-para-analisis-estructurado)
-  - [**Resultados principales**](#resultados-principales)
-  - [**Dashboard (Power BI)**](#dashboard-power-bi)
-  - [**Insights clave**](#insights-clave)
-  - [**Limitaciones**](#limitaciones)
-  - [**Valor agregado del proyecto**](#valor-agregado-del-proyecto)
-  - [**Tecnologias utilizadas**](#tecnologias-utilizadas)
-  - [**Proximos pasos**](#proximos-pasos)
-  - [**Dashboard**](#dashboard)
-    - [Overview](#overview)
-    - [Demografía](#demografía)
-    - [Factores ambientales](#factores-ambientales)
-    - [Insights](#insights)
-    - [*EDA temporal*](#eda-temporal)
-    - [*EDA espacial*](#eda-espacial)
-    - [*EDA demográfico*](#eda-demográfico)
-    - [*EDA ambiental*](#eda-ambiental)
-    - [*Modelos exploratorios*](#modelos-exploratorios)
-  - [**Autor**](#autor)
-
-## **Descripcion del proyecto**
+## 📌 Descripción
 
 Este proyecto desarrolla un análisis integral del dengue en Argentina, combinando datos epidemiológicos y variables climáticas para identificar patrones, relaciones y tendencias relevantes.
 
-El enfoque implementa un pipeline completo de datos (end-to-end) que abarca:
+Se implementa un pipeline completo de datos (**end-to-end**) que incluye:
 
-Limpieza y transformación de datos (Python)
-Modelado estructurado (SQLite)
-Visualización e interpretación (Power BI)
+- Limpieza y transformación de datos (Python)  
+- Modelado estructurado (SQLite)  
+- Visualización e interpretación (Power BI)  
 
-Se integran herramientas de Data Science con criterios epidemiológicos para generar insights aplicables a la salud pública.
+El enfoque integra herramientas de Data Science con criterios epidemiológicos para generar insights aplicables a la salud pública.
 
-## **Objetivos**
+---
 
-- Analizar la evolución temporal del dengue en Argentina
-- Identificar patrones espaciales a nivel provincial
-- Evaluar la relación entre variables climáticas e incidencia
-- Construir modelos predictivos
-- Diseñar un dashboard interactivo para análisis en BI
+## 🎯 Objetivos
 
-## **Dataset**
+- Analizar la evolución temporal del dengue en Argentina  
+- Identificar patrones espaciales a nivel provincial  
+- Evaluar la relación entre variables climáticas e incidencia  
+- Construir modelos predictivos  
+- Diseñar un dashboard interactivo para análisis en BI  
 
-- Fuente: Datos públicos de vigilancia epidemiológica y registros climáticos.
-- Cobertura: Múltiples años y semanas epidemiológicas.
-- Granularidad: Provincia, departamento, semana epidemiológica y grupo etario.
-- Variables clave:
-   - Casos confirmados
-   - Población
-   - Temperatura media
-   - Precipitación
-   - Humedad relativa
-   - Días de lluvia
+---
 
-Los datos fueron limpiados, transformados y estructurados para su uso analítico.
+## 🔄 Metodología
 
-## **Metodologia**
+**1. Procesamiento de datos (Python)**  
+- Limpieza y tratamiento de valores faltantes  
+- Transformación de variables  
+- Feature engineering (lags, métricas acumuladas, incidencia)
 
-1) **Limpieza y preprocesamiento (Python)**
+**2. Modelado de datos (SQLite)**  
+- Creación de vistas analíticas  
+- Uso de funciones de ventana (LAG)  
+- Estandarización de métricas epidemiológicas  
 
-- Tratamiento de valores faltantes
-- Normalización de variables
-- Transformación de fechas
+**3. Visualización (Power BI)**  
+- Desarrollo de dashboard interactivo  
+- Análisis exploratorio y descriptivo  
+- Identificación de patrones e insights  
 
-2) **Feature Engineering**
+---
 
-- Variables rezagadas (lags)
-- Transformaciones logarítmicas
-- Cálculo de incidencia (por 100.000 habitantes)
-- Métricas acumuladas
+## 📈 Resultados principales
 
-3) **Análisis Exploratorio (EDA)**
+- Fuerte variabilidad interanual con picos epidémicos marcados  
+- Diferencias significativas entre provincias  
+- Mayor concentración de casos en adultos (25–64 años)  
+- Correlación positiva moderada entre temperatura e incidencia (**r ≈ 0.45**)  
+- Baja correlación con humedad y precipitación  
 
-- Tendencias temporales
-- Distribución geográfica
-- Análisis por grupo etario
-- Relación clima–casos
+---
 
-4) **Modelado Predictivo**
+## 📊 Dashboard (Power BI)
 
-- Random Forest Regressor
-- Optimización de hiperparámetros
-- Evaluación de desempeño
+El dashboard se estructura en cuatro secciones:
 
-5) **Modelado de datos (SQLite)**
+- **Overview epidemiológico**  
+- **Análisis demográfico**  
+- **Factores ambientales**  
+- **Insights y conclusiones**  
 
-Se implementó una base de datos relacional con vistas analíticas para:
+### 🖼️ Visualizaciones
 
-- Estandarizar métricas epidemiológicas
-- Permitir consultas reproducibles
-- Separar lógica analítica del código Python
-- Integrar con herramientas BI
+#### Overview
+![Overview](images/overview.png)
 
-6) **Visualización (Power BI)**
+#### Demografía
+![Demografia](images/demografia.png)
 
-Se desarrolló un dashboard interactivo dividido en 4 páginas:
+#### Factores ambientales
+![Ambiental](images/ambiental.png)
 
-- Overview epidemiológico
-- Análisis demográfico
-- Factores ambientales
-- Insights y conclusiones
+#### Insights
+![Insights](images/insights.png)
 
-## **Capa SQL para analisis estructurado**
+---
 
-Las vistas fueron diseñadas para facilitar análisis en BI.
+## 🧠 Insights clave
 
-Incluyen:
+- El dengue presenta comportamiento epidémico con alta variabilidad  
+- La temperatura es el factor ambiental más relevante  
+- La incidencia se concentra en regiones cálidas  
+- Los adultos representan el grupo más afectado  
 
-- *Análisis temporal*
-  - Casos acumulados por año
-  - Variación interanual (LAG)
-  - Evolución semanal
-- Análisis espacial
-  - Casos por provincia
-  - Ranking de departamentos
-- Análisis demográfico
-  - Distribución por grupo etario
-  - Proporción de casos
+---
 
-*Nota: No se calcula incidencia por edad por falta de población desagregada.*
+## ⚠️ Limitaciones
 
-- *Incidencia epidemiológica*
+- Datos agregados (no implican causalidad)  
+- Falta de variables socioeconómicas  
+- Posible incompletitud en años recientes  
+- No se dispone de población por grupo etario  
 
-Incidencia = Población / Casos​ × 100.000
+---
 
-Se utiliza MAX(población) para evitar duplicaciones.
-
-- Integración clima–salud
-  - Promedios climáticos
-  - Relación con incidencia
-  - Datos preparados para análisis multivariable
-
-## **Resultados principales**
-
-- Fuerte variabilidad interanual, con picos epidémicos marcados
-- Diferencias significativas entre provincias
-- Mayor concentración de casos en adultos (25–64 años)
-- Correlación positiva moderada entre temperatura e incidencia (r ≈ 0.45)
-- Baja correlación con humedad y precipitación
-
-## **Dashboard (Power BI)**
-
-El dashboard permite explorar:
-
-- Evolución temporal de casos
-- Distribución geográfica
-- Análisis demográfico
-- Relación entre variables climáticas
-
-## **Insights clave**
-
-- El dengue presenta comportamiento epidémico con fuerte variabilidad
-- La temperatura es el factor ambiental más relevante
-- La incidencia se concentra en regiones cálidas
-- Los adultos representan el grupo más afectado
-
-## **Limitaciones**
-
-- Datos agregados (no implican causalidad)
-- Falta de variables socioeconómicas
-- Posible incompletitud en años recientes
-- No se incluye población por grupo etario
-
-## **Valor agregado del proyecto**
+## 💡 Valor del proyecto
 
 Este proyecto demuestra:
 
-- Pipeline end-to-end de datos
-- Integración Python + SQL + Power BI
-- Aplicación de conceptos epidemiológicos
-- Uso de funciones de ventana en SQL
-- Construcción de dashboards analíticos
-- Enfoque científico en Data Science
+- Pipeline de datos end-to-end  
+- Integración Python + SQL + Power BI  
+- Aplicación de conceptos epidemiológicos  
+- Modelado de datos para BI  
+- Generación de insights accionables  
 
-## **Tecnologias utilizadas**
+---
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib / Seaborn
-- Scikit-learn
-- SQLite
-- Power BI
-- Jupyter Notebook
+## 🛠️ Tecnologías utilizadas
 
-## **Proximos pasos**
+- Python (Pandas, NumPy)  
+- Matplotlib / Seaborn  
+- Scikit-learn  
+- SQLite  
+- Power BI  
+- Jupyter Notebook  
 
-- Incorporar población por grupo etario
-- Modelos de series temporales (ARIMA / Prophet)
-- Modelos predictivos más avanzados
-- Automatización del pipeline
-- Deploy del dashboard
+---
 
-## **Dashboard**
+## 📁 Estructura del repositorio
 
-### Overview
-![Overview](images/overview.png)
+- data/ *datos crudos y procesados*
+- notebooks/ *análisis exploratorio y modelado*
+- sql/ *vistas analíticas en SQLite*
+- dashboard/ *archivos Power BI*
+- images/ *capturas del dashboard*
 
-### Demografía
-![Demografia](images/demografia.png)
+---
 
-### Factores ambientales
-![Ambiental](images/ambiental.png)
+## 🚀 Próximos pasos
 
-### Insights
-![Insights](images/insights.png)
+- Incorporar población por grupo etario  
+- Implementar modelos de series temporales  
+- Automatizar el pipeline de datos  
+- Desplegar dashboard  
 
-### *EDA temporal*
-![EDA](images/eda/temporal/cant-casos-año.png)
-![EDA](images/eda/temporal/comparación-2023-2024.png)
-![EDA](images/eda/temporal/comportamiento-temporal.png)
-![EDA](images/eda/temporal/se-comprometidas.png)
+---
 
-### *EDA espacial*
-![EDA](images/eda/espacial/casos-provincias.png)
-![EDA](images/eda/espacial/comparación-incidencia.png)
-![EDA](images/eda/espacial/eventos-epidemicos-outliers.png)
-![EDA](images/eda/espacial/incidencia-provincial.png)
+## 👤 Autor
 
-### *EDA demográfico*
-![EDA](images/eda/demografico/incidencia-grupos-etarios.png)
-
-### *EDA ambiental*
-![EDA](images/eda/ambiental/correlación-ambiental.png)
-![EDA](images/eda/ambiental/heatmap-ambiental.png)
-
-### *Modelos exploratorios*
-![EDA](images/modelos-exploratorios/modelo-random-forest.png)
-![EDA](images/modelos-exploratorios/modelo-rf-tunning.png)
-
-## **Autor**
 **Alan Ruiz Diez**  
 Biólogo | Data Analyst Jr. / Data Scientist Jr.  
-[LinkedIn]  
-[GitHub]
 
-
-
-
+- LinkedIn: (https://www.linkedin.com/in/alan-ruiz-440804371/)  
+- GitHub: (https://github.com/alandruiz/vigilancia-dengue-argentina.git)
