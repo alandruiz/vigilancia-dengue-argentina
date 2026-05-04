@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="dengue.db" readonly="0" foreign_keys="1" case_sensitive_like="0" temp_store="0" wal_autocheckpoint="1000" synchronous="2"/><attached/><window><main_tabs open="structure pragmas browser query" current="3"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="100"/><column_width id="3" width="4129"/><column_width id="4" width="0"/><expanded_item id="0" parent="1"/><expanded_item id="1" parent="1"/><expanded_item id="2" parent="1"/><expanded_item id="3" parent="1"/></tab_structure><tab_browse><table title="vig_dengue" custom_title="0" dock_id="1" table="4,10:mainvig_dengue"/><dock_state state="000000ff00000000fd000000010000000200000834000004e0fc0100000001fb000000160064006f0063006b00420072006f00770073006500310100000000000008340000012800ffffff000008340000000000000004000000040000000800000008fc00000000"/><default_encoding codec=""/><browse_table_settings><table schema="main" name="vig_dengue" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort><column index="0" mode="1"/></sort><column_widths><column index="1" value="66"/><column index="2" value="297"/><column index="3" value="66"/><column index="4" value="197"/><column index="5" value="124"/><column index="6" value="47"/><column index="7" value="39"/><column index="8" value="197"/><column index="9" value="197"/><column index="10" value="96"/><column index="11" value="103"/><column index="12" value="69"/><column index="13" value="108"/><column index="14" value="67"/><column index="15" value="114"/><column index="16" value="167"/><column index="17" value="91"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table></browse_table_settings></tab_browse><tab_sql><sql name="Cantidad de casos acumulados por año*">-- ============================
+-- Casos acumulados por año
+-- ============================
+DROP VIEW IF EXISTS vista_casos_por_anio;
+CREATE VIEW vista_casos_por_anio AS
+SELECT año,
+       SUM(cant_casos) AS casos_acumulados
+FROM vig_dengue
+GROUP BY año
+ORDER BY año;
+
+-- ============================
+-- Casos acumulados por provincia
+-- ============================
+DROP VIEW IF EXISTS vista_casos_por_provincia;
+CREATE VIEW vista_casos_por_provincia AS
+SELECT provincia,
+       SUM(cant_casos) AS casos_acumulados
+FROM vig_dengue
+GROUP BY provincia
+ORDER BY casos_acumulados DESC;
+
+-- ============================
+-- Top 10 departamentos con más casos
+-- ============================
+DROP VIEW IF EXISTS vista_top_departamentos;
+CREATE VIEW vista_top_departamentos AS
+SELECT departamento,
+       SUM(cant_casos) AS casos_acumulados
+FROM vig_dengue
+GROUP BY departamento
+ORDER BY casos_acumulados DESC
+LIMIT 10;
+
+-- ============================
+-- Casos acumulados por grupo de edad
+-- ============================
+DROP VIEW IF EXISTS vista_casos_por_grupo_edad;
+CREATE VIEW vista_casos_por_grupo_edad AS
+SELECT grupo_edad,
+       SUM(cant_casos) AS casos_acumulados
+FROM vig_dengue
+GROUP BY grupo_edad
+ORDER BY casos_acumulados;
+
+-- ============================
+-- Proporción acumulada por grupos etarios
+-- ============================
+DROP VIEW IF EXISTS vista_proporcion_casos_grupo_edad;
+CREATE VIEW vista_proporcion_casos_grupo_edad AS
+SELECT
+    grupo_edad,
+    SUM(cant_casos) AS casos_acumulados,
+    SUM(cant_casos) * 100.0 /
+			(SELECT SUM(cant_casos) FROM vig_dengue) AS proporcion
+FROM vig_dengue
+GROUP BY grupo_edad
+ORDER BY casos_acumulados DESC;
+
+-- ============================
+-- Casos acumulados por provincia y por temperatura media
+-- ============================
+DROP VIEW IF EXISTS vista_clima_casos;
+CREATE VIEW vista_clima_casos AS
+SELECT 
+    provincia,
+    año,
+    SE,
+    AVG(temp_media) AS temp_media_prom,
+    AVG(precip_media) AS precip_media_prom,
+    AVG(hum_rel) AS hum_rel_prom,
+    SUM(cant_casos) AS casos_acumulados
+FROM vig_dengue
+GROUP BY provincia, año, SE
+ORDER BY provincia, año, SE;
+
+
+
+-- ============================
+-- Incidencia acumulada por provincia
+-- ============================
+DROP VIEW IF EXISTS vista_incidencia_por_provincia;
+CREATE VIEW vista_incidencia_por_provincia AS
+SELECT 
+    provincia,
+    SUM(cant_casos) AS casos_acumulados,
+    MAX(cant_habitantes) AS poblacion_provincial,
+    (SUM(cant_casos) * 100000.0 / NULLIF(MAX(cant_habitantes), 0)) AS incidencia_acum
+FROM vig_dengue
+GROUP BY provincia
+ORDER BY incidencia_acum DESC;
+
+-- ============================
+-- Incidencia acumulada por semana epidemiológica y provincia
+-- ============================
+DROP VIEW IF EXISTS vista_incidencia_por_SE_provincia;
+CREATE VIEW vista_incidencia_por_SE_provincia AS
+SELECT 
+    SE,
+    provincia,
+    SUM(cant_casos) AS casos_acumulados,
+    MAX(cant_habitantes) AS poblacion_provincial,
+    (SUM(cant_casos) * 100000.0 / NULLIF(MAX(cant_habitantes), 0)) AS incidencia_acum
+FROM vig_dengue
+GROUP BY SE, provincia
+ORDER BY provincia, SE;
+
+-- ============================
+-- Incidencia acumulada para las distintas variables climáticas
+-- ============================
+DROP VIEW IF EXISTS vista_incidencia_por_var_clim;
+CREATE VIEW vista_incidencia_por_var_clim AS
+SELECT 
+    SE,
+    provincia,
+    AVG(temp_media) AS temp_media_prom,
+    AVG(precip_media) AS precip_media_prom,
+    AVG(hum_rel) AS hum_rel_prom,
+    AVG(dias_pp_mas_1mm) AS dias_pp_mas_1mm_prom,
+    SUM(cant_casos) AS casos_acumulados,
+    MAX(cant_habitantes) AS poblacion_provincial,
+    (SUM(cant_casos) * 100000.0 / NULLIF(MAX(cant_habitantes), 0)) AS incidencia_acum
+FROM vig_dengue
+GROUP BY SE, provincia
+ORDER BY incidencia_acum DESC;
+
+-- ============================
+-- Estadísticas descriptivas
+-- ============================
+DROP VIEW IF EXISTS vista_estadisticas;
+CREATE VIEW vista_estadisticas AS
+SELECT 
+  MIN(cant_casos) AS min_casos,
+  MAX(cant_casos) AS max_casos,
+  AVG(cant_casos) AS promedio_casos,
+  COUNT(*) AS registros
+FROM vig_dengue;
+
+-- ============================
+-- Tendencia temporal anual
+-- ============================
+DROP VIEW IF EXISTS vista_variacion_anual;
+CREATE VIEW vista_variacion_anual AS
+WITH casos_anuales AS (
+    SELECT 
+        año,
+        SUM(cant_casos) AS casos_acumulados
+    FROM vig_dengue
+    GROUP BY año
+)
+SELECT
+    año,
+    casos_acumulados,
+    LAG(casos_acumulados) OVER (ORDER BY año) AS casos_previos,
+    casos_acumulados - LAG(casos_acumulados) OVER (ORDER BY año) AS variacion
+FROM casos_anuales
+ORDER BY año;
+
+-- ============================
+-- Tendencia temporal anual
+-- ============================
+DROP VIEW IF EXISTS vista_variacion_semanal;
+CREATE VIEW vista_variacion_semanal AS
+WITH casos_semanales AS (
+    SELECT 
+        año,
+        SE,
+        provincia,
+        SUM(cant_casos) AS casos_acumulados
+    FROM vig_dengue
+    GROUP BY año, SE, provincia
+)
+SELECT 
+    año,
+    SE,
+    provincia,
+    casos_acumulados,
+    LAG(casos_acumulados) OVER (
+        PARTITION BY provincia, año 
+        ORDER BY SE
+    ) AS casos_previos,
+    casos_acumulados - LAG(casos_acumulados) OVER (
+        PARTITION BY provincia, año 
+        ORDER BY SE
+    ) AS variacion
+FROM casos_semanales
+ORDER BY provincia, año, SE;
+
+-- ============================
+-- Listado de vistas para análisis exploratorio de datos
+-- ============================
+SELECT name FROM sqlite_master WHERE type='view';
+</sql><sql name="SQL 4">SELECT * FROM vista_clima_casos;</sql><current_tab id="0"/></tab_sql></sqlb_project>
