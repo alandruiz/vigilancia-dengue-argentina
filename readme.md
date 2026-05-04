@@ -241,8 +241,8 @@ Este proyecto demuestra:
 ## **Autor**
 **Alan Ruiz Diez**  
 Biólogo | Data Analyst Jr. / Data Scientist Jr.  
-[LinkedIn]  
-[GitHub]
+[https://www.linkedin.com/in/alan-ruiz-440804371/]  
+[https://github.com/alandruiz/vigilancia-dengue-argentina.git]
 
 
 
