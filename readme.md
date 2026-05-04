@@ -17,6 +17,16 @@
   - [**Valor agregado del proyecto**](#valor-agregado-del-proyecto)
   - [**Tecnologias utilizadas**](#tecnologias-utilizadas)
   - [**Proximos pasos**](#proximos-pasos)
+  - [**Dashboard**](#dashboard)
+    - [Overview](#overview)
+    - [Demografía](#demografía)
+    - [Factores ambientales](#factores-ambientales)
+    - [Insights](#insights)
+    - [*EDA temporal*](#eda-temporal)
+    - [*EDA espacial*](#eda-espacial)
+    - [*EDA demográfico*](#eda-demográfico)
+    - [*EDA ambiental*](#eda-ambiental)
+    - [*Modelos exploratorios*](#modelos-exploratorios)
   - [**Autor**](#autor)
 
 ## **Descripcion del proyecto**
@@ -191,6 +201,42 @@ Este proyecto demuestra:
 - Automatización del pipeline
 - Deploy del dashboard
 
+## **Dashboard**
+
+### Overview
+![Overview](images/overview.png)
+
+### Demografía
+![Demografia](images/demografia.png)
+
+### Factores ambientales
+![Ambiental](images/ambiental.png)
+
+### Insights
+![Insights](images/insights.png)
+
+### *EDA temporal*
+![EDA](images/eda/temporal/cant-casos-año.png)
+![EDA](images/eda/temporal/comparación-2023-2024.png)
+![EDA](images/eda/temporal/comportamiento-temporal.png)
+![EDA](images/eda/temporal/se-comprometidas.png)
+
+### *EDA espacial*
+![EDA](images/eda/espacial/casos-provincias.png)
+![EDA](images/eda/espacial/comparación-incidencia.png)
+![EDA](images/eda/espacial/eventos-epidemicos-outliers.png)
+![EDA](images/eda/espacial/incidencia-provincial.png)
+
+### *EDA demográfico*
+![EDA](images/eda/demografico/incidencia-grupos-etarios.png)
+
+### *EDA ambiental*
+![EDA](images/eda/ambiental/correlación-ambiental.png)
+![EDA](images/eda/ambiental/heatmap-ambiental.png)
+
+### *Modelos exploratorios*
+![EDA](images/modelos-exploratorios/modelo-random-forest.png)
+![EDA](images/modelos-exploratorios/modelo-rf-tunning.png)
 
 ## **Autor**
 **Alan Ruiz Diez**  
