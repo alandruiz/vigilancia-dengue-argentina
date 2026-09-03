@@ -146,5 +146,5 @@ Este proyecto demuestra:
 **Alan Ruiz Diez**  
 Biólogo | Data Analyst Jr. / Data Scientist Jr.  
 
-- LinkedIn: (https://www.linkedin.com/in/alan-ruiz-440804371/)  
+- LinkedIn: (https://www.linkedin.com/in/alandruiz/)  
 - GitHub: (https://github.com/alandruiz/vigilancia-dengue-argentina.git)
