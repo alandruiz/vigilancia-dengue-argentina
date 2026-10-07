@@ -1,0 +1,25 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Sistema operativo y editores
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Temporales
+*.tmp
+*.log
+~$*
+
+# Datos del SMN (94 MB): se descargan a mano, ver data/raw/clima/LEEME.md
+data/raw/clima/*
+!data/raw/clima/LEEME.md
+!data/raw/clima/estaciones_meteorologicas_2021-2026.xlsx
